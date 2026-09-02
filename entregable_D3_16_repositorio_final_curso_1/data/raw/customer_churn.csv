@@ -1,0 +1,1001 @@
+﻿customer_id,gender,age,region,customer_segment,contract_type,tenure_months,monthly_fee,total_spent,internet_service,tv_service,streaming_service,support_calls,complaints,payment_method,last_payment_delay,digital_usage_score,marketing_score,preferred_contact_hour,internal_campaign_code,churn
+NT-000001,Masculino,28.0,Lima,Masivo,Anual,40,114.04,3812.5,Fibra,Sí,No,0,1,Transferencia,2,90.4,69.5,20,CMP-D,0
+NT-000002,Femenino,50.0,Norte,Masivo,Anual,12,115.97,1468.32,Fibra,No,Sí,1,1,Transferencia,1,63.7,64.2,17,CMP-D,0
+NT-000003,Masculino,38.0,Lima,Joven digital,Mensual,32,114.42,3128.82,Fibra,Sí,No,2,0,Tarjeta,5,94.5,63.1,10,CMP-D,1
+NT-000004,Masculino,34.0,Norte,Joven digital,Anual,54,41.89,2037.76,Sin internet,No,No,1,1,Tarjeta,5,33.3,53.0,12,CMP-C,0
+NT-000005,Femenino,37.0,Lima,Joven digital,Bianual,9,91.54,790.1,Fibra,No,No,2,1,Tarjeta,2,73.8,85.7,12,CMP-B,0
+NT-000006,Masculino,41.0,Lima,Familia,Mensual,13,84.34,1062.65,Fibra,No,No,0,0,Débito automático,10,70.5,49.0,19,CMP-A,0
+NT-000007,Masculino,46.0,Norte,Masivo,Mensual,41,90.04,3096.62,Fibra,No,No,1,0,Efectivo,1,78.9,79.0,14,CMP-C,0
+NT-000008,Masculino,25.0,Lima,Masivo,Mensual,42,82.11,3061.5,,No,No,4,2,Transferencia,8,88.1,76.3,19,CMP-B,1
+NT-000009,Femenino,24.0,Centro,Masivo,Mensual,69,86.39,4985.38,Fibra,No,No,1,0,Transferencia,16,55.6,57.1,16,CMP-A,0
+NT-000010,Femenino,52.0,Lima,Masivo,Anual,33,90.8,,DSL,No,Sí,2,0,Transferencia,11,71.9,76.9,12,CMP-D,0
+NT-000011,Femenino,33.0,Lima,Joven digital,Mensual,34,110.94,3858.1,Fibra,No,Sí,1,0,Efectivo,9,98.4,67.7,13,CMP-B,0
+NT-000012,Masculino,20.0,Lima,Familia,Anual,16,114.58,1566.49,DSL,Sí,No,1,0,Transferencia,1,97.2,,18,CMP-C,0
+NT-000013,Masculino,44.0,Norte,Familia,Mensual,70,81.89,5787.88,Fibra,No,No,2,1,Tarjeta,9,82.6,52.7,14,CMP-D,0
+NT-000014,Masculino,44.0,Lima,Joven digital,Mensual,73,92.87,6814.46,Fibra,No,No,3,0,Débito automático,3,73.1,73.7,16,CMP-B,1
+NT-000015,Femenino,18.0,Sur,Masivo,Mensual,30,99.19,2659.87,Fibra,No,Sí,2,1,Débito automático,7,52.9,69.4,9,CMP-D,1
+NT-000016,Femenino,41.0,Lima,Masivo,Bianual,18,123.51,1781.26,Fibra,Sí,Sí,0,0,Tarjeta,1,99.4,78.0,13,CMP-C,0
+NT-000017,Masculino,48.0,Norte,Masivo,Anual,30,90.88,2358.37,Fibra,No,No,1,1,Tarjeta,4,83.1,66.9,15,CMP-C,1
+NT-000018,Femenino,43.0,Norte,Masivo,Mensual,32,116.6,3351.86,Fibra,Sí,No,0,0,Tarjeta,4,71.7,62.4,12,CMP-B,0
+NT-000019,Masculino,46.0,Lima,Familia,Anual,17,85.95,1531.16,DSL,No,Sí,2,0,Tarjeta,12,37.7,59.6,19,CMP-D,0
+NT-000020,Masculino,20.0,Norte,Joven digital,Mensual,19,103.28,1828.33,DSL,Sí,Sí,1,0,Tarjeta,1,56.0,39.4,10,CMP-A,0
+NT-000021,Masculino,42.0,Lima,Masivo,Mensual,73,38.13,2420.31,,No,No,3,1,Efectivo,9,71.5,65.7,19,CMP-C,1
+NT-000022,Femenino,34.0,Lima,Masivo,Mensual,45,99.39,4250.49,Fibra,No,Sí,1,1,Débito automático,5,77.3,72.7,8,CMP-D,0
+NT-000023,Masculino,32.0,Lima,Masivo,Bianual,26,81.13,1791.55,DSL,Sí,No,2,1,Transferencia,8,32.8,63.8,13,CMP-A,0
+NT-000024,Masculino,49.0,Sur,Premium,Anual,14,136.56,1865.96,DSL,Sí,Sí,1,0,Tarjeta,3,71.5,92.9,14,CMP-B,0
+NT-000025,Masculino,57.0,Oriente,Masivo,Anual,19,127.66,2114.01,Fibra,Sí,Sí,1,0,Efectivo,6,48.5,52.7,11,CMP-C,0
+NT-000026,Femenino,61.0,Lima,Masivo,Mensual,8,117.03,825.5,Fibra,No,Sí,1,0,Transferencia,3,92.3,60.0,15,CMP-B,0
+NT-000027,Femenino,55.0,,Masivo,Mensual,37,109.89,3928.84,Fibra,No,Sí,6,2,Efectivo,5,75.1,67.2,19,CMP-A,1
+NT-000028,Femenino,37.0,Centro,Familia,Anual,19,69.73,1407.7,DSL,No,No,1,0,Débito automático,22,55.0,70.1,13,CMP-B,1
+NT-000029,Femenino,43.0,Lima,Joven digital,Mensual,40,111.51,4878.99,Fibra,Sí,Sí,1,0,Transferencia,15,94.9,44.4,15,CMP-B,0
+NT-000030,Masculino,48.0,Sur,Joven digital,Bianual,52,116.86,5269.79,Fibra,No,Sí,0,1,Débito automático,20,85.3,80.2,20,CMP-D,0
+NT-000031,Masculino,40.0,Centro,Masivo,Anual,40,35.74,1284.12,Sin internet,No,No,1,2,Débito automático,3,81.9,75.0,20,CMP-D,0
+NT-000032,Masculino,,Oriente,Masivo,Mensual,24,115.72,2710.87,Fibra,Sí,No,0,0,Transferencia,5,73.2,37.6,8,CMP-A,0
+NT-000033,Femenino,49.0,Oriente,Familia,Anual,16,53.85,880.4,Sin internet,No,No,0,0,Tarjeta,6,64.1,67.0,17,CMP-B,0
+NT-000034,Femenino,37.0,Lima,Masivo,Bianual,12,103.31,977.54,DSL,Sí,Sí,1,0,Tarjeta,16,57.7,56.9,19,CMP-A,0
+NT-000035,Femenino,29.0,Norte,Masivo,Mensual,68,77.79,5004.68,DSL,Sí,No,1,0,Efectivo,21,65.9,58.0,20,CMP-D,0
+NT-000036,Femenino,33.0,Norte,Joven digital,Anual,39,104.85,3704.36,DSL,Sí,Sí,1,0,Tarjeta,5,95.5,56.8,18,CMP-B,1
+NT-000037,Femenino,46.0,Lima,Masivo,Bianual,25,130.14,2620.1,Fibra,Sí,Sí,0,0,Transferencia,2,64.5,74.0,9,CMP-D,0
+NT-000038,Femenino,38.0,Lima,Masivo,Mensual,48,102.16,4150.47,DSL,Sí,Sí,3,1,Tarjeta,1,71.7,87.8,17,CMP-A,0
+NT-000039,Femenino,42.0,Oriente,Familia,Bianual,62,81.92,4572.44,,Sí,No,1,0,Débito automático,2,48.8,69.2,18,CMP-C,0
+NT-000040,Masculino,47.0,Lima,Joven digital,Mensual,19,92.07,1651.57,DSL,Sí,No,3,0,Tarjeta,10,39.0,30.9,14,CMP-A,1
+NT-000041,Femenino,33.0,Norte,Masivo,Anual,38,116.48,4473.01,Fibra,No,Sí,0,0,Débito automático,10,75.1,74.2,8,CMP-C,0
+NT-000042,Masculino,48.0,Sur,Masivo,Anual,39,108.88,4096.87,Fibra,No,Sí,3,1,Transferencia,2,77.6,68.4,10,CMP-A,0
+NT-000043,Masculino,43.0,Lima,Familia,Anual,78,112.11,8799.91,Fibra,Sí,Sí,3,1,Efectivo,5,70.3,55.3,11,CMP-A,0
+NT-000044,Femenino,22.0,Norte,Masivo,Mensual,25,116.11,2734.02,Fibra,No,Sí,1,1,Tarjeta,9,49.6,65.5,19,CMP-A,1
+NT-000045,Masculino,57.0,Oriente,Masivo,Anual,16,83.09,1184.07,DSL,No,Sí,3,0,Débito automático,2,66.6,80.4,9,CMP-C,0
+NT-000046,Masculino,31.0,Norte,Joven digital,Mensual,41,106.93,4064.69,DSL,Sí,Sí,0,0,Transferencia,4,74.0,56.6,17,CMP-C,0
+NT-000047,Femenino,18.0,Lima,Joven digital,Mensual,51,88.36,4455.38,DSL,Sí,No,2,1,Tarjeta,2,56.7,40.8,10,CMP-C,0
+NT-000048,Femenino,24.0,Lima,Premium,Mensual,36,123.0,4482.37,DSL,Sí,Sí,3,1,Tarjeta,3,41.7,33.4,18,CMP-A,0
+NT-000049,Masculino,25.0,Oriente,Masivo,Anual,81,94.73,7133.32,Fibra,No,No,0,0,Débito automático,5,68.2,60.6,8,CMP-B,0
+NT-000050,Femenino,39.0,Lima,Masivo,Mensual,25,131.63,2879.28,Fibra,Sí,Sí,1,0,Transferencia,6,81.8,64.7,11,CMP-B,0
+NT-000051,Femenino,34.0,Norte,Joven digital,Mensual,36,132.73,4603.85,Fibra,Sí,Sí,3,1,Débito automático,2,86.2,60.8,9,CMP-D,0
+NT-000052,Femenino,34.0,Lima,Joven digital,Bianual,10,113.06,1100.59,Fibra,No,Sí,0,1,Tarjeta,9,66.8,60.1,15,CMP-C,0
+NT-000053,Masculino,46.0,Lima,Masivo,Mensual,15,76.21,1173.2,,No,No,0,0,Efectivo,20,74.1,,18,CMP-A,0
+NT-000054,Masculino,42.0,Oriente,Joven digital,Mensual,19,138.49,2348.41,Fibra,Sí,Sí,0,0,Efectivo,14,93.3,74.8,13,CMP-A,1
+NT-000055,Masculino,42.0,Norte,Masivo,Mensual,28,115.7,2893.79,Fibra,No,Sí,0,0,Transferencia,3,54.4,64.4,14,CMP-B,0
+NT-000056,Masculino,43.0,Oriente,Familia,Mensual,11,76.17,831.95,DSL,Sí,No,1,1,Transferencia,11,62.9,73.9,16,CMP-A,0
+NT-000057,Femenino,46.0,Lima,Familia,Anual,47,86.91,,Fibra,No,No,1,0,Efectivo,3,92.1,65.0,13,CMP-B,0
+NT-000058,Masculino,18.0,Norte,Masivo,Mensual,18,96.08,1571.23,Fibra,No,No,0,0,Transferencia,2,52.9,47.3,17,CMP-D,1
+NT-000059,Femenino,33.0,Sur,Premium,Mensual,115,153.12,18098.14,Fibra,No,Sí,0,1,Transferencia,6,89.3,61.3,11,CMP-A,0
+NT-000060,Femenino,18.0,Norte,Premium,Bianual,18,135.61,2060.26,DSL,Sí,Sí,3,0,Débito automático,8,86.3,64.8,10,CMP-C,1
+NT-000061,Masculino,,Lima,Masivo,Anual,34,94.43,3480.1,DSL,Sí,No,2,2,Tarjeta,3,58.7,40.9,10,CMP-B,1
+NT-000062,Femenino,38.0,Sur,Masivo,Anual,31,77.87,2165.61,Fibra,No,No,0,0,Transferencia,1,66.9,61.9,10,CMP-C,0
+NT-000063,Masculino,52.0,Lima,Joven digital,Bianual,14,99.62,1395.62,Fibra,Sí,No,0,1,Transferencia,5,95.5,88.6,8,CMP-C,0
+NT-000064,Masculino,53.0,,Masivo,Bianual,28,35.0,913.74,,No,No,0,1,Tarjeta,6,59.2,78.1,8,CMP-C,0
+NT-000065,Masculino,41.0,Oriente,Masivo,Mensual,28,96.92,2602.48,DSL,Sí,Sí,4,1,Transferencia,0,26.7,63.6,8,CMP-B,0
+NT-000066,Masculino,31.0,Lima,Masivo,Anual,57,100.57,5283.09,DSL,Sí,No,1,0,Transferencia,7,60.5,69.6,10,CMP-D,0
+NT-000067,Masculino,44.0,Lima,Premium,Anual,42,162.52,6825.57,Fibra,Sí,No,1,0,Tarjeta,6,,90.1,16,CMP-B,0
+NT-000068,Femenino,31.0,Lima,Masivo,Mensual,47,107.11,4609.73,DSL,Sí,Sí,1,2,Transferencia,10,73.1,51.4,11,CMP-A,0
+NT-000069,Femenino,38.0,Lima,Familia,Mensual,56,36.25,1826.78,Sin internet,No,No,3,0,Tarjeta,1,48.8,48.2,15,CMP-A,0
+NT-000070,Femenino,51.0,Lima,Masivo,Mensual,47,107.01,5366.11,Fibra,Sí,No,1,0,Transferencia,3,68.0,78.9,8,CMP-A,0
+NT-000071,Femenino,31.0,Centro,Masivo,Anual,38,94.26,3374.33,DSL,No,Sí,3,0,Efectivo,2,76.7,71.2,18,CMP-B,0
+NT-000072,Femenino,48.0,Lima,Familia,Anual,19,97.93,1661.02,Fibra,No,Sí,2,1,Transferencia,2,71.1,61.1,12,CMP-D,0
+NT-000073,Masculino,47.0,Centro,Masivo,Anual,36,66.85,2011.15,DSL,No,No,1,2,Efectivo,4,39.1,71.2,13,CMP-A,1
+NT-000074,Femenino,26.0,Lima,Masivo,Mensual,16,124.91,2139.64,Fibra,No,Sí,3,3,Transferencia,10,,62.6,16,CMP-A,1
+NT-000075,Femenino,51.0,Lima,Masivo,Mensual,30,102.59,2774.13,Fibra,No,Sí,0,0,Débito automático,23,68.8,53.5,20,CMP-C,0
+NT-000076,Femenino,47.0,Lima,Familia,Mensual,27,35.26,1032.3,Sin internet,No,No,1,0,Transferencia,14,78.4,54.9,18,CMP-C,1
+NT-000077,Femenino,39.0,,Masivo,Anual,28,105.12,2848.94,DSL,Sí,Sí,3,1,Débito automático,2,41.1,68.6,13,CMP-C,0
+NT-000078,Masculino,28.0,Norte,Masivo,Bianual,11,96.55,1008.95,Fibra,No,No,0,0,Débito automático,2,70.2,72.3,12,CMP-A,1
+NT-000079,Masculino,27.0,Lima,Masivo,Bianual,2,36.37,69.24,Sin internet,No,No,1,1,Débito automático,1,69.6,89.2,12,CMP-A,1
+NT-000080,Masculino,31.0,Sur,Masivo,Bianual,23,127.69,3216.21,Fibra,Sí,Sí,0,0,Débito automático,4,70.7,66.0,9,CMP-B,0
+NT-000081,Masculino,45.0,Norte,Masivo,Bianual,65,99.47,5085.44,Fibra,No,No,0,0,Débito automático,0,54.3,62.8,12,CMP-C,0
+NT-000082,Femenino,26.0,Lima,Joven digital,Bianual,34,104.65,3398.0,,Sí,No,1,1,Débito automático,3,34.2,81.9,17,CMP-C,0
+NT-000083,Masculino,44.0,Sur,Masivo,Mensual,62,110.86,,Fibra,No,Sí,3,0,Débito automático,2,94.8,81.9,11,CMP-D,0
+NT-000084,Femenino,22.0,,Masivo,Mensual,16,108.63,,Fibra,Sí,No,0,1,Tarjeta,3,75.7,,13,CMP-C,1
+NT-000085,Femenino,35.0,Lima,Joven digital,Mensual,23,218.56,1874.53,DSL,No,No,14,0,Débito automático,75,87.5,47.5,8,CMP-B,0
+NT-000086,Femenino,39.0,Norte,Familia,Mensual,119,104.06,11409.36,Fibra,Sí,No,1,1,Tarjeta,5,85.9,56.9,11,CMP-C,0
+NT-000087,Masculino,70.0,Lima,Masivo,Mensual,17,82.08,1330.01,Fibra,No,No,0,2,Efectivo,4,81.0,52.9,8,CMP-B,0
+NT-000088,Femenino,20.0,,Masivo,Mensual,46,129.25,5578.96,Fibra,Sí,Sí,1,0,Tarjeta,3,,64.6,14,CMP-A,1
+NT-000089,Femenino,57.0,Centro,Masivo,Bianual,46,99.69,3888.94,DSL,No,Sí,2,0,Transferencia,5,69.3,62.9,11,CMP-C,0
+NT-000090,Masculino,40.0,Lima,Premium,Mensual,43,165.25,6869.1,Fibra,Sí,Sí,1,1,Tarjeta,3,93.5,89.7,20,CMP-B,0
+NT-000091,Femenino,43.0,Sur,Masivo,Bianual,47,111.13,5171.53,Fibra,No,Sí,0,0,Transferencia,4,73.2,49.7,15,CMP-B,0
+NT-000092,Masculino,40.0,Oriente,Masivo,Anual,17,73.96,1134.17,DSL,Sí,No,1,1,Transferencia,2,90.5,58.2,12,CMP-C,0
+NT-000093,Femenino,44.0,Norte,Joven digital,Anual,24,126.47,3250.03,Fibra,Sí,Sí,0,1,Efectivo,8,57.5,70.5,14,CMP-A,1
+NT-000094,Femenino,36.0,Centro,Masivo,Anual,2,138.1,285.45,Fibra,Sí,Sí,1,0,Efectivo,2,47.9,72.4,20,CMP-A,0
+NT-000095,Femenino,57.0,Centro,Masivo,Mensual,80,78.89,6305.37,DSL,No,Sí,0,0,Transferencia,5,76.8,32.2,10,CMP-B,0
+NT-000096,Masculino,32.0,Oriente,Masivo,Anual,47,102.8,4823.04,DSL,Sí,Sí,4,2,Tarjeta,2,49.7,43.4,11,CMP-C,0
+NT-000097,Femenino,53.0,,Joven digital,Mensual,19,108.51,1942.33,Fibra,No,Sí,0,1,Débito automático,7,100.0,,15,CMP-D,0
+NT-000098,Femenino,30.0,Lima,Joven digital,Bianual,16,80.72,1317.22,DSL,Sí,No,2,0,Débito automático,4,90.1,90.8,9,CMP-C,0
+NT-000099,Femenino,37.0,Norte,Familia,Mensual,66,74.23,5143.91,DSL,No,No,5,2,Efectivo,8,85.8,92.0,14,CMP-B,1
+NT-000100,Masculino,24.0,Norte,Familia,Mensual,18,130.99,2349.71,Fibra,Sí,Sí,5,1,Efectivo,0,85.3,,10,CMP-B,0
+NT-000101,Masculino,44.0,Lima,Masivo,Anual,19,108.9,1862.36,DSL,Sí,Sí,1,0,Débito automático,2,48.2,63.5,19,CMP-B,0
+NT-000102,Masculino,57.0,Norte,Premium,Anual,14,113.21,1485.44,DSL,Sí,No,1,0,Transferencia,1,37.1,52.8,18,CMP-B,1
+NT-000103,Femenino,37.0,Lima,Familia,Mensual,52,90.19,4596.82,DSL,Sí,Sí,1,0,Débito automático,24,84.4,75.4,8,CMP-C,1
+NT-000104,Masculino,35.0,Oriente,Familia,Anual,61,107.36,6540.07,,Sí,Sí,2,1,Transferencia,2,39.5,84.0,14,CMP-D,0
+NT-000105,Masculino,24.0,Lima,Familia,Mensual,27,100.45,2534.71,DSL,Sí,Sí,0,1,Débito automático,1,85.8,83.8,10,CMP-C,0
+NT-000106,Masculino,35.0,Lima,Masivo,Anual,62,58.54,3267.71,Sin internet,No,No,0,0,Débito automático,5,72.0,69.6,15,CMP-B,0
+NT-000107,Femenino,18.0,Lima,Masivo,Mensual,41,88.96,3832.99,DSL,No,No,1,1,Efectivo,1,60.9,52.1,15,CMP-B,1
+NT-000108,Femenino,26.0,Lima,Masivo,Mensual,13,104.92,1179.74,DSL,Sí,No,2,1,Tarjeta,9,68.6,64.5,20,CMP-A,1
+NT-000109,Femenino,41.0,,Masivo,Mensual,76,63.54,4221.1,DSL,No,No,3,1,Transferencia,10,69.0,82.4,10,CMP-D,0
+NT-000110,Masculino,55.0,Lima,Joven digital,Mensual,14,92.12,1092.49,DSL,Sí,No,2,0,Transferencia,1,,58.9,14,CMP-D,0
+NT-000111,Femenino,75.0,Lima,Masivo,Mensual,28,49.84,1219.62,Sin internet,No,No,4,1,Tarjeta,2,83.4,43.4,20,CMP-A,1
+NT-000112,Femenino,30.0,Lima,Masivo,Mensual,27,133.83,3712.11,Fibra,Sí,Sí,1,1,Débito automático,5,92.9,64.0,9,CMP-A,0
+NT-000113,Femenino,57.0,Lima,Premium,Mensual,24,158.81,3924.48,,Sí,Sí,0,0,Tarjeta,9,74.3,61.7,11,CMP-A,0
+NT-000114,Masculino,41.0,Lima,Familia,Mensual,5,116.51,544.58,DSL,Sí,Sí,1,2,Débito automático,5,53.0,37.9,17,CMP-D,1
+NT-000115,Femenino,36.0,Lima,Joven digital,Anual,104,112.0,,Fibra,No,Sí,1,0,Efectivo,2,99.6,77.9,9,CMP-A,1
+NT-000116,Masculino,44.0,Lima,Masivo,Mensual,6,91.15,,DSL,No,Sí,1,1,Tarjeta,1,31.7,64.3,10,CMP-A,1
+NT-000117,Masculino,39.0,Lima,Joven digital,Anual,79,76.16,5153.62,DSL,No,Sí,1,1,Tarjeta,15,76.7,95.0,20,CMP-B,0
+NT-000118,Masculino,39.0,Lima,Familia,Bianual,16,47.8,837.66,Sin internet,No,No,1,0,Débito automático,5,73.1,52.8,15,CMP-B,0
+NT-000119,Femenino,33.0,Lima,Familia,Mensual,20,106.66,2210.49,Fibra,Sí,No,1,2,Tarjeta,17,59.6,72.2,8,CMP-B,1
+NT-000120,Masculino,20.0,Centro,Joven digital,Bianual,74,76.18,5438.94,DSL,No,No,2,1,Tarjeta,6,84.6,84.8,19,CMP-C,0
+NT-000121,Masculino,18.0,Oriente,Joven digital,Mensual,44,111.12,4303.0,Fibra,Sí,No,1,0,Transferencia,16,79.6,73.1,14,CMP-A,0
+NT-000122,Masculino,46.0,Oriente,Masivo,Mensual,10,128.63,1188.87,Fibra,Sí,Sí,0,0,Débito automático,2,63.8,50.4,14,CMP-A,1
+NT-000123,Femenino,34.0,Norte,Familia,Anual,10,126.59,1128.59,Fibra,Sí,Sí,1,1,Transferencia,2,86.4,58.7,20,CMP-A,0
+NT-000124,Femenino,30.0,Norte,Premium,Anual,39,424.07,5578.84,Fibra,Sí,No,16,0,Débito automático,62,55.7,68.3,12,CMP-C,0
+NT-000125,Femenino,38.0,Lima,Masivo,Bianual,13,92.21,1152.81,Fibra,No,No,0,0,Débito automático,1,85.0,73.5,12,CMP-C,0
+NT-000126,Masculino,48.0,Sur,Masivo,Mensual,45,73.9,3046.56,DSL,Sí,No,3,1,Débito automático,0,32.3,50.5,15,CMP-B,1
+NT-000127,Femenino,40.0,Centro,Masivo,Anual,48,110.12,4430.48,DSL,Sí,Sí,2,0,Tarjeta,2,66.3,85.7,11,CMP-D,0
+NT-000128,Femenino,29.0,Sur,Masivo,Mensual,17,104.72,1939.12,Fibra,No,Sí,3,2,Débito automático,6,72.7,59.9,9,CMP-C,0
+NT-000129,Femenino,54.0,,Premium,Mensual,21,117.08,2352.04,Fibra,No,No,1,0,Transferencia,1,63.9,38.9,9,CMP-D,0
+NT-000130,Masculino,59.0,Norte,Familia,Mensual,40,99.8,3880.07,Fibra,Sí,No,1,0,Efectivo,1,77.8,63.1,11,CMP-D,0
+NT-000131,Femenino,44.0,Centro,Masivo,Bianual,17,44.55,689.52,Sin internet,No,No,0,1,Tarjeta,2,60.8,74.2,9,CMP-B,0
+NT-000132,Masculino,51.0,Sur,Masivo,Mensual,34,41.13,1161.61,Sin internet,No,No,2,0,Débito automático,1,77.8,70.4,14,CMP-C,0
+NT-000133,Masculino,54.0,Lima,Joven digital,Anual,120,107.81,12085.53,Fibra,Sí,Sí,0,0,Transferencia,2,88.4,77.3,20,CMP-C,0
+NT-000134,Femenino,53.0,Oriente,Masivo,Anual,42,123.55,4760.35,Fibra,Sí,Sí,1,0,Tarjeta,3,78.8,90.6,11,CMP-B,0
+NT-000135,Masculino,46.0,Lima,Joven digital,Anual,24,119.52,2838.84,Fibra,Sí,No,1,0,Transferencia,1,84.4,57.7,8,CMP-C,0
+NT-000136,Femenino,46.0,Oriente,Familia,Anual,111,100.94,11242.72,,Sí,Sí,1,1,Tarjeta,2,,61.4,8,CMP-B,0
+NT-000137,Masculino,45.0,Sur,Familia,Bianual,55,110.51,6038.86,Fibra,No,Sí,0,0,Efectivo,4,67.5,89.2,10,CMP-A,0
+NT-000138,Femenino,24.0,Lima,Masivo,Mensual,14,121.39,,Fibra,No,Sí,1,0,Débito automático,1,75.7,40.1,15,CMP-A,0
+NT-000139,Masculino,47.0,Centro,Familia,Mensual,16,101.16,1725.8,Fibra,No,No,1,0,Tarjeta,1,69.4,63.8,14,CMP-B,0
+NT-000140,Femenino,20.0,Lima,Familia,Anual,7,121.2,,Fibra,No,Sí,1,0,Transferencia,2,88.7,88.9,13,CMP-D,0
+NT-000141,Femenino,28.0,Sur,Masivo,Mensual,40,87.05,3541.0,Fibra,No,Sí,3,1,Tarjeta,3,73.4,81.0,17,CMP-A,0
+NT-000142,Masculino,55.0,Sur,Joven digital,Mensual,4,109.6,427.25,Fibra,No,No,1,1,Transferencia,0,85.6,,13,CMP-C,0
+NT-000143,Masculino,49.0,Norte,Joven digital,Mensual,111,77.73,6962.8,DSL,No,No,3,2,Transferencia,6,,69.7,16,CMP-A,0
+NT-000144,Masculino,57.0,Sur,Familia,Mensual,26,131.15,3168.42,Fibra,Sí,No,0,0,Débito automático,3,86.1,54.0,20,CMP-C,1
+NT-000145,Femenino,34.0,Lima,Masivo,Mensual,57,101.96,5110.01,Fibra,Sí,No,2,2,Tarjeta,2,63.3,81.2,10,CMP-A,0
+NT-000146,Femenino,23.0,Lima,Masivo,Mensual,24,74.13,1701.2,DSL,No,Sí,2,0,Débito automático,0,46.4,44.8,9,CMP-B,0
+NT-000147,Femenino,35.0,Lima,Joven digital,Bianual,39,109.06,3762.63,Fibra,Sí,No,0,0,Débito automático,5,100.0,60.2,10,CMP-D,0
+NT-000148,Masculino,,Lima,Masivo,Mensual,29,84.52,2407.94,DSL,Sí,No,0,1,Transferencia,10,72.5,70.1,10,CMP-B,0
+NT-000149,Femenino,39.0,,Masivo,Bianual,33,47.88,1593.74,Sin internet,No,No,3,0,Transferencia,2,76.7,64.4,18,CMP-D,0
+NT-000150,Femenino,53.0,Lima,Familia,Bianual,69,103.67,7326.7,Fibra,No,No,2,1,Débito automático,16,78.8,73.9,19,CMP-A,0
+NT-000151,Masculino,33.0,Lima,Masivo,Mensual,91,104.21,9989.02,DSL,Sí,Sí,2,0,Transferencia,3,60.6,68.5,15,CMP-A,0
+NT-000152,Masculino,43.0,Lima,Joven digital,Anual,86,102.83,7275.26,DSL,Sí,Sí,1,0,Transferencia,4,65.8,92.0,9,CMP-A,0
+NT-000153,Femenino,25.0,Sur,Premium,Anual,120,144.7,,DSL,Sí,Sí,0,0,Transferencia,8,73.7,75.9,19,CMP-A,1
+NT-000154,Masculino,44.0,Lima,Joven digital,Anual,18,124.69,,Fibra,Sí,Sí,2,1,Tarjeta,6,97.0,66.4,19,CMP-B,0
+NT-000155,Femenino,38.0,Sur,Joven digital,Mensual,42,90.94,3860.22,Fibra,No,No,0,0,Débito automático,1,79.0,75.0,13,CMP-D,0
+NT-000156,Masculino,28.0,Lima,Joven digital,Mensual,19,136.33,2475.55,Fibra,Sí,Sí,1,0,Débito automático,2,100.0,59.2,16,CMP-A,1
+NT-000157,Femenino,35.0,Lima,Masivo,Mensual,67,53.34,3367.37,Sin internet,No,No,0,0,Transferencia,9,59.0,74.5,15,CMP-B,0
+NT-000158,Masculino,36.0,Norte,Masivo,Anual,14,114.76,1503.85,,Sí,Sí,3,0,Transferencia,6,41.1,65.2,14,CMP-A,1
+NT-000159,Masculino,34.0,Lima,Familia,Bianual,70,110.49,6223.31,Fibra,No,Sí,0,0,Transferencia,16,46.2,70.5,12,CMP-C,0
+NT-000160,Masculino,61.0,Lima,Masivo,Anual,37,92.74,3039.99,Fibra,No,Sí,0,0,Tarjeta,5,46.7,42.3,11,CMP-C,1
+NT-000161,Femenino,37.0,Norte,Masivo,Anual,30,125.67,3514.38,Fibra,Sí,Sí,2,1,Transferencia,6,65.8,39.6,11,CMP-A,0
+NT-000162,Masculino,35.0,Lima,Masivo,Bianual,32,102.18,2909.73,Fibra,Sí,No,0,0,Efectivo,2,68.5,49.8,12,CMP-B,0
+NT-000163,Femenino,18.0,Lima,Familia,Anual,12,201.87,764.15,DSL,No,No,24,0,Tarjeta,78,72.2,92.7,17,CMP-A,1
+NT-000164,Femenino,26.0,Norte,Masivo,Mensual,13,105.96,1541.55,Fibra,No,Sí,1,0,Tarjeta,0,,50.0,18,CMP-B,0
+NT-000165,Masculino,35.0,Lima,Familia,Bianual,37,86.81,2962.67,DSL,Sí,No,2,0,Tarjeta,4,74.7,80.0,9,CMP-B,1
+NT-000166,Femenino,29.0,Sur,Masivo,Mensual,37,77.65,2756.6,DSL,Sí,No,4,1,Débito automático,6,62.7,54.9,8,CMP-D,0
+NT-000167,Masculino,56.0,Lima,Joven digital,Mensual,19,75.47,1372.24,DSL,Sí,No,1,0,Débito automático,5,70.2,61.5,14,CMP-A,0
+NT-000168,Masculino,36.0,Oriente,Masivo,Anual,26,116.0,2959.49,DSL,Sí,Sí,1,1,Tarjeta,3,53.3,66.0,17,CMP-C,0
+NT-000169,Femenino,55.0,Sur,Masivo,Bianual,44,103.27,4119.44,Fibra,No,Sí,1,0,Débito automático,3,93.3,95.2,15,CMP-D,0
+NT-000170,Masculino,39.0,Oriente,Joven digital,Mensual,17,72.0,1257.4,DSL,No,No,3,1,Transferencia,4,47.0,68.1,18,CMP-A,1
+NT-000171,Femenino,,Sur,Familia,Mensual,6,98.59,574.41,DSL,No,Sí,3,1,Transferencia,1,66.5,69.0,17,CMP-D,1
+NT-000172,Masculino,37.0,Lima,Masivo,Mensual,81,120.23,8276.85,Fibra,No,Sí,2,0,Transferencia,5,69.3,81.3,17,CMP-D,0
+NT-000173,Femenino,38.0,Norte,Joven digital,Mensual,39,116.15,4223.97,Fibra,Sí,No,1,1,Efectivo,2,91.7,60.3,15,CMP-B,1
+NT-000174,Masculino,60.0,Lima,Joven digital,Mensual,22,114.73,2342.2,Fibra,No,Sí,0,0,Débito automático,2,79.7,80.2,8,CMP-B,1
+NT-000175,Femenino,18.0,Sur,Masivo,Anual,19,115.52,2029.67,Fibra,Sí,No,0,0,Transferencia,1,72.1,81.7,10,CMP-C,0
+NT-000176,Femenino,18.0,Norte,Joven digital,Bianual,17,139.36,2311.43,Fibra,Sí,Sí,0,1,Débito automático,28,76.0,82.2,17,CMP-C,0
+NT-000177,Femenino,31.0,Lima,Masivo,Mensual,67,97.83,6452.56,Fibra,No,No,0,0,Transferencia,4,92.9,66.7,12,CMP-D,0
+NT-000178,Masculino,38.0,Oriente,Joven digital,Mensual,10,88.47,863.61,DSL,Sí,Sí,5,0,Efectivo,1,,,17,CMP-D,0
+NT-000179,Masculino,47.0,,Masivo,Mensual,42,107.24,4340.69,Fibra,No,Sí,1,1,Transferencia,4,100.0,58.7,12,CMP-B,0
+NT-000180,Masculino,44.0,Norte,Joven digital,Mensual,42,100.27,3983.91,Fibra,No,No,3,1,Débito automático,10,84.1,56.6,8,CMP-A,0
+NT-000181,Masculino,33.0,Centro,Masivo,Anual,53,106.36,4450.0,Fibra,No,Sí,1,0,Tarjeta,5,72.3,58.1,16,CMP-B,0
+NT-000182,Masculino,51.0,,Joven digital,Anual,24,108.58,2591.46,Fibra,No,No,0,0,Débito automático,3,77.8,75.8,19,CMP-C,0
+NT-000183,Masculino,51.0,Norte,Joven digital,Anual,77,41.43,3107.76,Sin internet,No,No,0,0,Tarjeta,1,78.5,68.2,13,CMP-D,0
+NT-000184,Femenino,40.0,Sur,Premium,Mensual,54,162.77,7656.31,Fibra,Sí,Sí,0,0,Tarjeta,5,63.2,69.0,9,CMP-B,0
+NT-000185,Masculino,51.0,Lima,Joven digital,Anual,23,122.12,2695.4,Fibra,No,Sí,1,2,Débito automático,7,82.2,78.1,13,CMP-D,0
+NT-000186,Masculino,42.0,Norte,Familia,Mensual,18,92.35,1637.96,Fibra,No,No,0,0,Tarjeta,7,72.1,51.2,20,CMP-A,0
+NT-000187,Femenino,31.0,Lima,Masivo,Mensual,29,95.59,2833.06,Fibra,No,No,2,0,Efectivo,4,76.9,51.7,12,CMP-C,0
+NT-000188,Femenino,47.0,Centro,Masivo,Bianual,23,95.09,2133.97,DSL,Sí,No,2,2,Transferencia,4,,66.1,8,CMP-B,0
+NT-000189,Masculino,39.0,Lima,Masivo,Anual,16,91.75,1412.97,DSL,Sí,Sí,2,0,Transferencia,11,68.0,59.2,17,CMP-C,0
+NT-000190,Femenino,38.0,Oriente,Masivo,Bianual,34,106.43,3641.32,Fibra,Sí,No,1,2,Débito automático,10,73.4,58.8,11,CMP-B,0
+NT-000191,Masculino,,Sur,Familia,Bianual,26,97.46,2327.55,DSL,No,Sí,2,1,Tarjeta,3,85.5,94.4,8,CMP-D,0
+NT-000192,Femenino,18.0,Lima,Familia,Anual,89,94.59,8156.19,Fibra,No,No,2,2,Tarjeta,15,78.3,51.2,16,CMP-A,0
+NT-000193,Femenino,20.0,Lima,Joven digital,Bianual,23,246.25,2128.19,DSL,No,Sí,16,0,Transferencia,83,100.0,100.0,12,CMP-D,0
+NT-000194,Masculino,23.0,Norte,Joven digital,Mensual,18,90.82,1663.73,DSL,Sí,Sí,2,1,Tarjeta,4,70.7,68.5,9,CMP-B,1
+NT-000195,Femenino,33.0,Centro,Masivo,Mensual,32,93.79,2483.02,Fibra,Sí,No,1,0,Transferencia,5,86.4,80.4,8,CMP-C,0
+NT-000196,Femenino,35.0,Norte,Masivo,Mensual,38,93.93,3559.24,DSL,Sí,No,0,1,Tarjeta,1,51.1,72.5,10,CMP-B,0
+NT-000197,Masculino,18.0,Lima,Familia,Mensual,40,112.79,4246.5,DSL,Sí,Sí,1,0,Débito automático,0,83.0,75.0,9,CMP-B,0
+NT-000198,Masculino,25.0,Lima,Masivo,Mensual,40,107.26,4322.91,Fibra,Sí,No,2,0,Tarjeta,1,61.4,84.7,8,CMP-B,0
+NT-000199,Femenino,27.0,Oriente,Masivo,Mensual,33,45.6,1332.29,Sin internet,No,No,3,1,Débito automático,8,68.8,50.3,12,CMP-B,0
+NT-000200,Femenino,70.0,Norte,Premium,Anual,31,146.71,4303.78,DSL,Sí,Sí,0,0,Tarjeta,8,58.0,65.4,18,CMP-A,1
+NT-000201,Masculino,,Sur,Premium,Anual,48,154.68,7010.67,,Sí,Sí,0,1,Transferencia,7,78.8,60.1,13,CMP-B,0
+NT-000202,Masculino,33.0,Norte,Joven digital,Anual,14,83.64,1136.27,DSL,No,Sí,1,0,Tarjeta,2,66.5,46.9,8,CMP-B,0
+NT-000203,Masculino,33.0,Oriente,Masivo,Mensual,18,91.71,1430.68,DSL,No,Sí,1,2,Tarjeta,9,50.2,52.4,19,CMP-C,0
+NT-000204,Femenino,23.0,Lima,Familia,Anual,8,135.14,1064.4,Fibra,Sí,Sí,0,0,Tarjeta,2,67.9,93.6,16,CMP-B,0
+NT-000205,Femenino,18.0,Lima,Masivo,Mensual,15,116.51,1416.97,Fibra,Sí,Sí,3,1,Efectivo,5,95.1,66.9,20,CMP-C,0
+NT-000206,Femenino,36.0,Oriente,Masivo,Mensual,63,70.22,3951.62,DSL,No,No,3,1,Transferencia,4,69.0,90.2,15,CMP-B,0
+NT-000207,Femenino,25.0,Oriente,Masivo,Mensual,47,69.8,2724.9,DSL,No,No,2,0,Transferencia,2,42.7,86.8,14,CMP-B,1
+NT-000208,Masculino,37.0,Lima,Premium,Mensual,96,132.76,12719.16,Fibra,No,No,1,1,Débito automático,6,88.4,100.0,14,CMP-C,0
+NT-000209,Femenino,18.0,Lima,Premium,Mensual,82,161.92,12852.68,Fibra,Sí,Sí,2,1,Transferencia,8,58.6,87.3,8,CMP-C,1
+NT-000210,Masculino,28.0,Norte,Familia,Anual,47,89.09,4069.66,Fibra,No,No,1,0,Tarjeta,1,83.2,100.0,12,CMP-D,0
+NT-000211,Masculino,40.0,Lima,Masivo,Anual,35,53.24,1943.76,Sin internet,No,No,0,0,Transferencia,4,70.3,73.9,13,CMP-B,0
+NT-000212,Masculino,43.0,Lima,Joven digital,Anual,32,82.15,2412.93,DSL,Sí,No,5,2,Transferencia,7,79.2,74.2,11,CMP-A,1
+NT-000213,Femenino,43.0,Sur,Masivo,Mensual,4,124.37,488.86,Fibra,Sí,Sí,0,0,Tarjeta,5,99.8,73.8,18,CMP-C,1
+NT-000214,Masculino,21.0,Lima,Familia,Anual,30,75.68,2144.67,DSL,No,Sí,0,1,Tarjeta,7,49.6,65.9,20,CMP-B,1
+NT-000215,Masculino,49.0,Centro,Masivo,Anual,20,98.58,1841.4,DSL,Sí,Sí,2,0,Débito automático,6,71.2,71.8,14,CMP-A,0
+NT-000216,Masculino,28.0,Lima,Masivo,Mensual,15,98.64,1526.15,Fibra,No,No,2,1,Tarjeta,6,90.9,78.1,18,CMP-D,0
+NT-000217,Femenino,46.0,Lima,Familia,Anual,42,96.89,4418.25,Fibra,No,No,1,0,Tarjeta,3,62.3,62.2,10,CMP-C,0
+NT-000218,Femenino,38.0,Centro,Joven digital,Mensual,27,92.4,2269.76,DSL,Sí,No,2,0,Débito automático,7,58.8,44.7,19,CMP-C,1
+NT-000219,Masculino,20.0,Lima,Familia,Mensual,34,98.96,3359.12,Fibra,No,No,1,2,Tarjeta,1,67.7,68.9,17,CMP-C,0
+NT-000220,Femenino,34.0,Centro,Masivo,Mensual,13,127.79,1598.7,Fibra,Sí,No,2,2,Transferencia,1,76.9,56.8,17,CMP-D,1
+NT-000221,Femenino,43.0,Lima,Familia,Anual,56,83.27,4491.41,DSL,No,Sí,2,0,Débito automático,6,40.8,56.7,15,CMP-C,0
+NT-000222,Femenino,46.0,Oriente,Masivo,Mensual,22,83.73,737.12,Sin internet,No,No,22,0,Transferencia,63,70.3,62.8,18,CMP-C,1
+NT-000223,Masculino,36.0,,Masivo,Mensual,41,102.55,3854.25,Fibra,No,Sí,0,0,Débito automático,10,,56.3,14,CMP-D,0
+NT-000224,Masculino,58.0,Sur,Joven digital,Mensual,24,98.67,1631.73,DSL,Sí,Sí,1,0,Débito automático,13,89.4,82.5,20,CMP-C,1
+NT-000225,Femenino,51.0,Lima,Masivo,Bianual,3,35.0,109.98,Sin internet,No,No,0,1,Débito automático,2,69.7,67.4,16,CMP-C,0
+NT-000226,Masculino,35.0,Lima,Joven digital,Mensual,43,94.84,3635.11,Fibra,No,No,3,1,Efectivo,1,100.0,85.1,13,CMP-A,0
+NT-000227,Femenino,48.0,Lima,Masivo,Mensual,29,105.27,2818.04,Fibra,No,No,1,1,Débito automático,8,82.0,69.4,10,CMP-B,1
+NT-000228,Masculino,63.0,Norte,Masivo,Mensual,8,103.86,768.21,DSL,No,Sí,1,0,Transferencia,2,57.4,61.2,19,CMP-B,0
+NT-000229,Masculino,63.0,Lima,Familia,Bianual,12,109.54,1163.49,DSL,Sí,Sí,1,0,Transferencia,3,,68.1,8,CMP-D,0
+NT-000230,Femenino,22.0,Lima,Masivo,Anual,57,131.27,7159.28,Fibra,No,Sí,0,0,Transferencia,7,75.6,53.8,8,CMP-C,0
+NT-000231,Femenino,26.0,Lima,Familia,Bianual,8,83.79,628.02,DSL,Sí,No,2,0,Tarjeta,4,61.5,72.5,8,CMP-C,0
+NT-000232,Femenino,57.0,Lima,Familia,Mensual,22,72.31,1415.58,DSL,Sí,No,2,1,Tarjeta,7,79.8,77.4,9,CMP-C,1
+NT-000233,Masculino,24.0,Lima,Masivo,Mensual,102,99.48,9644.19,DSL,No,Sí,0,0,Débito automático,1,48.1,73.5,11,CMP-C,0
+NT-000234,Masculino,21.0,Lima,Familia,Anual,44,73.45,3030.42,DSL,No,Sí,0,0,Transferencia,5,92.3,56.0,14,CMP-D,0
+NT-000235,Masculino,32.0,Lima,Masivo,Mensual,52,87.2,4556.84,Fibra,No,No,1,0,Transferencia,5,91.1,48.7,11,CMP-A,0
+NT-000236,Masculino,,,Masivo,Anual,26,131.68,2897.03,Fibra,Sí,Sí,2,0,Transferencia,10,68.9,62.4,13,CMP-D,0
+NT-000237,Femenino,37.0,Lima,Masivo,Bianual,7,126.08,779.85,Fibra,Sí,Sí,0,0,Tarjeta,11,99.0,92.8,13,CMP-D,0
+NT-000238,Masculino,30.0,Lima,Familia,Mensual,36,40.28,1436.7,Sin internet,No,No,0,0,Transferencia,2,50.3,63.9,13,CMP-A,1
+NT-000239,Femenino,29.0,Norte,Joven digital,Bianual,13,35.0,407.32,Sin internet,No,No,0,1,Débito automático,1,73.1,60.1,8,CMP-C,0
+NT-000240,Femenino,29.0,Sur,Joven digital,Anual,12,89.9,945.85,DSL,No,Sí,2,1,Efectivo,7,,47.3,14,CMP-B,0
+NT-000241,Masculino,27.0,Lima,Premium,Mensual,33,138.03,4093.48,Fibra,No,No,3,1,Transferencia,0,99.7,61.1,11,CMP-B,0
+NT-000242,Masculino,68.0,Norte,Masivo,Mensual,14,105.18,1373.76,DSL,Sí,Sí,2,1,Débito automático,8,37.3,48.9,14,CMP-D,1
+NT-000243,Femenino,42.0,Oriente,Familia,Mensual,31,119.53,3457.9,Fibra,Sí,Sí,2,1,Transferencia,8,50.4,73.2,8,CMP-B,0
+NT-000244,Masculino,50.0,Norte,Familia,Anual,18,97.77,1628.4,Fibra,Sí,No,0,2,Débito automático,2,62.5,81.4,19,CMP-D,0
+NT-000245,Masculino,32.0,Sur,Premium,Mensual,30,121.71,3169.33,Fibra,No,No,0,0,Débito automático,0,91.8,54.9,17,CMP-C,0
+NT-000246,Masculino,36.0,Sur,Premium,Mensual,21,128.53,2683.26,DSL,No,Sí,5,1,Débito automático,9,76.3,75.5,12,CMP-D,1
+NT-000247,Masculino,29.0,Lima,Premium,Anual,30,165.09,5115.32,Fibra,Sí,Sí,1,1,Tarjeta,12,73.8,78.7,12,CMP-C,0
+NT-000248,Femenino,18.0,Lima,Masivo,Mensual,78,79.8,5018.55,DSL,Sí,No,3,1,Tarjeta,11,77.3,50.6,12,CMP-C,0
+NT-000249,Femenino,20.0,Centro,Familia,Mensual,52,35.0,1512.88,Sin internet,No,No,1,0,Transferencia,12,60.3,61.8,20,CMP-A,1
+NT-000250,Femenino,18.0,Oriente,Familia,Anual,28,90.78,2567.77,,Sí,No,2,0,Débito automático,1,68.3,73.7,17,CMP-D,0
+NT-000251,Masculino,18.0,,Joven digital,Mensual,70,103.92,7637.29,Fibra,No,Sí,2,0,Transferencia,4,100.0,72.1,13,CMP-C,0
+NT-000252,Masculino,22.0,Lima,Masivo,Mensual,41,48.2,1563.09,Sin internet,No,No,0,0,Débito automático,5,58.3,40.3,16,CMP-B,0
+NT-000253,Femenino,55.0,Norte,Premium,Mensual,67,133.2,8898.35,DSL,Sí,Sí,3,3,Transferencia,4,50.5,62.8,8,CMP-B,1
+NT-000254,Femenino,37.0,Lima,Masivo,Mensual,9,85.11,807.85,Fibra,No,No,3,0,Transferencia,7,79.1,74.5,18,CMP-A,0
+NT-000255,Femenino,55.0,,Joven digital,Mensual,14,106.38,1310.05,DSL,Sí,Sí,4,1,Transferencia,1,81.1,87.1,15,CMP-B,0
+NT-000256,Masculino,43.0,Norte,Joven digital,Anual,36,126.22,4773.74,DSL,Sí,Sí,2,0,Débito automático,0,71.7,61.2,12,CMP-A,1
+NT-000257,Masculino,48.0,Centro,Masivo,Bianual,28,118.74,3083.81,Fibra,No,Sí,1,0,Efectivo,0,87.1,65.6,17,CMP-D,0
+NT-000258,Femenino,26.0,Sur,Familia,Mensual,31,110.23,3287.36,Fibra,Sí,No,1,1,Débito automático,9,69.0,61.7,8,CMP-B,1
+NT-000259,Femenino,45.0,Norte,Masivo,Bianual,46,130.23,5329.54,Fibra,Sí,Sí,0,0,Transferencia,1,73.9,74.1,14,CMP-C,0
+NT-000260,Masculino,47.0,Norte,Familia,Anual,36,78.24,,Fibra,No,No,0,0,Débito automático,4,77.6,72.2,20,CMP-D,0
+NT-000261,Femenino,31.0,Centro,Familia,Anual,56,61.9,3460.89,DSL,No,No,2,1,Tarjeta,2,66.3,76.8,17,CMP-D,0
+NT-000262,Masculino,45.0,Sur,Masivo,Anual,55,104.4,6090.71,Fibra,Sí,Sí,1,1,Transferencia,2,96.2,59.7,8,CMP-B,0
+NT-000263,Femenino,45.0,Sur,Familia,Anual,14,109.57,1596.63,Fibra,No,No,4,1,Débito automático,3,77.5,76.1,15,CMP-A,0
+NT-000264,Femenino,31.0,Lima,Masivo,Anual,3,122.75,345.92,Fibra,Sí,No,0,0,Tarjeta,2,67.4,59.5,16,CMP-C,0
+NT-000265,Masculino,23.0,Norte,Familia,Mensual,13,115.54,1738.72,Fibra,No,Sí,2,0,Débito automático,0,79.9,,14,CMP-D,1
+NT-000266,Femenino,23.0,Lima,Premium,Anual,13,163.22,2195.18,Fibra,Sí,Sí,1,0,Tarjeta,3,,94.9,12,CMP-B,0
+NT-000267,Femenino,39.0,Sur,Masivo,Mensual,32,76.04,2379.35,DSL,No,Sí,1,0,Efectivo,1,73.6,47.1,16,CMP-A,1
+NT-000268,Femenino,42.0,Centro,Familia,Mensual,32,125.03,3481.63,Fibra,Sí,Sí,4,1,Transferencia,1,82.8,,13,CMP-C,0
+NT-000269,Femenino,28.0,Lima,Joven digital,Anual,26,128.13,2774.7,Fibra,No,Sí,1,0,Tarjeta,15,,50.8,20,CMP-C,1
+NT-000270,Femenino,38.0,Lima,Joven digital,Mensual,42,73.18,2578.25,DSL,No,No,1,1,Transferencia,1,32.6,59.9,18,CMP-A,1
+NT-000271,Femenino,45.0,,Familia,Mensual,120,36.92,3875.02,Sin internet,No,No,0,1,Débito automático,3,,80.2,19,CMP-A,0
+NT-000272,Femenino,46.0,Centro,Joven digital,Mensual,26,96.18,2591.73,Fibra,No,Sí,1,0,Transferencia,4,86.6,69.8,13,CMP-C,0
+NT-000273,Femenino,58.0,Lima,Joven digital,Mensual,37,139.42,5024.91,Fibra,Sí,Sí,0,0,Débito automático,15,79.7,64.8,16,CMP-A,1
+NT-000274,Masculino,55.0,Lima,Masivo,Anual,31,111.37,3097.09,Fibra,No,Sí,1,0,Tarjeta,1,82.4,89.1,9,CMP-A,0
+NT-000275,Masculino,25.0,,Masivo,Anual,19,111.19,1965.76,Fibra,Sí,Sí,1,0,Tarjeta,11,100.0,79.3,17,CMP-B,0
+NT-000276,Femenino,60.0,Centro,Familia,Mensual,46,118.68,5033.23,Fibra,Sí,Sí,0,1,Transferencia,3,93.2,79.4,17,CMP-B,1
+NT-000277,Femenino,31.0,Lima,Masivo,Mensual,25,35.0,871.5,Sin internet,No,No,3,1,Transferencia,3,76.4,75.1,18,CMP-D,0
+NT-000278,Masculino,52.0,Lima,Joven digital,Mensual,16,85.81,1206.12,DSL,Sí,No,3,1,Transferencia,6,,24.8,8,CMP-B,1
+NT-000279,Masculino,39.0,Oriente,Masivo,Mensual,17,113.87,1867.03,Fibra,No,Sí,2,1,Tarjeta,12,60.6,61.9,13,CMP-D,0
+NT-000280,Masculino,33.0,Centro,Familia,Anual,57,37.47,2052.51,Sin internet,No,No,0,0,Transferencia,2,26.2,47.7,11,CMP-C,0
+NT-000281,Femenino,18.0,Norte,Joven digital,Anual,45,133.99,5309.5,Fibra,Sí,Sí,0,0,Débito automático,5,89.5,62.3,19,CMP-B,0
+NT-000282,Femenino,36.0,Lima,Masivo,Mensual,21,109.71,2421.78,Fibra,Sí,No,2,0,Transferencia,4,88.6,87.1,14,CMP-C,0
+NT-000283,Femenino,18.0,Lima,Masivo,Mensual,42,121.56,4693.56,Fibra,No,Sí,0,1,Tarjeta,4,89.9,63.3,15,CMP-A,0
+NT-000284,Femenino,51.0,Lima,Joven digital,Bianual,31,108.79,2935.78,Fibra,No,Sí,1,1,Transferencia,7,90.1,97.8,13,CMP-D,0
+NT-000285,Masculino,58.0,Centro,Premium,Anual,37,149.41,5526.52,DSL,Sí,No,1,0,Efectivo,2,59.7,49.4,9,CMP-B,0
+NT-000286,Femenino,28.0,Lima,Joven digital,Mensual,19,121.92,2186.33,Fibra,Sí,Sí,4,1,Tarjeta,2,,50.8,16,CMP-D,1
+NT-000287,Femenino,42.0,Lima,Joven digital,Mensual,13,63.87,804.23,DSL,No,No,4,4,Transferencia,0,57.6,72.3,15,CMP-C,1
+NT-000288,Femenino,29.0,Centro,Familia,Mensual,25,102.76,2201.82,Fibra,No,Sí,2,3,Débito automático,6,69.5,60.1,12,CMP-B,1
+NT-000289,Masculino,30.0,Oriente,Masivo,Bianual,15,40.1,599.62,Sin internet,No,No,0,0,Tarjeta,4,47.3,69.5,16,CMP-B,0
+NT-000290,Femenino,48.0,Centro,Masivo,Mensual,14,71.52,1093.47,DSL,Sí,No,3,1,Tarjeta,12,88.3,66.4,13,CMP-A,1
+NT-000291,Masculino,37.0,Norte,Masivo,Mensual,9,114.65,878.73,,No,Sí,2,0,Transferencia,1,52.5,59.6,16,CMP-C,0
+NT-000292,Femenino,61.0,Norte,Masivo,Bianual,3,94.85,274.53,Fibra,No,Sí,2,0,Tarjeta,17,69.0,65.5,12,CMP-A,1
+NT-000293,Masculino,32.0,Norte,Familia,Anual,21,43.46,807.73,Sin internet,No,No,0,0,Tarjeta,7,33.0,65.3,18,CMP-C,0
+NT-000294,Femenino,51.0,Lima,Familia,Mensual,64,114.84,8292.53,Fibra,Sí,Sí,2,0,Efectivo,7,76.4,74.1,19,CMP-A,0
+NT-000295,Masculino,39.0,Norte,Premium,Mensual,54,158.57,8792.04,,Sí,Sí,0,0,Débito automático,2,72.0,85.9,14,CMP-A,0
+NT-000296,Masculino,48.0,Norte,Familia,Mensual,85,77.44,6317.44,DSL,No,No,2,1,Transferencia,3,56.6,59.6,8,CMP-A,0
+NT-000297,Masculino,32.0,Norte,Joven digital,Anual,14,147.74,1766.48,Fibra,Sí,Sí,2,0,Débito automático,2,66.0,63.8,16,CMP-A,0
+NT-000298,Masculino,37.0,Sur,Masivo,Mensual,48,84.3,3524.32,Fibra,No,No,0,1,Débito automático,10,72.0,58.2,20,CMP-D,1
+NT-000299,Masculino,,Oriente,Joven digital,Bianual,28,110.65,3074.16,Fibra,No,Sí,1,0,Transferencia,0,71.8,,17,CMP-D,0
+NT-000300,Masculino,27.0,Lima,Premium,Bianual,17,137.49,1974.17,Fibra,Sí,No,0,0,Tarjeta,3,69.9,78.6,12,CMP-D,0
+NT-000301,Masculino,47.0,Lima,Familia,Anual,59,104.17,5204.59,,No,Sí,1,0,Débito automático,3,100.0,50.3,15,CMP-C,0
+NT-000302,Femenino,46.0,Lima,Joven digital,Anual,28,105.57,2780.43,Fibra,No,Sí,0,0,Transferencia,2,82.6,46.6,12,CMP-A,0
+NT-000303,Masculino,46.0,Lima,Familia,Mensual,6,134.42,765.66,Fibra,Sí,Sí,0,0,Efectivo,1,80.0,55.6,18,CMP-D,0
+NT-000304,Masculino,58.0,Lima,Familia,Mensual,54,89.61,4677.33,Fibra,No,No,1,1,Débito automático,3,65.0,66.7,17,CMP-D,0
+NT-000305,Masculino,57.0,Lima,Premium,Anual,40,164.24,5973.3,Fibra,Sí,No,1,2,Efectivo,6,60.2,67.4,16,CMP-A,0
+NT-000306,Femenino,33.0,Centro,Familia,Mensual,34,45.74,1562.02,Sin internet,No,No,2,1,Transferencia,4,61.7,69.8,13,CMP-D,0
+NT-000307,Femenino,43.0,Norte,Joven digital,Mensual,11,80.91,782.92,DSL,No,Sí,1,2,Débito automático,1,100.0,,10,CMP-D,1
+NT-000308,Masculino,30.0,Oriente,Masivo,Mensual,36,108.7,3850.06,Fibra,No,Sí,1,0,Débito automático,3,67.7,82.4,16,CMP-B,0
+NT-000309,Femenino,38.0,Lima,Joven digital,Mensual,78,101.78,7581.5,Fibra,Sí,No,1,2,Tarjeta,12,85.4,77.4,12,CMP-C,0
+NT-000310,Femenino,30.0,Lima,Masivo,Mensual,39,79.2,3033.34,DSL,No,No,3,0,Débito automático,2,49.6,61.9,19,CMP-D,1
+NT-000311,Femenino,59.0,Lima,Premium,Anual,8,132.25,1082.06,Fibra,No,Sí,2,0,Tarjeta,4,30.7,77.4,8,CMP-B,0
+NT-000312,Femenino,43.0,Lima,Joven digital,Anual,41,81.93,3050.52,Fibra,No,No,0,0,Débito automático,5,68.2,47.8,19,CMP-D,0
+NT-000313,Femenino,35.0,Lima,Joven digital,Anual,39,99.68,3474.37,DSL,Sí,Sí,0,0,Tarjeta,1,100.0,73.9,18,CMP-B,0
+NT-000314,Femenino,54.0,Oriente,Masivo,Bianual,51,133.15,5580.64,Fibra,Sí,Sí,0,1,Efectivo,3,80.9,,14,CMP-D,0
+NT-000315,Femenino,18.0,Lima,Joven digital,Mensual,38,98.1,,DSL,Sí,No,4,1,Débito automático,3,94.6,76.9,20,CMP-A,1
+NT-000316,Femenino,18.0,Lima,Joven digital,Bianual,14,174.4,706.78,Sin internet,No,No,19,1,Débito automático,76,64.8,46.4,17,CMP-C,0
+NT-000317,Femenino,48.0,Norte,Masivo,Anual,32,109.77,3275.44,DSL,Sí,Sí,1,1,Débito automático,10,26.6,58.4,8,CMP-C,0
+NT-000318,Masculino,39.0,Norte,Familia,Mensual,25,111.25,2402.93,Fibra,No,Sí,4,3,Tarjeta,1,55.4,67.2,13,CMP-B,0
+NT-000319,Femenino,41.0,Norte,Masivo,Bianual,35,116.15,3573.45,Fibra,Sí,No,2,1,Débito automático,11,78.0,77.2,18,CMP-B,0
+NT-000320,Masculino,21.0,Lima,Joven digital,Mensual,61,101.7,6493.05,Fibra,No,Sí,0,0,Transferencia,6,83.6,82.5,18,CMP-A,0
+NT-000321,Masculino,38.0,Sur,Masivo,Mensual,18,55.4,998.51,DSL,No,No,2,2,Transferencia,17,61.8,73.0,10,CMP-C,1
+NT-000322,Femenino,64.0,Lima,Joven digital,Mensual,94,45.93,,Sin internet,No,No,3,2,Débito automático,24,62.0,62.4,10,CMP-D,0
+NT-000323,Femenino,49.0,Lima,Familia,Mensual,41,35.0,1304.47,Sin internet,No,No,1,2,Transferencia,1,76.1,74.5,20,CMP-C,0
+NT-000324,Masculino,40.0,Centro,Familia,Mensual,54,111.41,5826.15,Fibra,No,Sí,0,1,Tarjeta,1,64.5,61.0,8,CMP-B,0
+NT-000325,Masculino,32.0,Sur,Masivo,Anual,49,106.08,4658.11,DSL,Sí,Sí,0,0,Transferencia,1,66.6,70.9,20,CMP-C,0
+NT-000326,Masculino,33.0,Lima,Premium,Bianual,40,149.23,5273.14,Fibra,No,Sí,0,0,Tarjeta,6,,80.8,15,CMP-B,0
+NT-000327,Masculino,18.0,Norte,Familia,Mensual,45,98.44,4059.13,DSL,No,Sí,1,1,Efectivo,3,56.5,61.6,18,CMP-D,1
+NT-000328,Masculino,41.0,Lima,Masivo,Anual,1,101.49,103.15,Fibra,No,No,1,1,Efectivo,2,58.8,72.3,10,CMP-B,1
+NT-000329,Masculino,49.0,Lima,Masivo,Mensual,49,128.76,6452.45,,Sí,Sí,4,4,Transferencia,0,65.6,76.3,12,CMP-C,1
+NT-000330,Femenino,18.0,Lima,Masivo,Anual,15,90.02,1199.77,Fibra,No,No,3,1,Tarjeta,9,100.0,84.3,17,CMP-B,0
+NT-000331,Masculino,29.0,Centro,Familia,Mensual,29,42.97,1211.54,Sin internet,No,No,1,2,Débito automático,3,78.7,82.2,10,CMP-D,0
+NT-000332,Femenino,23.0,,Masivo,Mensual,40,121.63,4571.1,Fibra,Sí,Sí,2,0,Transferencia,2,87.3,98.0,9,CMP-A,0
+NT-000333,Masculino,25.0,Centro,Joven digital,Anual,63,125.23,6859.31,Fibra,Sí,Sí,0,0,Débito automático,2,68.2,78.4,15,CMP-C,0
+NT-000334,Masculino,39.0,Lima,Familia,Anual,15,150.56,2075.93,Fibra,Sí,Sí,0,0,Débito automático,3,50.4,60.1,8,CMP-D,0
+NT-000335,Femenino,18.0,Sur,Familia,Anual,22,128.64,2409.82,Fibra,Sí,Sí,0,1,Débito automático,1,88.4,79.6,20,CMP-B,0
+NT-000336,Masculino,,Sur,Familia,Anual,24,127.71,1128.87,Sin internet,No,No,14,3,Tarjeta,78,75.6,76.7,16,CMP-C,0
+NT-000337,Femenino,48.0,Lima,Familia,Anual,35,105.65,3877.73,Fibra,No,Sí,1,0,Débito automático,2,74.1,78.3,17,CMP-B,0
+NT-000338,Masculino,35.0,Lima,Masivo,Mensual,25,136.18,3102.38,Fibra,Sí,Sí,1,1,Tarjeta,7,66.4,83.4,14,CMP-B,0
+NT-000339,Femenino,18.0,Lima,Familia,Mensual,45,111.84,4502.16,DSL,Sí,Sí,6,2,Transferencia,2,40.0,37.3,16,CMP-D,1
+NT-000340,Masculino,25.0,,Masivo,Mensual,6,100.91,613.83,Fibra,No,No,1,2,Débito automático,4,85.0,87.0,20,CMP-B,0
+NT-000341,Femenino,54.0,Lima,Masivo,Mensual,28,95.93,2753.54,Fibra,No,No,2,1,Tarjeta,4,89.8,92.2,8,CMP-A,0
+NT-000342,Masculino,18.0,Norte,Premium,Mensual,83,171.31,12256.42,Fibra,Sí,Sí,0,0,Tarjeta,4,,70.5,11,CMP-C,0
+NT-000343,Masculino,33.0,Lima,Masivo,Mensual,25,138.45,3217.71,Fibra,Sí,Sí,0,0,Efectivo,11,60.6,70.6,17,CMP-B,0
+NT-000344,Masculino,23.0,Sur,Masivo,Mensual,41,96.55,3704.71,Fibra,No,No,2,0,Débito automático,12,90.6,65.2,9,CMP-D,0
+NT-000345,Masculino,48.0,Norte,Joven digital,Anual,56,110.97,5506.17,Fibra,No,Sí,1,0,Transferencia,7,70.4,69.8,11,CMP-A,0
+NT-000346,Masculino,29.0,Norte,Masivo,Mensual,40,120.05,4643.62,Fibra,No,Sí,1,0,Transferencia,9,98.7,78.8,8,CMP-D,0
+NT-000347,Masculino,43.0,Oriente,Masivo,Anual,99,78.86,6956.19,DSL,Sí,No,0,0,Transferencia,7,60.4,,8,CMP-C,0
+NT-000348,Femenino,45.0,Lima,Joven digital,Anual,33,83.54,2487.15,DSL,No,Sí,3,0,Débito automático,2,64.2,77.9,13,CMP-D,1
+NT-000349,Masculino,,Sur,Familia,Mensual,47,41.52,1820.51,Sin internet,No,No,2,0,Transferencia,3,62.7,71.4,16,CMP-B,0
+NT-000350,Femenino,35.0,Lima,Familia,Mensual,36,96.33,2898.33,Fibra,No,Sí,1,0,Tarjeta,0,66.2,75.6,9,CMP-B,0
+NT-000351,Masculino,43.0,Norte,Masivo,Anual,72,101.45,5814.65,Fibra,No,No,1,1,Débito automático,1,88.9,83.2,20,CMP-B,0
+NT-000352,Femenino,19.0,Sur,Joven digital,Anual,23,35.0,808.44,Sin internet,No,No,1,0,Tarjeta,1,83.3,58.7,18,CMP-D,0
+NT-000353,Masculino,53.0,Centro,Familia,Mensual,104,67.76,6259.02,DSL,No,No,2,0,Efectivo,2,78.3,76.9,16,CMP-A,1
+NT-000354,Masculino,28.0,Centro,Masivo,Mensual,19,110.08,2278.59,Fibra,No,Sí,0,1,Débito automático,5,74.8,,8,CMP-C,0
+NT-000355,Femenino,31.0,Lima,Masivo,Anual,88,112.35,10658.25,Fibra,No,Sí,0,2,Tarjeta,2,65.2,68.4,14,CMP-B,0
+NT-000356,Masculino,38.0,Lima,Masivo,Anual,14,90.91,1151.25,Fibra,No,No,0,1,Transferencia,8,71.9,89.4,19,CMP-C,0
+NT-000357,Masculino,18.0,Lima,Joven digital,Mensual,48,108.39,5742.42,Fibra,Sí,No,2,3,Tarjeta,1,73.6,53.3,11,CMP-D,0
+NT-000358,Masculino,41.0,Norte,Masivo,Mensual,31,93.46,,Fibra,No,No,1,0,Débito automático,6,94.0,68.5,15,CMP-C,0
+NT-000359,Masculino,51.0,Norte,Familia,Bianual,56,89.98,4508.93,Fibra,No,No,0,0,Transferencia,1,87.0,64.3,15,CMP-A,0
+NT-000360,Masculino,42.0,Lima,Premium,Mensual,42,70.04,,Sin internet,No,No,1,0,Transferencia,10,60.6,80.8,17,CMP-B,0
+NT-000361,Masculino,18.0,Lima,Masivo,Bianual,54,96.73,5161.63,DSL,Sí,No,3,2,Transferencia,1,48.1,87.0,19,CMP-A,0
+NT-000362,Femenino,36.0,Lima,Joven digital,Mensual,13,53.06,649.9,DSL,No,No,6,2,Débito automático,6,93.1,67.5,9,CMP-B,1
+NT-000363,Femenino,,,Masivo,Anual,7,92.15,625.82,Fibra,No,No,2,0,Débito automático,2,74.1,85.6,8,CMP-A,0
+NT-000364,Femenino,18.0,Lima,Masivo,Mensual,11,82.78,841.36,DSL,Sí,No,4,2,Tarjeta,13,60.0,84.3,9,CMP-C,1
+NT-000365,Masculino,24.0,Sur,Familia,Mensual,11,108.77,1028.88,DSL,Sí,Sí,2,1,Débito automático,13,85.2,66.9,11,CMP-C,1
+NT-000366,Femenino,49.0,Norte,Joven digital,Bianual,13,95.91,1134.75,Fibra,Sí,No,3,1,Débito automático,5,72.4,71.7,12,CMP-B,1
+NT-000367,Masculino,42.0,Lima,Premium,Mensual,20,120.5,2384.61,DSL,No,Sí,1,0,Tarjeta,5,57.2,71.8,19,CMP-D,0
+NT-000368,Masculino,43.0,Centro,Joven digital,Bianual,20,89.08,1630.51,DSL,No,Sí,5,3,Tarjeta,7,66.5,58.0,14,CMP-C,1
+NT-000369,Femenino,62.0,Sur,Masivo,Mensual,31,81.63,2314.85,DSL,No,No,2,1,Tarjeta,6,42.3,61.0,17,CMP-C,0
+NT-000370,Masculino,44.0,Lima,Joven digital,Bianual,16,111.99,1493.75,Fibra,Sí,No,0,0,Tarjeta,8,84.7,100.0,15,CMP-B,0
+NT-000371,Masculino,47.0,Lima,Masivo,Bianual,17,61.35,987.03,DSL,No,No,1,1,Tarjeta,1,50.6,59.6,20,CMP-B,0
+NT-000372,Femenino,73.0,Lima,Familia,Anual,27,107.61,2504.99,Fibra,No,Sí,0,1,Débito automático,4,63.4,79.5,12,CMP-C,0
+NT-000373,Femenino,35.0,,Familia,Mensual,61,119.97,7349.61,Fibra,No,Sí,1,0,Débito automático,2,61.4,69.9,16,CMP-D,0
+NT-000374,Femenino,28.0,Centro,Masivo,Anual,22,116.19,2271.45,,Sí,Sí,2,2,Débito automático,13,63.2,66.2,11,CMP-D,0
+NT-000375,Femenino,44.0,Oriente,Joven digital,Anual,30,108.29,2986.53,Fibra,Sí,No,0,0,Tarjeta,1,67.4,72.0,11,CMP-D,0
+NT-000376,Femenino,44.0,Lima,Familia,Bianual,33,93.92,3382.89,Fibra,No,No,4,0,Débito automático,15,75.7,93.4,20,CMP-A,0
+NT-000377,Masculino,31.0,Centro,Familia,Mensual,14,105.53,1357.07,Fibra,Sí,No,1,3,Transferencia,4,69.7,71.7,8,CMP-D,0
+NT-000378,Femenino,25.0,Lima,Masivo,Mensual,24,114.26,2493.13,DSL,No,Sí,1,0,Tarjeta,8,62.7,72.5,11,CMP-A,1
+NT-000379,Femenino,68.0,Norte,Masivo,Mensual,18,108.29,1912.17,Fibra,No,Sí,1,0,Débito automático,2,100.0,90.8,13,CMP-A,0
+NT-000380,Masculino,42.0,Centro,Masivo,Anual,57,46.05,2139.34,Sin internet,No,No,0,0,Débito automático,1,59.7,64.0,9,CMP-C,0
+NT-000381,Masculino,28.0,Lima,Masivo,Bianual,54,120.1,6664.12,Fibra,Sí,Sí,0,0,Tarjeta,12,81.1,58.0,18,CMP-B,0
+NT-000382,Masculino,50.0,Lima,Joven digital,Mensual,17,76.75,1317.24,DSL,No,No,2,0,Débito automático,6,80.8,89.5,12,CMP-A,0
+NT-000383,Masculino,37.0,Norte,Masivo,Anual,29,49.84,1411.7,Sin internet,No,No,0,0,Débito automático,1,61.1,69.8,13,CMP-A,0
+NT-000384,Femenino,35.0,Oriente,Masivo,Bianual,47,99.71,3297.34,DSL,Sí,Sí,1,0,Débito automático,3,66.1,80.5,11,CMP-A,0
+NT-000385,Femenino,45.0,Lima,Joven digital,Mensual,39,104.51,3757.32,DSL,Sí,Sí,2,1,Transferencia,3,70.3,54.7,19,CMP-B,0
+NT-000386,Masculino,21.0,Lima,Masivo,Mensual,41,63.94,2230.67,DSL,No,No,1,0,Transferencia,6,65.0,68.8,13,CMP-C,1
+NT-000387,Masculino,43.0,Lima,Premium,Anual,15,133.7,2042.98,Fibra,Sí,No,1,0,Débito automático,1,63.2,54.1,18,CMP-C,0
+NT-000388,Masculino,,Norte,Joven digital,Anual,86,103.33,9007.94,Fibra,No,No,2,2,Débito automático,1,,70.9,16,CMP-A,0
+NT-000389,Femenino,44.0,Norte,Masivo,Mensual,19,89.01,1635.65,Fibra,No,No,1,1,Efectivo,4,72.3,56.6,20,CMP-A,0
+NT-000390,Masculino,33.0,Sur,Joven digital,Anual,19,105.28,1711.84,Fibra,Sí,Sí,0,0,Débito automático,1,50.4,54.7,15,CMP-C,0
+NT-000391,Masculino,31.0,Centro,Masivo,Anual,10,109.89,1147.91,Fibra,No,No,0,0,Efectivo,13,94.4,70.1,20,CMP-D,0
+NT-000392,Femenino,33.0,Sur,Familia,Bianual,27,101.78,2532.73,Fibra,Sí,No,0,0,Transferencia,8,,45.2,17,CMP-A,0
+NT-000393,Masculino,,Sur,Joven digital,Bianual,65,39.78,2757.33,Sin internet,No,No,0,0,Tarjeta,7,72.6,55.0,8,CMP-B,0
+NT-000394,Masculino,33.0,Lima,Joven digital,Anual,38,86.77,3160.68,DSL,No,No,3,0,Tarjeta,0,80.0,81.6,10,CMP-A,0
+NT-000395,Femenino,50.0,Norte,Premium,Anual,29,123.72,,DSL,No,Sí,2,0,Tarjeta,2,78.2,75.6,18,CMP-B,0
+NT-000396,Femenino,18.0,Lima,Familia,Mensual,51,88.53,4098.65,DSL,No,Sí,1,0,Transferencia,3,42.1,45.6,8,CMP-B,1
+NT-000397,Masculino,49.0,Lima,Familia,Anual,64,115.95,,Fibra,Sí,Sí,1,0,Tarjeta,1,85.9,79.6,10,CMP-A,0
+NT-000398,Femenino,33.0,,Masivo,Mensual,54,79.29,4207.12,Fibra,No,No,2,1,Transferencia,6,65.6,52.4,18,CMP-D,0
+NT-000399,Femenino,,Centro,Masivo,Anual,6,103.5,646.46,DSL,Sí,Sí,0,0,Débito automático,6,96.4,83.7,12,CMP-D,0
+NT-000400,Femenino,23.0,Oriente,Familia,Mensual,52,93.27,4619.31,DSL,No,Sí,2,0,Transferencia,7,59.2,61.2,10,CMP-C,0
+NT-000401,Femenino,55.0,Lima,Joven digital,Anual,43,96.75,,Fibra,No,No,0,0,Transferencia,9,93.6,69.6,10,CMP-D,0
+NT-000402,Masculino,54.0,Norte,Familia,Mensual,16,122.67,1926.72,Fibra,Sí,Sí,4,1,Tarjeta,9,69.3,63.3,12,CMP-B,0
+NT-000403,Masculino,50.0,,Familia,Mensual,43,109.18,4887.12,Fibra,Sí,No,1,0,Débito automático,26,100.0,100.0,18,CMP-D,0
+NT-000404,Femenino,18.0,Lima,Masivo,Mensual,65,77.47,5091.8,Fibra,No,No,1,0,Débito automático,4,64.3,53.7,13,CMP-B,0
+NT-000405,Masculino,49.0,Lima,Masivo,Anual,20,131.14,2490.81,Fibra,Sí,Sí,3,1,Transferencia,3,89.5,76.1,20,CMP-B,1
+NT-000406,Masculino,43.0,Norte,Joven digital,Anual,56,113.45,5146.06,Fibra,No,Sí,0,0,Transferencia,6,,83.2,17,CMP-C,0
+NT-000407,Femenino,18.0,Lima,Masivo,Mensual,39,89.76,3489.18,DSL,No,No,2,2,Débito automático,10,68.1,51.7,11,CMP-C,0
+NT-000408,Masculino,38.0,Oriente,Familia,Bianual,1,42.07,42.07,Sin internet,No,No,2,0,Transferencia,0,65.4,48.0,10,CMP-C,0
+NT-000409,Femenino,,Lima,Familia,Bianual,31,118.52,3462.68,Fibra,Sí,Sí,1,0,Débito automático,1,62.0,60.3,20,CMP-D,0
+NT-000410,Masculino,45.0,Lima,Joven digital,Mensual,38,86.54,3064.56,DSL,Sí,No,1,1,Tarjeta,2,31.2,67.5,19,CMP-B,0
+NT-000411,Masculino,40.0,Centro,Familia,Anual,25,84.05,1766.64,DSL,Sí,No,2,1,Efectivo,4,78.1,66.6,9,CMP-C,0
+NT-000412,Masculino,42.0,Lima,Joven digital,Mensual,40,97.91,3783.54,Fibra,No,No,2,0,Débito automático,2,72.7,62.1,12,CMP-A,0
+NT-000413,Femenino,57.0,Sur,Familia,Mensual,28,90.24,2756.15,DSL,No,Sí,3,0,Transferencia,9,79.5,78.2,17,CMP-A,1
+NT-000414,Masculino,54.0,Centro,Masivo,Anual,117,234.78,8879.32,Fibra,No,No,20,3,Débito automático,81,77.3,60.4,20,CMP-B,0
+NT-000415,Femenino,18.0,Lima,Familia,Mensual,24,72.28,1723.64,DSL,Sí,No,0,0,Débito automático,3,80.0,65.2,19,CMP-C,0
+NT-000416,Femenino,34.0,Centro,Familia,Bianual,17,111.37,2091.89,Fibra,Sí,No,2,0,Débito automático,6,84.0,52.4,11,CMP-C,0
+NT-000417,Femenino,,Centro,Masivo,Bianual,55,54.45,2995.9,Sin internet,No,No,2,0,Débito automático,0,25.0,65.7,19,CMP-A,0
+NT-000418,Masculino,18.0,Centro,Joven digital,Anual,26,42.71,993.71,Sin internet,No,No,0,0,Tarjeta,5,79.2,74.2,17,CMP-D,0
+NT-000419,Femenino,39.0,Sur,Familia,Anual,29,134.32,3726.19,Fibra,Sí,Sí,0,1,Transferencia,1,66.8,79.4,14,CMP-C,0
+NT-000420,Masculino,54.0,Centro,Masivo,Anual,28,312.45,3710.95,Fibra,Sí,Sí,18,0,Tarjeta,78,89.5,58.2,12,CMP-C,0
+NT-000421,Masculino,24.0,Norte,Familia,Bianual,53,114.4,6307.95,Fibra,No,Sí,0,0,Tarjeta,0,80.9,69.1,18,CMP-C,0
+NT-000422,Femenino,,Lima,Premium,Mensual,13,117.67,1567.93,DSL,No,Sí,3,1,Débito automático,6,71.0,48.2,18,CMP-C,1
+NT-000423,Femenino,26.0,Centro,Familia,Mensual,56,106.76,4460.65,DSL,Sí,Sí,4,1,Débito automático,1,57.9,59.2,19,CMP-B,0
+NT-000424,Femenino,,Oriente,Masivo,Anual,45,122.86,4865.62,Fibra,No,Sí,0,0,Débito automático,11,58.3,86.8,14,CMP-B,0
+NT-000425,Masculino,57.0,Norte,Joven digital,Mensual,94,91.77,8066.51,DSL,Sí,No,1,0,Transferencia,0,63.5,59.3,11,CMP-A,0
+NT-000426,Masculino,31.0,Centro,Premium,Mensual,36,168.73,5278.12,Fibra,Sí,Sí,2,0,Transferencia,4,45.0,42.3,19,CMP-C,0
+NT-000427,Femenino,44.0,Norte,Joven digital,Mensual,14,122.84,1171.15,Fibra,Sí,Sí,1,0,Débito automático,7,71.1,56.0,11,CMP-A,1
+NT-000428,Masculino,18.0,Centro,Masivo,Anual,36,125.18,4007.19,Fibra,Sí,Sí,2,0,Débito automático,5,50.0,,17,CMP-C,0
+NT-000429,Femenino,62.0,Oriente,Masivo,Mensual,39,110.93,4065.6,Fibra,No,Sí,1,0,Tarjeta,5,50.4,44.2,14,CMP-B,1
+NT-000430,Masculino,46.0,Lima,Familia,Mensual,69,93.54,5829.68,Fibra,No,No,3,2,Débito automático,1,73.7,74.0,15,CMP-A,0
+NT-000431,Masculino,36.0,Lima,Masivo,Mensual,14,122.51,1492.54,Fibra,No,Sí,4,2,Efectivo,1,80.0,,10,CMP-B,0
+NT-000432,Masculino,45.0,Norte,Masivo,Mensual,8,105.88,798.68,Fibra,Sí,Sí,0,2,Débito automático,5,71.5,68.9,11,CMP-D,1
+NT-000433,Masculino,20.0,Norte,Masivo,Bianual,37,42.27,1507.71,Sin internet,No,No,1,0,Efectivo,4,,67.1,16,CMP-C,0
+NT-000434,Masculino,53.0,Norte,Familia,Mensual,96,111.28,9691.49,Fibra,No,Sí,0,0,Tarjeta,1,57.8,55.5,11,CMP-B,0
+NT-000435,Femenino,34.0,Lima,Joven digital,Anual,49,35.0,1776.78,Sin internet,No,No,0,0,Transferencia,1,65.2,71.7,16,CMP-B,0
+NT-000436,Femenino,35.0,Lima,Familia,Anual,51,78.05,3757.8,DSL,No,No,2,2,Transferencia,3,49.7,53.8,20,CMP-C,0
+NT-000437,Femenino,32.0,Norte,Familia,Mensual,10,83.48,733.78,DSL,No,Sí,1,1,Transferencia,2,61.1,73.9,9,CMP-A,0
+NT-000438,Masculino,30.0,Norte,Premium,Anual,32,125.79,3466.9,Fibra,No,No,2,0,Transferencia,16,49.2,56.8,20,CMP-C,1
+NT-000439,Masculino,47.0,Centro,Familia,Anual,70,103.64,6711.36,DSL,Sí,No,1,1,Tarjeta,11,72.5,65.0,10,CMP-A,0
+NT-000440,Masculino,41.0,Centro,Masivo,Anual,40,103.09,4197.58,Fibra,No,No,1,0,Transferencia,8,63.5,61.9,9,CMP-D,0
+NT-000441,Masculino,46.0,Centro,Familia,Mensual,8,132.17,932.95,Fibra,Sí,Sí,2,1,Débito automático,12,77.6,74.9,18,CMP-C,1
+NT-000442,Femenino,38.0,Sur,Masivo,Mensual,32,97.43,3060.74,Fibra,No,No,1,1,Débito automático,2,85.3,74.4,10,CMP-A,0
+NT-000443,Masculino,45.0,Norte,Premium,Bianual,47,127.52,5673.5,Fibra,No,No,1,1,Tarjeta,2,76.9,36.8,16,CMP-B,0
+NT-000444,Femenino,33.0,,Masivo,Anual,30,59.99,1942.82,Sin internet,No,No,1,0,Tarjeta,10,74.0,73.6,9,CMP-D,0
+NT-000445,Femenino,67.0,Norte,Familia,Bianual,15,49.22,714.17,,No,No,1,1,Efectivo,4,31.0,39.9,9,CMP-D,0
+NT-000446,Masculino,18.0,Lima,Familia,Bianual,56,83.25,4154.42,DSL,No,Sí,2,0,Débito automático,4,54.6,62.4,10,CMP-A,0
+NT-000447,Masculino,54.0,Lima,Masivo,Mensual,23,81.4,1856.37,Fibra,No,No,1,1,Débito automático,1,88.5,66.5,14,CMP-B,0
+NT-000448,Masculino,56.0,Norte,Familia,Anual,42,47.1,1966.14,Sin internet,No,No,1,2,Tarjeta,9,69.6,65.0,11,CMP-A,0
+NT-000449,Femenino,27.0,Sur,Masivo,Mensual,31,104.5,2955.1,DSL,Sí,Sí,5,3,Transferencia,6,89.7,74.7,10,CMP-B,1
+NT-000450,Masculino,67.0,Centro,Joven digital,Anual,22,114.14,,Fibra,Sí,Sí,2,0,Transferencia,3,100.0,84.4,18,CMP-D,0
+NT-000451,Femenino,51.0,Lima,Joven digital,Mensual,103,112.86,,Fibra,Sí,No,2,0,Efectivo,2,84.5,57.2,10,CMP-C,0
+NT-000452,Masculino,51.0,Norte,Masivo,Mensual,20,87.58,1654.29,DSL,No,Sí,4,2,Débito automático,11,58.2,51.9,9,CMP-B,1
+NT-000453,Masculino,38.0,Lima,Joven digital,Anual,33,131.78,3626.16,Fibra,Sí,Sí,1,2,Tarjeta,2,65.6,68.3,9,CMP-B,1
+NT-000454,Femenino,35.0,Centro,Premium,Anual,31,150.98,4482.95,Fibra,No,Sí,1,0,Tarjeta,1,64.9,48.6,19,CMP-C,0
+NT-000455,Femenino,35.0,Sur,Masivo,Anual,36,66.53,2144.58,DSL,No,No,1,0,Tarjeta,11,55.9,60.9,14,CMP-C,1
+NT-000456,Femenino,43.0,Norte,Joven digital,Mensual,99,117.7,9716.94,Fibra,No,Sí,2,0,Débito automático,11,71.1,82.3,20,CMP-B,0
+NT-000457,Masculino,56.0,Norte,Familia,Mensual,47,104.52,4496.61,Fibra,Sí,No,1,0,Efectivo,2,58.2,42.9,18,CMP-B,1
+NT-000458,Femenino,,Lima,Familia,Bianual,22,90.1,2041.28,Fibra,No,No,3,2,Tarjeta,19,78.0,66.6,11,CMP-D,1
+NT-000459,Masculino,26.0,Norte,Masivo,Mensual,80,85.21,6984.25,DSL,No,Sí,0,0,Débito automático,3,87.4,60.0,18,CMP-C,0
+NT-000460,Masculino,49.0,Sur,Premium,Mensual,53,87.18,4649.52,Sin internet,No,No,2,0,Transferencia,2,76.0,,13,CMP-D,0
+NT-000461,Masculino,50.0,Centro,Masivo,Anual,22,102.47,2161.57,DSL,Sí,Sí,1,1,Débito automático,6,57.2,60.3,15,CMP-D,0
+NT-000462,Femenino,47.0,Norte,Joven digital,Mensual,72,84.35,5962.1,DSL,No,No,1,0,Transferencia,1,85.2,61.1,14,CMP-B,0
+NT-000463,Masculino,48.0,Lima,Joven digital,Anual,10,103.05,975.79,DSL,Sí,No,1,1,Débito automático,1,75.2,57.1,17,CMP-D,0
+NT-000464,Femenino,34.0,Lima,Familia,Mensual,13,83.35,934.72,DSL,No,Sí,0,0,Tarjeta,5,61.4,63.2,10,CMP-D,0
+NT-000465,Masculino,26.0,Lima,Masivo,Anual,7,100.71,617.99,Fibra,Sí,Sí,2,0,Débito automático,4,70.5,73.2,8,CMP-A,0
+NT-000466,Masculino,27.0,Lima,Masivo,Bianual,4,136.4,489.67,Fibra,Sí,Sí,1,1,Débito automático,1,69.0,57.9,17,CMP-A,0
+NT-000467,Masculino,18.0,Lima,Familia,Bianual,69,68.92,4936.64,DSL,No,No,2,0,Transferencia,16,71.8,82.8,20,CMP-A,0
+NT-000468,Masculino,41.0,Oriente,Masivo,Anual,36,97.2,3552.98,DSL,Sí,Sí,2,3,Tarjeta,2,64.1,72.1,15,CMP-C,0
+NT-000469,Femenino,37.0,Norte,Joven digital,Mensual,8,106.7,737.86,Fibra,No,Sí,2,1,Débito automático,4,69.1,75.5,9,CMP-D,1
+NT-000470,Masculino,32.0,Lima,Familia,Anual,31,68.27,1997.3,DSL,No,No,3,0,Efectivo,2,50.3,61.8,9,CMP-D,0
+NT-000471,Femenino,18.0,Lima,Familia,Anual,58,116.67,6170.14,DSL,Sí,Sí,2,2,Débito automático,1,66.6,72.1,15,CMP-B,0
+NT-000472,Femenino,22.0,Lima,Masivo,Anual,18,128.44,2148.1,Fibra,Sí,Sí,0,2,Tarjeta,4,78.4,68.3,19,CMP-C,1
+NT-000473,Femenino,53.0,Sur,Masivo,Anual,25,138.55,3125.95,Fibra,Sí,Sí,0,1,Efectivo,7,67.3,,15,CMP-A,1
+NT-000474,Femenino,29.0,Lima,Premium,Anual,106,133.45,14688.87,Fibra,No,No,0,0,Tarjeta,3,55.0,,11,CMP-C,0
+NT-000475,Femenino,43.0,Sur,Joven digital,Anual,27,109.22,2768.1,Fibra,No,Sí,1,1,Transferencia,1,98.8,74.9,16,CMP-B,0
+NT-000476,Femenino,20.0,Sur,Masivo,Anual,8,105.49,806.05,Fibra,Sí,No,0,0,Tarjeta,9,87.6,66.8,10,CMP-D,0
+NT-000477,Femenino,57.0,Lima,Masivo,Mensual,21,132.05,2650.2,Fibra,Sí,Sí,1,1,Transferencia,9,42.2,52.9,14,CMP-D,0
+NT-000478,Masculino,36.0,Norte,Masivo,Mensual,7,134.38,816.55,Fibra,Sí,Sí,0,0,Tarjeta,3,92.1,71.7,20,CMP-C,1
+NT-000479,Masculino,42.0,Oriente,Premium,Anual,50,137.97,6537.01,Fibra,No,No,0,0,Débito automático,5,68.9,80.1,16,CMP-C,0
+NT-000480,Femenino,68.0,Lima,Masivo,Mensual,16,84.65,1373.85,DSL,Sí,No,2,0,Efectivo,8,64.8,54.8,9,CMP-D,1
+NT-000481,Femenino,58.0,Lima,Masivo,Bianual,15,88.58,1385.95,DSL,Sí,No,5,2,Débito automático,7,79.1,72.9,10,CMP-B,0
+NT-000482,Femenino,34.0,Oriente,Joven digital,Anual,113,247.92,9642.19,Fibra,No,No,24,1,Tarjeta,47,,77.4,8,CMP-A,0
+NT-000483,Masculino,30.0,Sur,Masivo,Mensual,11,123.54,1132.95,Fibra,Sí,Sí,1,0,Tarjeta,6,,72.3,13,CMP-C,0
+NT-000484,Femenino,34.0,Norte,Masivo,Anual,10,83.79,791.27,Fibra,No,No,1,0,Tarjeta,5,75.6,48.4,11,CMP-B,0
+NT-000485,Femenino,45.0,Norte,Premium,Anual,13,139.74,1848.67,Fibra,No,Sí,2,2,Tarjeta,4,51.4,54.2,20,CMP-C,1
+NT-000486,Femenino,,Lima,Familia,Anual,59,109.83,6254.28,Fibra,No,Sí,0,1,Débito automático,1,41.6,46.7,12,CMP-D,0
+NT-000487,Femenino,33.0,Sur,Masivo,Mensual,45,114.96,5109.16,Fibra,Sí,No,1,0,Débito automático,1,,67.8,8,CMP-C,0
+NT-000488,Femenino,57.0,Norte,Joven digital,Bianual,21,105.33,1868.6,Fibra,No,No,3,1,Efectivo,6,100.0,63.3,13,CMP-B,0
+NT-000489,Masculino,37.0,Lima,Masivo,Mensual,19,35.0,598.47,Sin internet,No,No,2,1,Transferencia,2,49.8,54.5,17,CMP-C,1
+NT-000490,Masculino,68.0,Centro,Masivo,Anual,43,106.62,3604.79,Fibra,No,Sí,0,1,Efectivo,6,68.0,53.7,16,CMP-B,0
+NT-000491,Masculino,39.0,Oriente,Joven digital,Mensual,37,83.78,2882.95,DSL,Sí,No,0,0,Débito automático,1,61.6,57.8,20,CMP-A,1
+NT-000492,Masculino,61.0,Sur,Joven digital,Anual,28,119.15,2630.61,Fibra,No,Sí,2,0,Débito automático,2,71.2,55.2,12,CMP-D,0
+NT-000493,Masculino,43.0,Lima,Familia,Anual,47,122.25,5937.0,Fibra,Sí,Sí,2,2,Débito automático,3,88.1,82.7,14,CMP-B,0
+NT-000494,Femenino,51.0,Lima,Familia,Anual,12,38.13,479.91,Sin internet,No,No,0,0,Débito automático,0,65.3,75.0,15,CMP-C,0
+NT-000495,Masculino,29.0,Oriente,Masivo,Mensual,16,99.29,1508.96,Fibra,No,Sí,3,0,Tarjeta,1,68.6,66.3,8,CMP-D,0
+NT-000496,Masculino,27.0,Oriente,Premium,Anual,48,144.35,5779.45,DSL,Sí,Sí,3,0,Transferencia,2,100.0,71.1,8,CMP-A,1
+NT-000497,Femenino,44.0,Norte,Joven digital,Anual,39,40.55,1528.15,Sin internet,No,No,2,1,Transferencia,4,48.5,39.2,18,CMP-B,0
+NT-000498,Masculino,51.0,Centro,Masivo,Mensual,32,84.11,2880.3,DSL,No,Sí,3,0,Débito automático,3,70.2,58.7,13,CMP-A,1
+NT-000499,Femenino,39.0,Norte,Familia,Bianual,110,124.66,13346.49,Fibra,Sí,Sí,1,0,Débito automático,5,56.3,57.2,16,CMP-B,0
+NT-000500,Masculino,21.0,Lima,Masivo,Anual,54,104.14,5752.61,Fibra,No,No,0,0,Tarjeta,4,69.6,72.7,20,CMP-B,0
+NT-000501,Masculino,20.0,Lima,Joven digital,Bianual,21,102.96,1959.0,Fibra,No,Sí,1,0,Débito automático,3,82.2,79.9,11,CMP-D,0
+NT-000502,Masculino,19.0,Lima,Familia,Bianual,17,86.43,1291.55,Fibra,No,No,0,0,Débito automático,2,84.7,76.5,18,CMP-B,0
+NT-000503,Masculino,,Lima,Masivo,Bianual,41,120.27,4610.75,Fibra,Sí,No,2,0,Efectivo,4,68.1,85.7,10,CMP-C,0
+NT-000504,Masculino,39.0,Sur,Familia,Anual,68,72.68,3979.15,DSL,No,No,2,1,Débito automático,10,56.5,59.8,17,CMP-A,0
+NT-000505,Masculino,53.0,Lima,Masivo,Anual,6,93.03,613.15,DSL,Sí,No,2,1,Débito automático,2,57.8,59.5,10,CMP-B,1
+NT-000506,Masculino,38.0,Lima,Familia,Mensual,39,97.62,3615.97,Fibra,No,No,1,2,Transferencia,16,55.8,75.5,11,CMP-D,1
+NT-000507,Femenino,18.0,Norte,Masivo,Anual,25,108.68,2718.83,Fibra,Sí,No,1,0,Efectivo,4,81.5,73.8,14,CMP-C,1
+NT-000508,Masculino,36.0,Lima,Masivo,Anual,36,83.87,2740.62,DSL,Sí,No,0,0,Transferencia,8,66.2,65.7,14,CMP-B,0
+NT-000509,Masculino,,Lima,Masivo,Anual,9,49.48,370.5,Sin internet,No,No,0,1,Débito automático,5,68.5,93.3,8,CMP-D,0
+NT-000510,Femenino,65.0,Norte,Familia,Bianual,68,350.83,8446.64,Fibra,Sí,No,24,0,Débito automático,55,71.0,,18,CMP-D,0
+NT-000511,Femenino,19.0,Lima,Masivo,Mensual,81,103.76,7238.96,Fibra,No,No,1,0,Transferencia,1,69.1,62.0,8,CMP-B,0
+NT-000512,Masculino,33.0,Norte,Familia,Mensual,50,79.33,3825.37,DSL,No,Sí,4,0,Transferencia,2,79.6,57.4,19,CMP-D,0
+NT-000513,Femenino,60.0,Oriente,Masivo,Anual,91,53.74,4748.6,Sin internet,No,No,1,1,Efectivo,3,77.3,88.2,10,CMP-A,0
+NT-000514,Femenino,44.0,Lima,Joven digital,Mensual,24,38.78,879.69,Sin internet,No,No,3,3,Débito automático,6,91.2,71.1,17,CMP-B,0
+NT-000515,Femenino,45.0,,Masivo,Mensual,38,120.2,4042.69,Fibra,Sí,Sí,0,1,Transferencia,3,77.6,,17,CMP-D,0
+NT-000516,Femenino,39.0,Sur,Masivo,Mensual,51,107.48,5095.18,Fibra,Sí,No,3,2,Tarjeta,8,92.3,77.4,13,CMP-D,1
+NT-000517,Femenino,42.0,Sur,Premium,Anual,41,154.48,5532.45,Fibra,No,Sí,2,1,Tarjeta,2,65.8,80.3,14,CMP-D,0
+NT-000518,Masculino,48.0,Centro,Joven digital,Mensual,26,116.86,3028.16,Fibra,No,Sí,4,0,Tarjeta,2,77.0,73.0,8,CMP-A,0
+NT-000519,Femenino,27.0,Norte,Familia,Mensual,28,87.7,2406.51,DSL,No,Sí,1,1,Tarjeta,2,79.9,77.9,19,CMP-A,0
+NT-000520,Masculino,49.0,Centro,Joven digital,Mensual,76,116.54,8312.35,Fibra,Sí,No,0,0,Débito automático,7,92.7,74.6,9,CMP-C,0
+NT-000521,Masculino,20.0,Centro,Joven digital,Mensual,31,91.26,2546.76,DSL,No,Sí,3,0,Débito automático,13,65.6,71.0,16,CMP-A,0
+NT-000522,Femenino,42.0,Lima,Joven digital,Mensual,66,36.84,2644.22,,No,No,1,1,Transferencia,17,54.3,52.3,8,CMP-D,1
+NT-000523,Femenino,40.0,Oriente,Familia,Anual,30,35.63,907.34,Sin internet,No,No,2,1,Débito automático,6,58.9,,17,CMP-D,0
+NT-000524,Masculino,30.0,Norte,Familia,Anual,66,90.69,4979.23,DSL,Sí,No,2,1,Tarjeta,8,51.7,,12,CMP-D,1
+NT-000525,Femenino,38.0,Sur,Joven digital,Mensual,34,41.26,1310.62,Sin internet,No,No,2,0,Transferencia,1,95.9,73.3,14,CMP-D,0
+NT-000526,Femenino,,Lima,Joven digital,Anual,48,96.62,4275.72,Fibra,Sí,No,2,0,Tarjeta,1,91.4,56.1,8,CMP-A,0
+NT-000527,Masculino,24.0,Lima,Joven digital,Mensual,19,119.62,2311.03,Fibra,No,Sí,2,1,Tarjeta,1,68.5,63.1,10,CMP-D,0
+NT-000528,Masculino,33.0,Norte,Joven digital,Mensual,38,104.68,3919.08,Fibra,Sí,No,0,0,Efectivo,11,64.3,56.1,13,CMP-B,0
+NT-000529,Masculino,24.0,Norte,Joven digital,Bianual,19,56.33,1008.27,Sin internet,No,No,0,1,Tarjeta,11,58.3,69.3,17,CMP-A,0
+NT-000530,Femenino,42.0,,Joven digital,Anual,23,35.0,784.89,Sin internet,No,No,1,1,Débito automático,20,61.6,72.5,15,CMP-B,1
+NT-000531,Masculino,23.0,Lima,Familia,Bianual,25,110.37,2686.82,Fibra,No,Sí,1,0,Transferencia,1,,57.1,11,CMP-D,0
+NT-000532,Masculino,47.0,Lima,Premium,Mensual,28,137.7,4192.0,Fibra,Sí,No,0,0,Débito automático,3,88.7,67.6,15,CMP-D,0
+NT-000533,Femenino,23.0,Norte,Premium,Mensual,61,153.22,8951.4,Fibra,Sí,Sí,1,0,Débito automático,0,57.5,80.5,10,CMP-C,0
+NT-000534,Masculino,31.0,Lima,Familia,Mensual,22,89.62,1759.34,Fibra,No,No,2,2,Transferencia,1,100.0,52.9,15,CMP-A,1
+NT-000535,Femenino,30.0,Oriente,Joven digital,Mensual,35,120.94,4037.74,DSL,Sí,Sí,0,0,Débito automático,3,55.9,51.0,15,CMP-C,1
+NT-000536,Femenino,55.0,Lima,Familia,Bianual,66,128.29,6407.02,Fibra,Sí,Sí,1,1,Débito automático,1,50.9,77.4,10,CMP-C,0
+NT-000537,Masculino,42.0,Lima,Masivo,Mensual,47,82.87,3652.3,DSL,No,Sí,3,0,Efectivo,1,87.3,68.7,10,CMP-C,0
+NT-000538,Femenino,35.0,Lima,Joven digital,Bianual,6,55.54,338.74,DSL,No,No,1,1,Tarjeta,2,89.8,75.1,14,CMP-B,0
+NT-000539,Femenino,44.0,Norte,Masivo,Bianual,9,96.51,853.09,Fibra,No,Sí,2,0,Débito automático,12,69.3,,15,CMP-A,1
+NT-000540,Masculino,18.0,Norte,Masivo,Anual,42,122.17,4930.51,,Sí,Sí,0,0,Tarjeta,9,77.7,60.7,20,CMP-B,0
+NT-000541,Masculino,37.0,Centro,Premium,Mensual,22,71.3,1545.77,Sin internet,No,No,0,0,Tarjeta,1,68.1,57.5,14,CMP-D,0
+NT-000542,Masculino,64.0,Oriente,Familia,Anual,8,87.98,715.97,DSL,No,Sí,3,1,Efectivo,9,64.1,60.2,13,CMP-B,1
+NT-000543,Masculino,40.0,Lima,Joven digital,Mensual,20,88.55,1841.43,Fibra,Sí,No,2,1,Transferencia,2,60.6,,14,CMP-A,1
+NT-000544,Masculino,39.0,Centro,Masivo,Anual,43,111.17,,Fibra,No,Sí,2,1,Tarjeta,1,34.8,80.7,19,CMP-B,0
+NT-000545,Femenino,45.0,Lima,Familia,Mensual,24,51.25,1128.98,Sin internet,No,No,2,1,Débito automático,2,49.3,38.8,11,CMP-B,0
+NT-000546,Femenino,50.0,Lima,Joven digital,Bianual,33,86.61,2223.78,DSL,No,No,1,0,Tarjeta,5,97.2,59.0,12,CMP-C,0
+NT-000547,Femenino,18.0,,Familia,Anual,26,72.95,1912.77,DSL,No,Sí,4,2,Transferencia,1,89.8,,12,CMP-C,1
+NT-000548,Femenino,18.0,,Premium,Anual,18,132.79,2333.01,DSL,Sí,Sí,1,0,Débito automático,6,58.1,85.7,16,CMP-B,0
+NT-000549,Masculino,,Norte,Masivo,Anual,38,79.31,2865.16,DSL,Sí,No,1,1,Efectivo,2,47.6,57.6,17,CMP-A,0
+NT-000550,Femenino,29.0,Centro,Masivo,Anual,7,110.31,688.65,Fibra,Sí,No,0,0,Tarjeta,5,76.2,66.5,14,CMP-B,0
+NT-000551,Femenino,55.0,Centro,Masivo,Bianual,16,76.02,1225.52,DSL,Sí,No,0,1,Débito automático,1,68.6,48.4,11,CMP-A,0
+NT-000552,Femenino,34.0,Norte,Masivo,Mensual,54,127.14,6330.0,Fibra,No,Sí,0,0,Efectivo,4,81.0,63.2,16,CMP-C,0
+NT-000553,Femenino,18.0,Norte,Masivo,Bianual,9,90.39,,DSL,No,Sí,1,0,Efectivo,1,24.1,,11,CMP-B,0
+NT-000554,Masculino,22.0,Lima,Masivo,Anual,32,40.89,1224.84,Sin internet,No,No,2,0,Tarjeta,3,100.0,78.3,19,CMP-B,0
+NT-000555,Femenino,18.0,Lima,Masivo,Bianual,23,56.33,1258.65,Sin internet,No,No,1,0,Débito automático,16,79.0,69.8,16,CMP-C,0
+NT-000556,Femenino,35.0,Lima,Masivo,Mensual,21,111.86,2019.24,Fibra,No,Sí,2,0,Efectivo,2,69.0,44.1,13,CMP-D,1
+NT-000557,Femenino,36.0,Centro,Masivo,Anual,57,90.6,5057.71,DSL,Sí,No,1,0,Transferencia,1,51.2,,11,CMP-B,0
+NT-000558,Masculino,32.0,Oriente,Familia,Mensual,65,35.24,2037.58,Sin internet,No,No,3,1,Transferencia,4,76.8,67.7,17,CMP-C,0
+NT-000559,Masculino,,Lima,Masivo,Anual,13,35.0,405.86,Sin internet,No,No,2,0,Transferencia,4,69.4,56.6,15,CMP-C,0
+NT-000560,Masculino,54.0,Norte,Familia,Mensual,28,99.51,2791.76,DSL,Sí,Sí,0,0,Efectivo,4,63.4,71.9,19,CMP-C,0
+NT-000561,Femenino,36.0,Centro,Masivo,Mensual,5,113.68,494.71,Fibra,No,No,1,0,Débito automático,6,78.9,77.7,17,CMP-B,1
+NT-000562,Femenino,18.0,Sur,Masivo,Mensual,55,117.7,6485.42,Fibra,No,Sí,1,0,Tarjeta,2,70.3,57.8,18,CMP-A,0
+NT-000563,Masculino,46.0,Norte,Masivo,Mensual,31,44.47,1305.64,Sin internet,No,No,3,1,Débito automático,6,68.0,73.7,9,CMP-A,0
+NT-000564,Masculino,45.0,,Familia,Mensual,8,81.21,535.74,DSL,No,Sí,4,1,Transferencia,3,72.9,63.7,8,CMP-A,1
+NT-000565,Masculino,42.0,Centro,Masivo,Anual,17,80.2,1411.82,DSL,No,No,5,0,Débito automático,1,67.1,84.0,16,CMP-A,1
+NT-000566,Masculino,51.0,Sur,Joven digital,Mensual,12,59.78,689.9,DSL,No,No,3,3,Débito automático,7,74.4,91.8,8,CMP-D,1
+NT-000567,Masculino,23.0,Lima,Masivo,Anual,16,112.9,1747.85,Fibra,Sí,Sí,1,1,Transferencia,4,92.9,59.5,19,CMP-A,0
+NT-000568,Femenino,64.0,Oriente,Premium,Mensual,6,156.97,951.72,Fibra,Sí,Sí,1,0,Débito automático,6,48.0,70.6,19,CMP-D,0
+NT-000569,Femenino,26.0,Lima,Masivo,Anual,75,104.59,8196.81,DSL,Sí,No,1,2,Efectivo,1,50.0,83.0,15,CMP-D,0
+NT-000570,Masculino,48.0,Sur,Masivo,Anual,14,144.08,1924.48,Fibra,Sí,Sí,0,1,Débito automático,8,72.4,57.4,17,CMP-A,0
+NT-000571,Femenino,18.0,Lima,Familia,Mensual,32,82.94,2609.52,DSL,Sí,No,0,0,Transferencia,20,51.1,53.7,13,CMP-B,0
+NT-000572,Masculino,26.0,Lima,Masivo,Anual,42,83.93,3405.15,DSL,No,Sí,4,0,Débito automático,1,56.1,59.5,20,CMP-B,0
+NT-000573,Femenino,58.0,Lima,Masivo,Bianual,65,57.24,3408.07,DSL,No,No,1,0,Tarjeta,9,81.3,69.9,8,CMP-B,0
+NT-000574,Masculino,35.0,Norte,Familia,Anual,32,109.7,2910.68,Fibra,Sí,No,2,2,Débito automático,4,69.8,64.9,11,CMP-B,1
+NT-000575,Masculino,49.0,Lima,Masivo,Mensual,26,73.46,1824.1,DSL,No,No,0,0,Tarjeta,4,34.6,55.7,17,CMP-B,0
+NT-000576,Masculino,41.0,Lima,Masivo,Mensual,33,119.11,4074.2,Fibra,No,Sí,0,2,Transferencia,8,65.6,74.7,18,CMP-C,0
+NT-000577,Masculino,37.0,Norte,Masivo,Anual,13,102.2,,Fibra,No,No,1,1,Transferencia,7,72.9,45.5,11,CMP-B,1
+NT-000578,Masculino,56.0,Lima,Masivo,Mensual,14,110.22,1335.2,,No,Sí,2,0,Tarjeta,10,72.6,52.4,18,CMP-A,1
+NT-000579,Masculino,35.0,Centro,Premium,Anual,25,152.0,3863.94,Fibra,No,Sí,0,1,Débito automático,1,80.3,80.2,13,CMP-B,0
+NT-000580,Femenino,18.0,Sur,Joven digital,Mensual,4,35.69,131.1,Sin internet,No,No,1,0,Efectivo,11,77.1,73.1,19,CMP-D,0
+NT-000581,Masculino,28.0,Centro,Joven digital,Anual,18,46.83,668.92,Sin internet,No,No,2,0,Tarjeta,5,67.9,55.5,11,CMP-D,0
+NT-000582,Masculino,,Lima,Masivo,Mensual,22,107.43,2390.06,Fibra,No,Sí,1,0,Efectivo,0,54.1,69.0,16,CMP-A,0
+NT-000583,Femenino,43.0,Lima,Familia,Mensual,100,76.14,6653.29,DSL,No,No,5,3,Tarjeta,2,55.4,79.2,10,CMP-C,1
+NT-000584,Femenino,18.0,Oriente,Familia,Bianual,70,115.41,8601.0,Fibra,No,Sí,1,0,Tarjeta,4,62.7,67.6,9,CMP-D,0
+NT-000585,Masculino,29.0,Lima,Masivo,Bianual,42,90.62,3883.47,DSL,No,Sí,0,0,Débito automático,2,57.7,54.3,17,CMP-A,1
+NT-000586,Masculino,30.0,Lima,Familia,Bianual,56,112.15,5803.43,DSL,Sí,Sí,2,0,Tarjeta,3,72.4,81.4,16,CMP-A,0
+NT-000587,Femenino,33.0,Oriente,Joven digital,Bianual,14,72.87,,DSL,Sí,No,0,0,Efectivo,2,76.1,93.1,11,CMP-A,1
+NT-000588,Femenino,20.0,Oriente,Familia,Mensual,34,102.42,3864.2,Fibra,No,Sí,2,1,Transferencia,28,84.4,55.7,15,CMP-B,1
+NT-000589,Femenino,30.0,Lima,Masivo,Mensual,51,124.57,6416.6,Fibra,Sí,Sí,0,0,Transferencia,7,66.2,64.4,20,CMP-D,0
+NT-000590,Femenino,29.0,Centro,Masivo,Mensual,14,99.01,1326.08,Fibra,No,Sí,1,0,Transferencia,4,94.6,83.2,12,CMP-B,0
+NT-000591,Masculino,48.0,Norte,Familia,Anual,9,38.34,394.14,Sin internet,No,No,1,0,Transferencia,1,72.1,71.5,14,CMP-B,0
+NT-000592,Femenino,49.0,Centro,Familia,Mensual,39,86.63,3203.66,DSL,No,Sí,1,1,Transferencia,10,63.7,40.8,10,CMP-B,0
+NT-000593,Femenino,36.0,Lima,Masivo,Bianual,10,138.79,1361.15,Fibra,Sí,Sí,2,0,Transferencia,6,81.1,77.4,14,CMP-B,0
+NT-000594,Masculino,33.0,Lima,Masivo,Mensual,45,113.28,4457.67,Fibra,No,Sí,3,2,Transferencia,1,61.9,,19,CMP-D,0
+NT-000595,Femenino,40.0,Norte,Familia,Mensual,64,51.26,2699.21,Sin internet,No,No,1,1,Débito automático,1,30.4,41.0,16,CMP-A,0
+NT-000596,Femenino,27.0,Lima,Masivo,Mensual,14,114.72,1477.36,Fibra,No,Sí,3,0,Débito automático,3,62.9,40.9,9,CMP-B,1
+NT-000597,Masculino,23.0,Centro,Masivo,Mensual,15,100.18,1416.58,DSL,Sí,Sí,2,1,Débito automático,4,73.2,80.7,17,CMP-C,1
+NT-000598,Masculino,26.0,Lima,Joven digital,Mensual,63,91.2,5533.29,DSL,No,Sí,0,0,Débito automático,6,71.2,54.0,13,CMP-A,0
+NT-000599,Masculino,30.0,Sur,Masivo,Anual,33,133.56,3705.0,Fibra,Sí,Sí,0,1,Débito automático,3,,73.9,8,CMP-A,0
+NT-000600,Masculino,23.0,Sur,Masivo,Mensual,57,119.74,6731.31,Fibra,Sí,No,3,2,Débito automático,7,59.3,70.2,16,CMP-D,0
+NT-000601,Femenino,40.0,Norte,Masivo,Anual,26,125.81,2884.66,Fibra,Sí,Sí,1,1,Débito automático,2,42.7,66.8,11,CMP-B,1
+NT-000602,Masculino,47.0,Sur,Premium,Bianual,28,147.17,4049.11,Fibra,Sí,Sí,0,0,Tarjeta,3,93.4,77.7,20,CMP-A,0
+NT-000603,Masculino,18.0,Lima,Masivo,Anual,32,71.54,2301.74,DSL,Sí,No,1,0,Transferencia,11,58.9,72.6,20,CMP-B,0
+NT-000604,Masculino,38.0,Norte,Familia,Anual,87,87.06,6910.07,DSL,No,Sí,0,0,Transferencia,7,55.6,68.8,16,CMP-A,0
+NT-000605,Masculino,35.0,Lima,Premium,Mensual,54,107.96,5086.73,Fibra,No,No,0,0,Débito automático,4,61.9,53.3,16,CMP-A,1
+NT-000606,Masculino,42.0,Sur,Familia,Mensual,18,125.16,2361.14,Fibra,Sí,No,2,1,Efectivo,5,90.8,57.3,11,CMP-A,0
+NT-000607,Masculino,,Sur,Joven digital,Mensual,36,117.37,4229.98,Fibra,No,Sí,3,2,Efectivo,3,93.2,67.4,8,CMP-C,1
+NT-000608,Femenino,19.0,Sur,Joven digital,Bianual,25,106.28,2525.85,Fibra,No,Sí,0,0,Transferencia,1,65.5,67.1,8,CMP-B,0
+NT-000609,Masculino,22.0,Sur,Masivo,Anual,21,80.01,1752.11,DSL,No,Sí,1,0,Tarjeta,14,79.5,76.9,14,CMP-B,0
+NT-000610,Femenino,38.0,Oriente,Joven digital,Mensual,44,114.25,4754.68,DSL,Sí,Sí,4,2,Débito automático,1,,78.5,12,CMP-D,1
+NT-000611,Masculino,51.0,Lima,Premium,Mensual,38,129.98,4428.35,DSL,Sí,Sí,0,1,Débito automático,2,52.8,66.0,20,CMP-B,0
+NT-000612,Masculino,18.0,Oriente,Familia,Anual,15,102.84,1341.88,Fibra,No,Sí,0,0,Transferencia,24,67.6,58.6,11,CMP-A,1
+NT-000613,Masculino,42.0,,Masivo,Anual,32,98.11,2927.46,DSL,Sí,Sí,3,0,Transferencia,1,50.3,,10,CMP-A,0
+NT-000614,Masculino,53.0,Lima,Masivo,Anual,21,128.03,2672.55,Fibra,Sí,Sí,1,0,Transferencia,3,,56.4,18,CMP-C,0
+NT-000615,Femenino,36.0,Norte,Familia,Bianual,42,47.59,2073.3,Sin internet,No,No,1,0,Transferencia,11,73.6,52.8,18,CMP-C,0
+NT-000616,Masculino,45.0,Lima,Masivo,Anual,20,97.73,1840.54,DSL,Sí,No,1,1,Efectivo,6,58.7,58.1,12,CMP-B,1
+NT-000617,Masculino,29.0,Lima,Familia,Anual,28,51.4,1475.06,Sin internet,No,No,0,0,Débito automático,10,71.3,73.0,9,CMP-A,1
+NT-000618,Femenino,36.0,Lima,Masivo,Mensual,22,127.01,2584.66,Fibra,Sí,Sí,1,2,Efectivo,3,76.3,66.8,9,CMP-A,0
+NT-000619,Femenino,18.0,Lima,Familia,Mensual,7,103.18,639.41,Fibra,No,No,1,1,Transferencia,10,80.2,90.6,14,CMP-B,1
+NT-000620,Femenino,18.0,Norte,Familia,Bianual,85,83.96,6055.82,DSL,No,Sí,2,1,Débito automático,4,31.3,68.9,19,CMP-C,0
+NT-000621,Masculino,50.0,,Joven digital,Anual,32,77.61,2246.5,Fibra,No,No,2,1,Transferencia,3,,93.9,13,CMP-C,1
+NT-000622,Femenino,25.0,,Masivo,Mensual,87,65.96,4884.59,DSL,No,No,1,1,Tarjeta,2,70.5,74.0,8,CMP-C,0
+NT-000623,Masculino,32.0,Norte,Familia,Anual,33,86.74,3093.32,Fibra,No,No,1,0,Tarjeta,7,,80.6,12,CMP-A,0
+NT-000624,Femenino,20.0,Lima,Masivo,Mensual,50,36.31,1762.4,Sin internet,No,No,2,1,Efectivo,7,67.6,59.5,8,CMP-C,0
+NT-000625,Masculino,20.0,Norte,Masivo,Anual,19,103.37,1833.04,Fibra,No,Sí,0,0,Débito automático,4,51.1,52.2,13,CMP-D,0
+NT-000626,Femenino,,Lima,Joven digital,Mensual,19,37.85,762.69,Sin internet,No,No,1,1,Débito automático,5,70.2,58.8,14,CMP-A,1
+NT-000627,Masculino,29.0,Sur,Joven digital,Anual,31,117.58,3094.01,Fibra,No,Sí,1,1,Efectivo,1,100.0,,17,CMP-C,0
+NT-000628,Femenino,43.0,Lima,Familia,Anual,86,142.44,11397.25,Fibra,Sí,Sí,2,1,Débito automático,3,83.6,63.9,8,CMP-A,0
+NT-000629,Masculino,44.0,Centro,Masivo,Mensual,15,93.47,1514.18,Fibra,Sí,No,0,0,Tarjeta,1,44.2,46.9,14,CMP-D,0
+NT-000630,Masculino,42.0,Centro,Joven digital,Mensual,5,82.41,383.17,Fibra,No,No,1,1,Tarjeta,1,92.7,74.1,10,CMP-C,0
+NT-000631,Masculino,41.0,Norte,Familia,Anual,62,35.0,2411.47,Sin internet,No,No,0,0,Débito automático,5,89.3,60.0,14,CMP-C,0
+NT-000632,Masculino,59.0,Sur,Masivo,Mensual,52,48.89,,Sin internet,No,No,1,0,Tarjeta,4,100.0,50.1,20,CMP-C,1
+NT-000633,Femenino,24.0,Lima,Joven digital,Mensual,23,40.16,952.7,,No,No,2,1,Tarjeta,2,77.1,51.3,17,CMP-C,0
+NT-000634,Femenino,37.0,Sur,Familia,Anual,108,35.48,3959.99,,No,No,0,0,Transferencia,3,41.5,61.4,18,CMP-B,0
+NT-000635,Femenino,53.0,Centro,Familia,Mensual,111,93.45,9751.74,DSL,Sí,No,3,1,Débito automático,5,68.5,51.4,8,CMP-D,1
+NT-000636,Femenino,54.0,Sur,Joven digital,Mensual,6,102.61,557.68,Fibra,No,No,3,0,Débito automático,7,100.0,67.0,17,CMP-A,0
+NT-000637,Masculino,20.0,Centro,Familia,Mensual,19,86.83,1537.45,DSL,Sí,No,2,2,Tarjeta,6,59.2,70.5,19,CMP-D,0
+NT-000638,Masculino,34.0,Sur,Masivo,Bianual,30,119.65,3126.15,Fibra,Sí,Sí,1,0,Débito automático,0,87.6,80.2,16,CMP-D,0
+NT-000639,Masculino,56.0,Oriente,Masivo,Mensual,42,107.43,4220.5,DSL,Sí,Sí,1,0,Transferencia,0,49.4,52.3,18,CMP-D,0
+NT-000640,Masculino,45.0,,Premium,Mensual,37,126.9,4412.13,Fibra,No,No,0,1,Débito automático,1,77.6,49.0,8,CMP-A,1
+NT-000641,Masculino,41.0,Sur,Familia,Mensual,32,87.83,2974.27,DSL,No,Sí,3,0,Débito automático,13,24.7,49.0,17,CMP-B,1
+NT-000642,Masculino,35.0,Centro,Joven digital,Mensual,13,122.39,1561.68,Fibra,Sí,Sí,0,0,Débito automático,3,65.7,72.3,18,CMP-C,0
+NT-000643,Femenino,33.0,,Joven digital,Mensual,45,117.32,5835.76,Fibra,Sí,No,1,0,Tarjeta,1,79.9,77.9,10,CMP-C,1
+NT-000644,Femenino,42.0,Oriente,Joven digital,Mensual,47,129.25,4791.96,Fibra,Sí,Sí,4,1,Tarjeta,3,74.5,70.0,14,CMP-C,1
+NT-000645,Masculino,35.0,Lima,Masivo,Mensual,59,136.32,6875.11,Fibra,Sí,Sí,3,1,Débito automático,0,52.5,77.1,13,CMP-C,1
+NT-000646,Masculino,37.0,Norte,Familia,Mensual,12,124.03,1362.04,Fibra,No,Sí,2,0,Tarjeta,1,64.5,86.1,9,CMP-A,0
+NT-000647,Femenino,39.0,Lima,Familia,Bianual,27,131.13,3697.97,Fibra,Sí,Sí,2,0,Tarjeta,2,76.9,64.6,9,CMP-D,0
+NT-000648,Masculino,29.0,Lima,Joven digital,Mensual,22,89.44,1834.53,Fibra,No,No,0,1,Tarjeta,2,78.7,85.5,11,CMP-B,1
+NT-000649,Masculino,45.0,Sur,Masivo,Mensual,11,114.36,1053.23,DSL,Sí,Sí,4,1,Transferencia,2,62.9,59.9,9,CMP-D,0
+NT-000650,Femenino,76.0,Lima,Masivo,Bianual,27,131.19,3268.82,Fibra,Sí,Sí,1,0,Débito automático,6,83.0,85.2,14,CMP-C,0
+NT-000651,Femenino,18.0,Lima,Masivo,Bianual,14,128.43,1539.41,DSL,Sí,Sí,0,0,Débito automático,8,56.9,76.5,8,CMP-C,0
+NT-000652,Masculino,42.0,Lima,Familia,Anual,10,129.79,1093.41,Fibra,Sí,Sí,1,0,Débito automático,4,92.4,47.9,8,CMP-C,0
+NT-000653,Masculino,28.0,Norte,Joven digital,Mensual,52,111.28,6249.01,DSL,Sí,Sí,3,1,Débito automático,9,55.2,49.4,16,CMP-D,0
+NT-000654,Femenino,46.0,Sur,Masivo,Mensual,23,438.09,2728.8,Fibra,Sí,Sí,16,0,Tarjeta,52,100.0,54.1,11,CMP-D,0
+NT-000655,Masculino,39.0,Sur,Joven digital,Mensual,18,126.11,2161.29,,Sí,Sí,2,2,Débito automático,10,96.7,46.2,12,CMP-C,1
+NT-000656,Femenino,48.0,Lima,Premium,Mensual,68,122.67,7786.79,DSL,No,Sí,2,1,Débito automático,4,56.7,73.6,12,CMP-C,0
+NT-000657,Masculino,53.0,,Masivo,Mensual,48,107.65,4766.2,DSL,Sí,Sí,3,2,Débito automático,8,57.7,89.3,14,CMP-A,0
+NT-000658,Femenino,41.0,Norte,Joven digital,Anual,4,131.69,464.16,Fibra,Sí,Sí,1,0,Tarjeta,2,83.1,68.6,14,CMP-A,0
+NT-000659,Masculino,53.0,Norte,Joven digital,Mensual,42,137.39,5298.68,Fibra,Sí,Sí,2,1,Efectivo,4,89.0,79.1,9,CMP-C,1
+NT-000660,Femenino,18.0,Norte,Masivo,Anual,42,114.78,4645.32,Fibra,No,Sí,1,1,Transferencia,18,,92.2,8,CMP-B,0
+NT-000661,Femenino,59.0,Lima,Joven digital,Mensual,26,107.83,2913.77,Fibra,No,Sí,1,1,Tarjeta,4,59.9,65.5,13,CMP-B,0
+NT-000662,Masculino,43.0,Norte,Joven digital,Mensual,25,109.06,2743.73,Fibra,No,Sí,2,2,Efectivo,8,86.6,67.3,15,CMP-C,0
+NT-000663,Femenino,52.0,Norte,Masivo,Anual,7,78.09,467.19,DSL,No,Sí,1,1,Tarjeta,9,30.3,59.3,17,CMP-A,0
+NT-000664,Femenino,22.0,Norte,Masivo,Bianual,107,108.95,11764.87,Fibra,No,No,1,2,Tarjeta,6,69.3,76.5,10,CMP-B,0
+NT-000665,Femenino,27.0,Norte,Familia,Mensual,27,100.13,2631.27,DSL,Sí,Sí,1,1,Tarjeta,7,,78.5,9,CMP-A,1
+NT-000666,Masculino,40.0,Sur,Masivo,Anual,40,102.71,3682.23,Fibra,No,No,1,0,Efectivo,2,50.7,,15,CMP-D,0
+NT-000667,Masculino,38.0,Centro,Joven digital,Mensual,28,96.49,2574.06,Fibra,No,No,1,0,Tarjeta,1,56.0,67.6,19,CMP-C,0
+NT-000668,Masculino,42.0,Lima,Joven digital,Mensual,18,129.73,2288.58,Fibra,Sí,Sí,2,0,Transferencia,1,83.3,66.3,11,CMP-A,0
+NT-000669,Femenino,52.0,Sur,Familia,Anual,55,125.94,6533.91,Fibra,Sí,Sí,1,0,Transferencia,5,92.8,53.0,9,CMP-C,0
+NT-000670,Femenino,18.0,Sur,Familia,Mensual,35,119.91,4086.12,Fibra,Sí,Sí,2,1,Débito automático,4,76.9,77.5,13,CMP-A,0
+NT-000671,Femenino,51.0,Lima,Familia,Mensual,27,96.28,2286.56,DSL,Sí,Sí,1,0,Débito automático,5,33.4,41.3,15,CMP-D,0
+NT-000672,Masculino,38.0,Norte,Joven digital,Mensual,40,105.56,4558.07,DSL,No,Sí,3,0,Tarjeta,1,44.8,68.1,16,CMP-A,0
+NT-000673,Masculino,35.0,Lima,Joven digital,Mensual,30,128.03,3091.73,Fibra,Sí,Sí,1,2,Transferencia,2,81.5,76.5,9,CMP-B,0
+NT-000674,Masculino,19.0,Centro,Masivo,Mensual,90,104.13,9188.48,Fibra,No,No,1,2,Débito automático,8,54.3,46.9,16,CMP-D,0
+NT-000675,Masculino,45.0,Lima,Masivo,Mensual,54,102.46,5342.92,DSL,No,Sí,1,0,Débito automático,4,64.1,55.6,12,CMP-C,0
+NT-000676,Femenino,18.0,Centro,Masivo,Bianual,44,105.3,4563.73,Fibra,Sí,No,1,0,Tarjeta,4,74.9,98.1,8,CMP-C,0
+NT-000677,Masculino,46.0,Lima,Masivo,Anual,8,112.81,803.58,Fibra,Sí,No,2,0,Transferencia,3,64.7,67.6,19,CMP-C,0
+NT-000678,Masculino,19.0,Norte,Masivo,Mensual,46,90.41,4249.71,DSL,No,Sí,0,0,Transferencia,2,89.2,52.2,14,CMP-C,0
+NT-000679,Femenino,39.0,Oriente,Masivo,Mensual,45,83.59,3507.42,Fibra,No,No,0,0,Débito automático,10,80.9,77.0,11,CMP-A,0
+NT-000680,Femenino,,Lima,Masivo,Anual,14,107.33,1287.69,Fibra,Sí,No,0,1,Débito automático,12,90.2,63.2,18,CMP-B,0
+NT-000681,Femenino,53.0,Sur,Masivo,Mensual,8,132.29,913.71,Fibra,Sí,Sí,2,0,Débito automático,4,85.8,42.5,18,CMP-D,0
+NT-000682,Femenino,36.0,Oriente,Familia,Anual,52,85.51,4218.54,DSL,No,Sí,0,2,Débito automático,3,59.7,74.5,10,CMP-D,0
+NT-000683,Femenino,29.0,,Joven digital,Anual,57,109.08,5149.65,Fibra,No,Sí,1,2,Tarjeta,12,77.1,59.0,20,CMP-C,0
+NT-000684,Femenino,31.0,Lima,Familia,Mensual,19,103.44,2095.14,DSL,Sí,Sí,3,1,Transferencia,2,57.5,66.5,14,CMP-D,1
+NT-000685,Masculino,55.0,Sur,Joven digital,Mensual,19,146.0,2811.24,Fibra,Sí,Sí,4,1,Tarjeta,2,90.2,57.7,11,CMP-D,0
+NT-000686,Femenino,45.0,Lima,Familia,Mensual,35,95.49,3569.01,Fibra,No,Sí,3,0,Tarjeta,8,62.2,72.4,13,CMP-B,0
+NT-000687,Femenino,33.0,Lima,Familia,Mensual,23,131.51,3207.73,Fibra,Sí,Sí,2,0,Tarjeta,2,97.9,72.0,10,CMP-C,0
+NT-000688,Masculino,35.0,Sur,Masivo,Mensual,8,84.72,620.4,DSL,Sí,No,1,0,Tarjeta,4,50.8,27.5,19,CMP-D,0
+NT-000689,Masculino,18.0,Centro,Premium,Bianual,14,141.23,1738.27,Fibra,No,Sí,0,0,Débito automático,0,75.2,75.5,11,CMP-A,0
+NT-000690,Masculino,43.0,Norte,Masivo,Mensual,39,102.5,3008.34,DSL,Sí,Sí,2,0,Transferencia,12,58.6,58.8,13,CMP-D,1
+NT-000691,Femenino,18.0,Lima,Joven digital,Anual,14,133.01,1697.46,Fibra,Sí,Sí,1,0,Débito automático,7,73.2,88.6,8,CMP-B,0
+NT-000692,Masculino,48.0,Sur,Familia,Anual,59,100.52,6307.85,Fibra,No,No,0,1,Débito automático,10,100.0,80.1,20,CMP-B,1
+NT-000693,Femenino,40.0,Centro,Masivo,Mensual,44,95.67,3712.97,Fibra,No,No,2,1,Débito automático,1,65.4,73.6,11,CMP-B,0
+NT-000694,Femenino,69.0,Norte,Joven digital,Mensual,40,136.83,5064.38,Fibra,Sí,Sí,0,1,Débito automático,14,75.4,56.3,16,CMP-B,0
+NT-000695,Masculino,24.0,Sur,Masivo,Mensual,34,120.42,3689.68,Fibra,Sí,No,1,0,Transferencia,3,62.0,52.9,12,CMP-B,0
+NT-000696,Masculino,37.0,Lima,Masivo,Anual,17,97.35,1599.09,DSL,No,Sí,0,0,Transferencia,10,62.6,67.9,15,CMP-C,0
+NT-000697,Masculino,61.0,Lima,Masivo,Mensual,48,37.08,1833.28,Sin internet,No,No,1,3,Transferencia,5,60.5,58.2,15,CMP-D,0
+NT-000698,Masculino,53.0,Centro,Masivo,Anual,17,94.45,1336.31,DSL,No,Sí,0,0,Transferencia,8,45.2,82.5,11,CMP-B,1
+NT-000699,Masculino,29.0,Oriente,Masivo,Bianual,61,94.49,4874.27,DSL,No,Sí,3,1,Efectivo,6,55.6,65.0,13,CMP-A,0
+NT-000700,Femenino,41.0,Lima,Joven digital,Anual,81,86.66,7328.76,Fibra,No,No,1,0,Débito automático,2,89.1,57.1,15,CMP-D,0
+NT-000701,Femenino,38.0,Lima,Joven digital,Bianual,35,57.88,2008.21,DSL,No,No,2,2,Débito automático,0,85.4,61.6,10,CMP-B,0
+NT-000702,Femenino,42.0,Lima,Joven digital,Anual,75,75.8,5240.68,Fibra,No,No,1,0,Transferencia,11,80.4,84.0,9,CMP-C,0
+NT-000703,Femenino,29.0,Sur,Familia,Bianual,14,105.63,1566.8,DSL,Sí,Sí,4,0,Tarjeta,8,62.9,66.1,10,CMP-B,0
+NT-000704,Masculino,37.0,Lima,Masivo,Anual,45,74.68,2837.85,DSL,No,No,1,0,Débito automático,11,56.6,64.3,13,CMP-A,0
+NT-000705,Femenino,18.0,Norte,Masivo,Anual,31,101.36,,Fibra,No,Sí,1,0,Efectivo,1,64.5,82.4,10,CMP-B,0
+NT-000706,Masculino,40.0,Oriente,Familia,Anual,53,51.41,,Sin internet,No,No,1,1,Débito automático,2,,53.8,11,CMP-B,0
+NT-000707,Masculino,44.0,Lima,Premium,Bianual,5,123.37,606.03,DSL,Sí,No,1,0,Tarjeta,1,38.7,,16,CMP-D,1
+NT-000708,Masculino,35.0,Norte,Joven digital,Mensual,51,383.41,4893.73,,No,Sí,23,0,Débito automático,64,69.5,53.4,16,CMP-C,0
+NT-000709,Femenino,18.0,,Masivo,Anual,19,45.33,793.88,Sin internet,No,No,1,1,Tarjeta,9,75.6,73.8,20,CMP-C,0
+NT-000710,Femenino,51.0,Sur,Familia,Anual,32,102.4,3249.2,Fibra,No,Sí,2,0,Débito automático,8,65.6,65.6,17,CMP-A,0
+NT-000711,Masculino,43.0,,Familia,Bianual,106,116.12,11515.63,Fibra,No,Sí,0,0,Débito automático,7,66.8,48.7,13,CMP-A,0
+NT-000712,Masculino,29.0,Lima,Masivo,Mensual,46,133.03,6289.93,Fibra,Sí,Sí,1,1,Débito automático,2,66.5,77.2,20,CMP-B,0
+NT-000713,Masculino,,Lima,Masivo,Anual,42,100.07,4310.23,DSL,Sí,Sí,3,1,Débito automático,1,80.7,73.7,19,CMP-D,0
+NT-000714,Masculino,18.0,Centro,Masivo,Anual,39,81.02,2758.17,,No,No,1,1,Tarjeta,3,58.1,72.5,10,CMP-A,0
+NT-000715,Masculino,25.0,Sur,Joven digital,Bianual,65,42.9,2782.03,Sin internet,No,No,0,2,Débito automático,1,74.2,,10,CMP-D,0
+NT-000716,Femenino,31.0,Lima,Premium,Mensual,54,137.99,6486.6,Fibra,No,Sí,1,1,Tarjeta,8,71.0,47.9,19,CMP-D,0
+NT-000717,Masculino,54.0,Lima,Familia,Anual,40,119.09,4495.8,Fibra,Sí,No,0,0,Débito automático,14,73.0,74.1,19,CMP-B,0
+NT-000718,Femenino,30.0,Sur,Masivo,Anual,36,101.34,3596.91,DSL,Sí,Sí,1,0,Transferencia,5,,80.6,18,CMP-A,0
+NT-000719,Masculino,,,Joven digital,Bianual,35,127.52,3934.45,Fibra,No,Sí,1,0,Tarjeta,1,,86.4,13,CMP-A,0
+NT-000720,Masculino,31.0,Lima,Familia,Bianual,30,67.88,2026.39,DSL,Sí,No,1,0,Efectivo,11,73.9,79.7,19,CMP-A,0
+NT-000721,Masculino,41.0,Norte,Joven digital,Anual,11,95.21,947.42,Fibra,No,No,0,0,Transferencia,4,79.6,78.0,17,CMP-D,0
+NT-000722,Femenino,36.0,Lima,Familia,Anual,45,54.86,2220.23,Sin internet,No,No,0,0,Tarjeta,4,88.2,50.3,17,CMP-D,0
+NT-000723,Femenino,,,Masivo,Mensual,20,96.99,1919.37,DSL,Sí,Sí,2,1,Débito automático,6,62.7,63.1,15,CMP-C,1
+NT-000724,Masculino,31.0,Norte,Masivo,Bianual,27,125.57,2988.57,Fibra,Sí,Sí,2,3,Tarjeta,1,46.4,,11,CMP-A,0
+NT-000725,Femenino,18.0,Lima,Joven digital,Mensual,56,90.37,4442.91,Fibra,No,No,1,0,Tarjeta,2,89.6,84.8,17,CMP-D,0
+NT-000726,Femenino,20.0,Norte,Joven digital,Anual,30,87.85,2669.45,Fibra,No,No,3,2,Efectivo,3,85.9,87.2,19,CMP-C,0
+NT-000727,Femenino,31.0,Centro,Premium,Anual,29,79.2,2176.45,Sin internet,No,No,1,0,Transferencia,5,62.5,55.9,19,CMP-D,0
+NT-000728,Femenino,22.0,Norte,Joven digital,Mensual,35,60.34,1770.22,,No,No,1,0,Transferencia,5,66.1,63.3,15,CMP-B,1
+NT-000729,Femenino,43.0,Lima,Masivo,Mensual,25,126.0,3149.67,Fibra,Sí,Sí,0,0,Transferencia,6,40.3,62.5,8,CMP-A,0
+NT-000730,Masculino,32.0,Sur,Masivo,Mensual,104,131.64,12479.46,Fibra,Sí,Sí,2,1,Efectivo,2,42.8,71.4,17,CMP-D,0
+NT-000731,Femenino,69.0,Lima,Joven digital,Bianual,95,70.06,5602.7,DSL,No,No,4,1,Efectivo,0,94.7,52.3,11,CMP-A,0
+NT-000732,Femenino,18.0,Centro,Masivo,Anual,94,85.0,,Fibra,No,No,0,0,Tarjeta,3,63.2,39.7,10,CMP-A,0
+NT-000733,Femenino,41.0,Lima,Familia,Mensual,39,99.27,3884.07,DSL,No,Sí,3,0,Tarjeta,3,76.5,66.3,9,CMP-A,0
+NT-000734,Femenino,23.0,Sur,Masivo,Anual,19,93.57,1564.15,DSL,Sí,No,3,1,Débito automático,0,38.0,30.9,10,CMP-A,0
+NT-000735,Femenino,32.0,Lima,Masivo,Mensual,57,117.63,5718.82,Fibra,Sí,Sí,0,1,Débito automático,2,56.3,64.2,14,CMP-C,0
+NT-000736,Masculino,40.0,Lima,Joven digital,Bianual,25,82.35,2027.37,Fibra,No,No,0,1,Débito automático,4,90.2,80.9,11,CMP-A,0
+NT-000737,Femenino,18.0,Norte,Masivo,Mensual,61,118.43,7198.26,Fibra,Sí,Sí,0,0,Tarjeta,2,70.5,80.8,12,CMP-D,0
+NT-000738,Femenino,41.0,Lima,Familia,Mensual,19,113.91,1915.19,Fibra,Sí,No,3,1,Transferencia,4,80.1,58.3,14,CMP-D,1
+NT-000739,Femenino,63.0,Lima,Joven digital,Mensual,41,44.48,1830.76,,No,No,1,0,Tarjeta,2,69.8,66.7,14,CMP-A,0
+NT-000740,Femenino,32.0,Centro,Joven digital,Anual,66,94.11,6732.03,DSL,Sí,No,1,0,Transferencia,7,66.9,77.5,13,CMP-D,1
+NT-000741,Femenino,41.0,Sur,Familia,Mensual,26,84.06,2260.45,DSL,Sí,No,4,0,Débito automático,1,51.8,46.0,13,CMP-A,0
+NT-000742,Femenino,51.0,Lima,Familia,Anual,26,118.68,3157.8,Fibra,Sí,Sí,1,2,Tarjeta,4,54.1,78.6,19,CMP-B,0
+NT-000743,Masculino,36.0,Sur,Familia,Mensual,9,102.27,885.44,Fibra,No,No,1,1,Transferencia,4,93.0,72.3,11,CMP-C,0
+NT-000744,Femenino,,Sur,Masivo,Mensual,19,82.02,1416.47,DSL,Sí,No,0,0,Débito automático,8,85.5,59.5,8,CMP-A,0
+NT-000745,Masculino,18.0,Sur,Masivo,Mensual,39,110.68,4040.64,Fibra,Sí,No,0,0,Transferencia,3,56.4,64.0,18,CMP-A,0
+NT-000746,Femenino,46.0,Centro,Familia,Mensual,43,113.05,4719.46,Fibra,Sí,Sí,1,1,Efectivo,14,55.4,60.2,9,CMP-A,0
+NT-000747,Femenino,37.0,Centro,Joven digital,Bianual,47,103.87,4159.24,Fibra,Sí,No,1,1,Tarjeta,14,74.8,80.6,18,CMP-C,0
+NT-000748,Femenino,25.0,Norte,Joven digital,Mensual,6,114.08,606.55,DSL,Sí,Sí,3,1,Tarjeta,1,75.1,60.8,12,CMP-A,1
+NT-000749,Masculino,40.0,Centro,Joven digital,Bianual,25,65.55,1376.64,DSL,No,No,2,1,Tarjeta,4,67.3,72.1,18,CMP-A,0
+NT-000750,Masculino,30.0,Oriente,Familia,Mensual,10,134.33,1284.82,Fibra,Sí,Sí,1,2,Tarjeta,1,79.5,58.2,10,CMP-A,1
+NT-000751,Femenino,31.0,Lima,Masivo,Mensual,38,66.02,2372.82,DSL,Sí,No,1,0,Efectivo,6,61.3,50.8,10,CMP-D,0
+NT-000752,Femenino,46.0,Lima,Joven digital,Mensual,7,121.97,763.55,Fibra,Sí,Sí,3,0,Transferencia,2,78.3,68.3,13,CMP-D,0
+NT-000753,Femenino,21.0,Lima,Masivo,Mensual,13,125.46,1626.8,Fibra,Sí,Sí,0,0,Débito automático,4,100.0,58.3,13,CMP-D,1
+NT-000754,Femenino,52.0,Oriente,Masivo,Anual,53,142.68,6555.37,Fibra,Sí,Sí,2,1,Transferencia,3,64.1,78.9,17,CMP-A,0
+NT-000755,Masculino,20.0,Norte,Familia,Anual,21,79.48,1488.34,DSL,No,Sí,0,0,Efectivo,27,86.6,80.3,16,CMP-B,1
+NT-000756,Femenino,29.0,Centro,Joven digital,Mensual,75,118.04,8805.52,Fibra,No,Sí,3,1,Tarjeta,3,100.0,60.1,20,CMP-D,0
+NT-000757,Femenino,63.0,Sur,Masivo,Anual,48,121.51,5861.74,Fibra,No,Sí,0,0,Tarjeta,3,79.6,74.1,16,CMP-C,0
+NT-000758,Masculino,53.0,Oriente,Familia,Anual,26,102.51,2356.89,Fibra,Sí,No,0,0,Transferencia,9,43.1,54.8,10,CMP-A,0
+NT-000759,Femenino,39.0,Lima,Familia,Bianual,59,86.64,4888.08,DSL,No,Sí,2,1,Transferencia,10,62.5,47.4,9,CMP-A,0
+NT-000760,Femenino,26.0,Sur,Joven digital,Bianual,28,91.27,2262.91,DSL,No,Sí,1,1,Tarjeta,5,62.3,60.5,11,CMP-D,0
+NT-000761,Masculino,31.0,Sur,Premium,Anual,51,130.67,6172.26,Fibra,Sí,No,0,0,Débito automático,10,72.3,69.4,20,CMP-D,0
+NT-000762,Femenino,39.0,Lima,Masivo,Anual,18,37.9,648.14,Sin internet,No,No,1,0,Tarjeta,24,46.1,72.1,17,CMP-B,0
+NT-000763,Femenino,38.0,Centro,Familia,Anual,61,105.49,6301.21,Fibra,No,No,0,0,Débito automático,3,83.3,73.9,17,CMP-A,0
+NT-000764,Femenino,37.0,Lima,Masivo,Mensual,8,113.7,875.24,Fibra,Sí,No,2,1,Transferencia,1,86.8,79.4,11,CMP-A,1
+NT-000765,Masculino,38.0,Centro,Masivo,Anual,13,85.59,1067.19,DSL,Sí,No,1,0,Tarjeta,5,79.6,58.6,14,CMP-A,0
+NT-000766,Femenino,35.0,Norte,Masivo,Mensual,15,204.85,946.89,DSL,No,No,23,0,Transferencia,76,56.3,57.2,17,CMP-D,0
+NT-000767,Femenino,19.0,Lima,Masivo,Anual,20,114.23,2209.62,Fibra,Sí,No,1,0,Débito automático,13,56.1,88.5,20,CMP-D,0
+NT-000768,Femenino,31.0,Lima,Joven digital,Bianual,40,78.95,3090.34,DSL,No,No,4,1,Transferencia,6,75.3,45.4,15,CMP-B,1
+NT-000769,Femenino,50.0,Lima,Masivo,Mensual,32,121.99,3857.72,Fibra,Sí,Sí,3,1,Transferencia,4,98.3,63.8,8,CMP-D,1
+NT-000770,Masculino,20.0,Lima,Joven digital,Anual,52,100.81,4663.57,DSL,Sí,No,1,0,Débito automático,2,71.0,55.9,19,CMP-D,0
+NT-000771,Femenino,36.0,Centro,Masivo,Bianual,67,98.85,,DSL,Sí,No,2,1,Tarjeta,11,68.8,66.8,20,CMP-D,0
+NT-000772,Masculino,27.0,Lima,Masivo,Mensual,7,48.1,,Sin internet,No,No,2,2,Tarjeta,5,58.5,56.9,8,CMP-D,1
+NT-000773,Masculino,39.0,Lima,Premium,Anual,72,121.41,7953.41,Fibra,No,No,0,1,Transferencia,0,64.4,76.4,13,CMP-C,0
+NT-000774,Masculino,33.0,Centro,Familia,Bianual,27,80.82,2009.13,DSL,No,Sí,3,0,Transferencia,18,71.9,73.3,20,CMP-D,0
+NT-000775,Femenino,57.0,Centro,Premium,Bianual,93,122.06,9667.36,DSL,No,Sí,3,1,Tarjeta,1,60.4,50.9,20,CMP-C,0
+NT-000776,Masculino,45.0,Norte,Joven digital,Mensual,18,94.55,1565.15,Fibra,No,No,0,0,Efectivo,9,86.1,59.9,20,CMP-D,0
+NT-000777,Masculino,21.0,Oriente,Masivo,Mensual,5,93.08,444.69,Fibra,Sí,No,1,2,Transferencia,5,79.6,66.3,20,CMP-B,0
+NT-000778,Femenino,47.0,Lima,Joven digital,Anual,49,46.45,1848.6,Sin internet,No,No,0,0,Tarjeta,0,75.2,80.1,8,CMP-A,0
+NT-000779,Masculino,28.0,Sur,Joven digital,Mensual,47,120.59,,Fibra,Sí,No,1,1,Tarjeta,3,88.4,99.5,9,CMP-C,0
+NT-000780,Masculino,30.0,Lima,Masivo,Mensual,13,77.19,820.45,DSL,No,No,3,2,Débito automático,3,49.2,70.0,14,CMP-B,1
+NT-000781,Femenino,42.0,Centro,Familia,Mensual,14,102.92,1560.34,Fibra,Sí,No,3,1,Tarjeta,1,58.3,49.3,15,CMP-B,0
+NT-000782,Masculino,32.0,Oriente,Joven digital,Mensual,54,97.85,5045.46,DSL,Sí,Sí,2,2,Efectivo,6,69.4,63.3,13,CMP-C,0
+NT-000783,Femenino,50.0,Sur,Familia,Anual,41,111.7,4345.26,Fibra,Sí,No,1,0,Transferencia,8,71.7,72.3,11,CMP-C,0
+NT-000784,Masculino,28.0,Norte,Joven digital,Anual,25,40.62,971.07,Sin internet,No,No,0,0,Tarjeta,4,62.2,61.4,11,CMP-B,0
+NT-000785,Masculino,30.0,Norte,Joven digital,Anual,44,108.99,4710.76,DSL,Sí,Sí,3,0,Débito automático,3,,76.4,15,CMP-A,1
+NT-000786,Femenino,29.0,Lima,Masivo,Anual,38,117.42,4499.76,Fibra,No,Sí,2,0,Tarjeta,6,85.6,,20,CMP-C,0
+NT-000787,Masculino,31.0,Centro,Premium,Mensual,15,134.83,1679.75,DSL,No,Sí,1,0,Débito automático,2,79.8,73.6,18,CMP-B,0
+NT-000788,Femenino,52.0,Sur,Masivo,Mensual,57,79.81,4693.44,DSL,No,Sí,3,0,Tarjeta,2,83.2,60.8,10,CMP-A,0
+NT-000789,Masculino,46.0,Oriente,Masivo,Mensual,50,128.99,6624.98,Fibra,Sí,Sí,3,1,Transferencia,4,52.3,60.0,9,CMP-A,0
+NT-000790,Masculino,60.0,,Masivo,Mensual,32,105.73,3164.65,Fibra,Sí,No,1,0,Transferencia,0,54.6,80.9,11,CMP-C,0
+NT-000791,Femenino,67.0,Lima,Joven digital,Mensual,54,86.11,4332.3,DSL,Sí,No,2,2,Efectivo,0,65.7,47.4,17,CMP-B,0
+NT-000792,Femenino,25.0,Norte,Premium,Mensual,100,132.78,9597.43,DSL,No,Sí,1,1,Tarjeta,1,63.2,66.9,8,CMP-B,0
+NT-000793,Femenino,39.0,Lima,Familia,Mensual,14,102.76,1227.05,Fibra,No,No,2,1,Débito automático,6,68.4,74.6,17,CMP-A,0
+NT-000794,Femenino,23.0,Lima,Familia,Mensual,26,102.59,2604.18,DSL,No,Sí,1,0,Transferencia,2,53.7,63.9,15,CMP-A,1
+NT-000795,Femenino,28.0,Lima,Premium,Anual,27,165.83,4585.06,Fibra,Sí,Sí,2,0,Débito automático,1,67.4,48.1,16,CMP-C,1
+NT-000796,Femenino,30.0,Centro,Familia,Anual,54,126.01,6743.43,Fibra,Sí,Sí,3,1,Débito automático,16,79.2,88.8,19,CMP-D,0
+NT-000797,Femenino,24.0,Lima,Masivo,Bianual,20,69.72,1303.35,DSL,No,No,2,1,Efectivo,3,42.1,61.8,15,CMP-B,0
+NT-000798,Femenino,24.0,Lima,Joven digital,Anual,52,93.39,5219.58,,Sí,No,0,0,Transferencia,4,100.0,68.1,16,CMP-D,0
+NT-000799,Masculino,36.0,Lima,Masivo,Anual,22,106.06,2357.5,Fibra,No,No,1,1,Transferencia,11,72.3,66.0,14,CMP-C,0
+NT-000800,Masculino,22.0,Sur,Masivo,Mensual,13,91.1,1080.59,Fibra,No,No,3,0,Débito automático,4,87.8,62.8,16,CMP-B,1
+NT-000801,Masculino,49.0,Centro,Masivo,Anual,33,113.55,4094.69,Fibra,Sí,No,0,1,Débito automático,6,63.3,52.9,12,CMP-C,0
+NT-000802,Femenino,26.0,Lima,Masivo,Mensual,21,115.11,2086.79,Fibra,Sí,No,2,1,Débito automático,1,80.6,68.7,8,CMP-A,1
+NT-000803,Masculino,75.0,Lima,Premium,Mensual,36,110.79,3338.21,DSL,Sí,No,2,0,Débito automático,4,63.5,55.7,8,CMP-B,1
+NT-000804,Masculino,32.0,Norte,Premium,Mensual,42,153.69,5877.41,Fibra,Sí,Sí,2,1,Tarjeta,14,84.9,76.0,17,CMP-C,1
+NT-000805,Femenino,39.0,Lima,Masivo,Mensual,8,103.92,737.33,DSL,No,Sí,2,0,Transferencia,5,59.0,69.3,16,CMP-D,1
+NT-000806,Femenino,21.0,Norte,Familia,Mensual,23,107.61,2263.3,DSL,Sí,Sí,2,1,Débito automático,5,85.3,88.5,13,CMP-A,0
+NT-000807,Masculino,60.0,Norte,Masivo,Anual,34,103.77,3513.6,Fibra,Sí,No,1,0,Débito automático,3,49.6,63.2,17,CMP-D,0
+NT-000808,Femenino,53.0,Oriente,Masivo,Bianual,55,125.86,6490.5,Fibra,Sí,Sí,0,1,Transferencia,1,86.2,62.1,14,CMP-C,0
+NT-000809,Masculino,42.0,Lima,Masivo,Anual,50,114.78,5391.33,DSL,Sí,Sí,3,1,Transferencia,10,63.8,49.4,11,CMP-A,0
+NT-000810,Masculino,20.0,Centro,Masivo,Anual,16,266.63,1546.99,Fibra,No,No,22,2,Tarjeta,48,56.7,95.7,15,CMP-D,0
+NT-000811,Femenino,41.0,Lima,Masivo,Anual,28,80.81,1760.68,Fibra,No,No,2,0,Débito automático,2,100.0,83.6,12,CMP-D,0
+NT-000812,Femenino,23.0,Oriente,Masivo,Mensual,44,119.71,4392.52,DSL,Sí,Sí,3,2,Débito automático,5,89.7,59.1,20,CMP-B,0
+NT-000813,Masculino,57.0,Oriente,Masivo,Anual,27,113.7,2802.91,DSL,Sí,Sí,2,0,Tarjeta,1,30.9,84.6,17,CMP-A,1
+NT-000814,Masculino,49.0,Centro,Masivo,Anual,18,103.63,1643.36,DSL,Sí,Sí,2,0,Tarjeta,10,64.7,,17,CMP-B,0
+NT-000815,Femenino,39.0,Norte,Premium,Mensual,31,151.27,4331.92,Fibra,Sí,Sí,0,0,Transferencia,2,82.6,49.3,16,CMP-D,0
+NT-000816,Masculino,18.0,Lima,Masivo,Mensual,41,118.49,5044.1,Fibra,Sí,No,0,2,Transferencia,4,,56.4,16,CMP-A,0
+NT-000817,Masculino,25.0,Sur,Masivo,Bianual,15,98.29,1378.21,Fibra,No,No,1,0,Efectivo,5,94.7,72.3,18,CMP-B,0
+NT-000818,Masculino,,Centro,Joven digital,Anual,47,91.88,3659.59,DSL,Sí,Sí,1,1,Débito automático,5,89.6,59.2,13,CMP-B,0
+NT-000819,Masculino,54.0,Lima,Masivo,Mensual,35,124.91,3866.83,Fibra,Sí,Sí,2,0,Débito automático,8,76.0,64.4,18,CMP-A,0
+NT-000820,Femenino,52.0,Norte,Joven digital,Anual,48,155.14,7891.59,Fibra,Sí,Sí,0,0,Tarjeta,2,100.0,84.3,8,CMP-C,0
+NT-000821,Femenino,18.0,Norte,Masivo,Mensual,30,112.15,3523.56,Fibra,No,Sí,0,0,Efectivo,4,86.1,49.6,16,CMP-D,0
+NT-000822,Masculino,,Sur,Joven digital,Mensual,91,98.32,8783.49,DSL,Sí,Sí,0,0,Transferencia,6,64.7,67.5,15,CMP-A,0
+NT-000823,Femenino,,Centro,Joven digital,Mensual,40,62.92,2090.52,DSL,No,No,2,0,Efectivo,13,61.7,78.3,8,CMP-D,0
+NT-000824,Masculino,18.0,Centro,Familia,Mensual,52,142.95,7147.04,Fibra,Sí,Sí,1,0,Débito automático,8,90.7,73.5,16,CMP-D,1
+NT-000825,Masculino,38.0,Centro,Joven digital,Anual,47,101.63,4618.31,Fibra,No,No,0,1,Tarjeta,9,68.1,68.3,8,CMP-D,0
+NT-000826,Femenino,,Lima,Joven digital,Mensual,28,124.67,3287.56,Fibra,No,Sí,0,0,Débito automático,3,73.9,56.6,17,CMP-C,0
+NT-000827,Masculino,34.0,Lima,Masivo,Anual,38,111.23,3804.49,Fibra,Sí,No,0,0,Débito automático,5,68.4,80.1,14,CMP-B,0
+NT-000828,Femenino,18.0,Lima,Masivo,Mensual,20,138.29,2529.64,Fibra,Sí,Sí,0,0,Débito automático,12,77.3,50.6,15,CMP-A,1
+NT-000829,Masculino,34.0,Sur,Joven digital,Anual,86,119.37,9190.17,Fibra,Sí,Sí,3,0,Tarjeta,4,77.1,74.0,15,CMP-D,0
+NT-000830,Femenino,34.0,Norte,Masivo,Anual,43,73.46,,DSL,No,No,3,1,Tarjeta,5,42.2,64.9,11,CMP-C,0
+NT-000831,Masculino,36.0,Norte,Masivo,Anual,17,74.58,,DSL,No,No,6,2,Débito automático,0,79.4,85.9,16,CMP-B,0
+NT-000832,Masculino,31.0,Lima,Familia,Anual,74,54.44,4035.66,Sin internet,No,No,0,0,Efectivo,7,55.9,59.5,10,CMP-B,0
+NT-000833,Femenino,32.0,Lima,Masivo,Bianual,29,44.87,1197.2,Sin internet,No,No,1,0,Transferencia,5,92.3,67.1,17,CMP-A,0
+NT-000834,Masculino,37.0,Norte,Masivo,Anual,56,103.37,5584.1,Fibra,Sí,No,1,1,Transferencia,7,76.6,54.6,9,CMP-B,0
+NT-000835,Masculino,44.0,Lima,Familia,Anual,8,282.15,847.96,Fibra,Sí,No,19,0,Tarjeta,77,91.0,79.1,9,CMP-D,0
+NT-000836,Masculino,34.0,Lima,Masivo,Anual,66,78.91,5749.71,Fibra,No,No,0,0,Transferencia,0,81.5,,17,CMP-C,0
+NT-000837,Masculino,33.0,Centro,Familia,Mensual,42,84.11,3536.43,DSL,Sí,Sí,3,2,Débito automático,7,81.7,55.5,8,CMP-B,0
+NT-000838,Masculino,39.0,Lima,Premium,Mensual,16,169.48,2707.43,Fibra,Sí,Sí,3,1,Tarjeta,2,80.6,56.5,20,CMP-A,1
+NT-000839,Femenino,18.0,Lima,Premium,Mensual,42,143.63,5686.55,Fibra,No,Sí,0,1,Débito automático,0,75.5,72.6,8,CMP-B,0
+NT-000840,Masculino,44.0,Norte,Masivo,Mensual,81,109.65,8078.66,Fibra,No,Sí,2,1,Tarjeta,4,88.4,53.6,14,CMP-A,0
+NT-000841,Femenino,38.0,Sur,Masivo,Mensual,21,101.48,2209.48,Fibra,No,No,2,3,Transferencia,15,100.0,56.8,20,CMP-B,1
+NT-000842,Masculino,39.0,Lima,Joven digital,Mensual,20,99.57,1962.84,DSL,Sí,No,2,1,Transferencia,1,66.0,75.5,16,CMP-A,1
+NT-000843,Masculino,50.0,Centro,Joven digital,Anual,28,94.81,2341.25,DSL,No,Sí,5,0,Tarjeta,2,81.9,69.6,16,CMP-D,1
+NT-000844,Femenino,18.0,Oriente,Joven digital,Mensual,33,111.35,3570.82,Fibra,No,No,1,1,Débito automático,8,79.9,78.8,17,CMP-A,1
+NT-000845,Femenino,18.0,Centro,Masivo,Anual,59,46.52,2740.88,Sin internet,No,No,1,0,Débito automático,3,69.6,64.9,17,CMP-A,0
+NT-000846,Masculino,42.0,Norte,Masivo,Mensual,44,111.72,3899.57,Fibra,Sí,No,2,1,Tarjeta,7,72.6,65.1,10,CMP-C,1
+NT-000847,Femenino,38.0,Centro,Masivo,Anual,28,114.16,2798.3,Fibra,No,Sí,2,0,Transferencia,3,39.6,66.2,12,CMP-B,0
+NT-000848,Masculino,40.0,Norte,Masivo,Mensual,39,100.43,3781.22,Fibra,No,Sí,3,2,Transferencia,2,69.0,82.5,10,CMP-D,1
+NT-000849,Femenino,32.0,Lima,Masivo,Mensual,89,98.6,7066.72,DSL,No,Sí,1,0,Transferencia,1,77.0,82.8,10,CMP-B,0
+NT-000850,Masculino,47.0,Norte,Premium,Mensual,49,102.99,4119.82,DSL,No,Sí,2,1,Tarjeta,5,50.5,76.1,10,CMP-C,0
+NT-000851,Femenino,50.0,Lima,Masivo,Anual,30,106.72,2948.89,Fibra,No,Sí,0,1,Débito automático,1,85.8,64.3,16,CMP-D,0
+NT-000852,Femenino,44.0,Lima,Joven digital,Mensual,27,42.21,1110.5,Sin internet,No,No,0,1,Tarjeta,2,72.8,52.3,20,CMP-D,0
+NT-000853,Masculino,35.0,Lima,Premium,Bianual,37,441.66,5060.22,Fibra,No,Sí,13,0,Tarjeta,86,69.1,79.3,15,CMP-D,0
+NT-000854,Masculino,18.0,Lima,Masivo,Mensual,58,122.93,7491.91,Fibra,Sí,Sí,2,0,Tarjeta,20,85.6,85.3,8,CMP-C,0
+NT-000855,Femenino,48.0,Lima,Joven digital,Anual,18,103.55,1762.8,DSL,Sí,No,2,2,Tarjeta,6,80.2,86.6,16,CMP-D,1
+NT-000856,Femenino,54.0,Norte,Familia,Mensual,53,51.94,2515.84,Sin internet,No,No,1,0,Débito automático,10,68.3,64.5,15,CMP-B,0
+NT-000857,Masculino,46.0,Oriente,Masivo,Anual,29,98.83,,DSL,Sí,Sí,0,0,Débito automático,3,77.2,80.4,18,CMP-D,0
+NT-000858,Masculino,27.0,Lima,Joven digital,Mensual,32,37.77,1103.58,Sin internet,No,No,0,0,Transferencia,3,73.0,74.8,12,CMP-D,0
+NT-000859,Femenino,47.0,Norte,Familia,Mensual,120,100.51,,Fibra,No,Sí,0,0,Débito automático,5,47.3,62.5,13,CMP-B,0
+NT-000860,Masculino,49.0,Norte,Familia,Mensual,50,96.34,4781.79,DSL,No,Sí,5,4,Tarjeta,2,56.3,64.6,16,CMP-A,1
+NT-000861,Masculino,58.0,Lima,Familia,Mensual,22,69.75,1470.85,DSL,No,No,4,2,Efectivo,2,34.9,,17,CMP-C,1
+NT-000862,Masculino,27.0,Lima,Premium,Mensual,42,144.3,5929.07,Fibra,Sí,Sí,2,1,Efectivo,7,81.9,56.5,10,CMP-A,0
+NT-000863,Masculino,35.0,Lima,Masivo,Bianual,60,112.91,6973.41,Fibra,No,Sí,0,0,Tarjeta,4,85.4,63.5,15,CMP-A,0
+NT-000864,Masculino,48.0,Lima,Familia,Mensual,50,45.95,2171.76,Sin internet,No,No,2,1,Débito automático,3,76.1,56.6,20,CMP-D,1
+NT-000865,Femenino,39.0,Lima,Joven digital,Mensual,4,120.67,499.92,Fibra,No,Sí,1,0,Tarjeta,3,87.3,46.9,8,CMP-C,0
+NT-000866,Masculino,23.0,Lima,Familia,Bianual,32,93.34,2655.74,Fibra,No,No,1,0,Efectivo,1,,74.4,12,CMP-C,0
+NT-000867,Masculino,43.0,Norte,Familia,Mensual,43,101.65,4086.27,DSL,Sí,Sí,1,0,Débito automático,4,38.4,58.4,14,CMP-D,1
+NT-000868,Masculino,46.0,Lima,Familia,Mensual,41,59.88,2225.14,Sin internet,No,No,2,0,Tarjeta,2,60.4,72.8,20,CMP-D,1
+NT-000869,Femenino,39.0,Lima,Familia,Anual,23,42.06,963.02,Sin internet,No,No,0,0,Transferencia,0,40.8,80.7,20,CMP-D,0
+NT-000870,Femenino,41.0,Lima,Masivo,Bianual,51,96.48,4275.83,DSL,No,Sí,2,0,Transferencia,1,56.6,84.4,15,CMP-A,0
+NT-000871,Masculino,35.0,,Familia,Anual,66,122.14,7396.0,Fibra,Sí,Sí,1,0,Tarjeta,3,96.2,92.8,15,CMP-B,0
+NT-000872,Femenino,57.0,Lima,Masivo,Mensual,8,48.21,312.33,Sin internet,No,No,1,0,Débito automático,7,78.4,56.3,13,CMP-D,0
+NT-000873,Masculino,26.0,Norte,Joven digital,Bianual,7,80.9,555.88,Fibra,No,No,2,0,Débito automático,8,89.9,54.6,13,CMP-A,0
+NT-000874,Femenino,30.0,Lima,Familia,Mensual,42,100.84,4350.8,DSL,Sí,Sí,4,0,Tarjeta,1,59.3,74.8,17,CMP-A,0
+NT-000875,Masculino,38.0,,Familia,Bianual,53,83.13,,Fibra,No,No,1,0,Tarjeta,6,57.1,85.2,15,CMP-C,0
+NT-000876,Masculino,49.0,Oriente,Masivo,Bianual,21,84.56,1770.23,DSL,No,Sí,0,0,Transferencia,15,64.8,88.9,15,CMP-B,1
+NT-000877,Femenino,19.0,Lima,Joven digital,Bianual,5,116.25,580.53,DSL,Sí,Sí,1,0,Transferencia,8,86.7,78.9,18,CMP-A,0
+NT-000878,Femenino,21.0,Lima,Masivo,Mensual,32,99.49,3148.59,DSL,Sí,Sí,1,0,Transferencia,4,68.1,38.3,9,CMP-D,0
+NT-000879,Masculino,18.0,Lima,Masivo,Mensual,41,118.46,4774.33,Fibra,No,Sí,1,0,Transferencia,5,48.2,65.4,20,CMP-B,0
+NT-000880,Masculino,38.0,Oriente,Masivo,Anual,26,107.66,2764.24,Fibra,No,No,0,0,Débito automático,4,73.6,,17,CMP-B,0
+NT-000881,Femenino,23.0,Norte,Premium,Anual,61,143.75,7840.16,Fibra,Sí,No,1,1,Débito automático,2,43.3,81.1,15,CMP-C,0
+NT-000882,Masculino,33.0,Norte,Masivo,Anual,40,120.94,4479.55,Fibra,No,Sí,1,1,Transferencia,9,84.1,90.7,15,CMP-C,1
+NT-000883,Masculino,47.0,Oriente,Premium,Bianual,19,144.78,2599.3,DSL,Sí,Sí,2,1,Tarjeta,1,51.6,78.1,15,CMP-B,0
+NT-000884,Femenino,30.0,Lima,Masivo,Anual,21,110.05,2118.08,Fibra,Sí,No,0,0,Tarjeta,4,53.7,59.0,15,CMP-D,0
+NT-000885,Femenino,41.0,Oriente,Familia,Mensual,32,96.75,2570.79,DSL,No,Sí,2,0,Tarjeta,9,74.3,52.0,12,CMP-B,0
+NT-000886,Femenino,34.0,Lima,Joven digital,Mensual,25,143.56,,Fibra,Sí,Sí,3,0,Transferencia,4,88.4,74.9,17,CMP-D,0
+NT-000887,Femenino,47.0,Norte,Familia,Mensual,7,103.26,,Fibra,Sí,No,0,0,Débito automático,1,75.5,55.3,11,CMP-D,1
+NT-000888,Femenino,44.0,Lima,Joven digital,Mensual,37,63.37,2352.67,DSL,No,No,2,0,Débito automático,12,,89.2,16,CMP-A,1
+NT-000889,Femenino,29.0,Lima,Familia,Mensual,21,99.84,1972.21,Fibra,Sí,No,0,0,Débito automático,3,,44.5,14,CMP-D,0
+NT-000890,Masculino,36.0,Oriente,Premium,Anual,24,170.95,4650.68,Fibra,Sí,Sí,0,0,Transferencia,1,62.3,75.6,12,CMP-A,1
+NT-000891,Femenino,52.0,Lima,Joven digital,Anual,14,137.16,1681.39,Fibra,Sí,Sí,1,0,Tarjeta,16,87.8,77.0,18,CMP-B,0
+NT-000892,Masculino,43.0,Oriente,Masivo,Anual,82,107.17,8534.37,Fibra,No,Sí,1,0,Débito automático,3,67.7,66.5,12,CMP-D,0
+NT-000893,Femenino,20.0,Lima,Masivo,Mensual,48,52.78,2610.42,,No,No,2,0,Transferencia,2,81.0,54.6,16,CMP-A,0
+NT-000894,Femenino,47.0,Centro,Familia,Anual,95,105.93,10210.25,Fibra,No,Sí,2,1,Transferencia,5,76.2,43.9,11,CMP-C,0
+NT-000895,Masculino,24.0,Oriente,Joven digital,Anual,26,131.93,3381.66,Fibra,Sí,Sí,1,0,Débito automático,1,85.7,65.5,10,CMP-D,0
+NT-000896,Masculino,56.0,Lima,Joven digital,Bianual,50,89.4,4536.68,DSL,No,Sí,0,2,Tarjeta,2,48.4,59.0,15,CMP-B,0
+NT-000897,Femenino,51.0,Oriente,Joven digital,Anual,38,95.62,3429.64,Fibra,No,No,1,0,Efectivo,11,80.9,86.0,20,CMP-A,0
+NT-000898,Femenino,42.0,Norte,Masivo,Anual,20,82.29,1738.63,DSL,Sí,No,1,2,Débito automático,3,61.2,57.8,11,CMP-A,0
+NT-000899,Femenino,40.0,Centro,Familia,Anual,26,118.13,3162.97,Fibra,Sí,No,1,0,Efectivo,6,56.6,73.1,9,CMP-C,0
+NT-000900,Masculino,35.0,Lima,Familia,Mensual,48,45.09,1905.35,Sin internet,No,No,3,1,Transferencia,11,58.7,45.8,9,CMP-A,0
+NT-000901,Femenino,47.0,Norte,Familia,Bianual,14,114.28,1539.94,Fibra,Sí,No,1,1,Transferencia,3,78.5,77.4,14,CMP-A,0
+NT-000902,Femenino,33.0,Centro,Familia,Mensual,62,113.43,5848.99,Fibra,No,Sí,1,0,Tarjeta,1,71.9,,18,CMP-D,0
+NT-000903,Femenino,41.0,Norte,Familia,Mensual,36,46.72,1760.17,Sin internet,No,No,3,2,Débito automático,7,40.8,86.6,17,CMP-C,1
+NT-000904,Femenino,49.0,Lima,Joven digital,Mensual,56,109.13,5840.53,DSL,Sí,Sí,3,2,Tarjeta,1,65.9,62.0,10,CMP-B,0
+NT-000905,Masculino,31.0,Lima,Premium,Anual,41,116.65,4947.24,DSL,No,Sí,2,1,Tarjeta,1,55.0,30.6,18,CMP-A,0
+NT-000906,Masculino,30.0,Sur,Masivo,Anual,8,93.36,696.35,DSL,No,Sí,1,0,Tarjeta,11,64.9,59.4,10,CMP-D,0
+NT-000907,Masculino,22.0,Lima,Joven digital,Anual,32,116.12,3010.06,Fibra,Sí,No,1,1,Débito automático,4,81.3,60.3,15,CMP-C,0
+NT-000908,Femenino,24.0,Centro,Familia,Mensual,62,100.4,7000.51,DSL,No,Sí,4,1,Débito automático,7,55.8,53.5,19,CMP-A,1
+NT-000909,Femenino,18.0,Oriente,Joven digital,Mensual,35,108.74,3612.47,DSL,Sí,Sí,0,0,Transferencia,1,63.2,58.6,18,CMP-D,0
+NT-000910,Femenino,47.0,,Masivo,Bianual,32,85.31,,Fibra,No,No,1,0,Tarjeta,5,73.0,61.5,17,CMP-A,0
+NT-000911,Masculino,62.0,Lima,Joven digital,Mensual,35,101.7,3631.41,Fibra,Sí,No,0,0,Tarjeta,6,94.4,58.4,12,CMP-C,0
+NT-000912,Masculino,57.0,Centro,Masivo,Bianual,6,123.08,799.41,Fibra,Sí,Sí,0,1,Débito automático,16,76.2,,17,CMP-C,0
+NT-000913,Masculino,18.0,Lima,Premium,Mensual,67,78.71,4882.43,Sin internet,No,No,2,0,Transferencia,6,83.3,77.7,13,CMP-B,1
+NT-000914,Masculino,47.0,Norte,Masivo,Anual,3,125.9,352.41,Fibra,Sí,Sí,0,0,Tarjeta,8,89.0,88.6,12,CMP-D,1
+NT-000915,Masculino,56.0,Centro,Masivo,Anual,75,116.89,8386.83,Fibra,Sí,Sí,2,0,Transferencia,4,94.5,70.7,14,CMP-C,0
+NT-000916,Masculino,32.0,Norte,Joven digital,Anual,25,76.83,1656.13,DSL,Sí,No,1,1,Débito automático,5,90.5,73.1,16,CMP-B,1
+NT-000917,Femenino,39.0,Lima,Masivo,Mensual,43,71.11,2726.43,DSL,No,Sí,1,0,Débito automático,3,85.4,52.7,10,CMP-A,0
+NT-000918,Femenino,18.0,Centro,Masivo,Bianual,6,98.92,631.94,Fibra,Sí,Sí,1,0,Transferencia,3,54.7,67.8,20,CMP-B,1
+NT-000919,Femenino,41.0,Norte,Joven digital,Anual,53,103.81,5120.9,DSL,Sí,Sí,1,1,Débito automático,2,79.7,74.3,19,CMP-B,0
+NT-000920,Masculino,24.0,Lima,Joven digital,Anual,47,147.88,6125.85,Fibra,Sí,Sí,1,0,Transferencia,3,98.3,71.8,11,CMP-C,0
+NT-000921,Femenino,41.0,Norte,Masivo,Anual,45,106.17,4339.81,DSL,No,Sí,0,0,Efectivo,2,83.0,77.1,11,CMP-B,0
+NT-000922,Masculino,18.0,Sur,Joven digital,Mensual,5,226.26,508.56,Fibra,Sí,No,15,0,Tarjeta,46,,68.3,8,CMP-A,1
+NT-000923,Masculino,45.0,Centro,Joven digital,Mensual,18,113.35,1635.68,Fibra,No,Sí,0,0,Débito automático,1,89.9,54.5,13,CMP-C,0
+NT-000924,Masculino,51.0,Norte,Familia,Mensual,42,58.82,2366.25,DSL,No,No,1,0,Efectivo,15,63.1,78.9,10,CMP-B,0
+NT-000925,Femenino,28.0,,Masivo,Mensual,65,115.19,8328.59,Fibra,Sí,Sí,2,1,Transferencia,7,99.7,67.2,20,CMP-B,0
+NT-000926,Femenino,23.0,Lima,Masivo,Anual,15,83.22,1350.88,Fibra,No,No,1,1,Débito automático,9,51.2,88.0,19,CMP-C,1
+NT-000927,Femenino,18.0,Lima,Premium,Mensual,16,159.97,,Fibra,Sí,Sí,1,0,Tarjeta,1,60.5,68.4,18,CMP-D,0
+NT-000928,Masculino,35.0,Lima,Joven digital,Mensual,40,88.36,3648.03,DSL,No,Sí,3,1,Débito automático,2,42.8,85.3,11,CMP-A,1
+NT-000929,Masculino,30.0,Oriente,Masivo,Mensual,120,44.27,5479.62,Sin internet,No,No,2,0,Transferencia,4,64.2,78.8,16,CMP-D,0
+NT-000930,Masculino,18.0,Lima,Familia,Mensual,20,95.97,1787.33,DSL,No,Sí,2,0,Transferencia,4,96.0,72.2,14,CMP-C,1
+NT-000931,Femenino,44.0,Sur,Masivo,Mensual,24,38.97,939.71,Sin internet,No,No,1,1,Tarjeta,7,61.3,53.6,11,CMP-C,0
+NT-000932,Femenino,32.0,Lima,Familia,Anual,22,42.33,991.98,Sin internet,No,No,4,2,Tarjeta,4,63.5,59.3,14,CMP-A,0
+NT-000933,Femenino,24.0,Lima,Familia,Mensual,29,99.16,,Fibra,Sí,No,4,0,Transferencia,15,80.3,73.4,10,CMP-C,0
+NT-000934,Masculino,31.0,Lima,Premium,Bianual,69,149.9,,Fibra,Sí,Sí,0,0,Débito automático,1,70.3,,20,CMP-C,0
+NT-000935,Masculino,52.0,Lima,Premium,Mensual,30,63.51,1839.19,Sin internet,No,No,1,1,Efectivo,1,67.5,56.5,10,CMP-C,0
+NT-000936,Femenino,46.0,Sur,Masivo,Mensual,120,47.84,5437.81,Sin internet,No,No,0,1,Débito automático,2,67.9,75.1,11,CMP-D,0
+NT-000937,Masculino,36.0,Oriente,Familia,Bianual,35,38.96,1283.18,Sin internet,No,No,1,0,Débito automático,3,49.3,66.4,10,CMP-D,0
+NT-000938,Femenino,46.0,Sur,Masivo,Mensual,73,55.16,3850.38,DSL,No,No,5,0,Tarjeta,10,60.6,73.8,14,CMP-D,0
+NT-000939,Masculino,23.0,Lima,Joven digital,Mensual,26,93.43,2337.09,Fibra,No,No,1,1,Débito automático,5,91.1,55.7,16,CMP-B,0
+NT-000940,Femenino,38.0,Sur,Joven digital,Bianual,11,35.0,392.05,Sin internet,No,No,0,0,Débito automático,3,83.9,85.1,20,CMP-C,0
+NT-000941,Femenino,40.0,Lima,Masivo,Bianual,30,56.94,1662.69,Sin internet,No,No,0,1,Tarjeta,2,81.5,78.2,13,CMP-A,0
+NT-000942,Masculino,32.0,Oriente,Masivo,Anual,46,99.79,4257.76,DSL,Sí,Sí,2,0,Débito automático,3,67.0,84.6,10,CMP-C,0
+NT-000943,Femenino,44.0,Norte,Masivo,Mensual,18,111.13,1762.71,DSL,Sí,Sí,2,1,Tarjeta,3,67.3,76.8,8,CMP-A,0
+NT-000944,Femenino,28.0,Lima,Masivo,Anual,66,96.8,5794.19,DSL,Sí,No,1,0,Transferencia,13,73.3,69.1,15,CMP-B,0
+NT-000945,Femenino,45.0,Lima,Masivo,Bianual,23,35.0,771.42,Sin internet,No,No,1,0,Tarjeta,9,53.1,64.4,20,CMP-C,0
+NT-000946,Femenino,45.0,Lima,Premium,Bianual,14,555.39,2028.3,Fibra,Sí,Sí,20,1,Débito automático,92,62.5,91.4,8,CMP-B,0
+NT-000947,Masculino,18.0,Lima,Joven digital,Mensual,119,109.98,,DSL,Sí,Sí,0,0,Transferencia,4,68.1,,20,CMP-D,0
+NT-000948,Masculino,53.0,Oriente,Familia,Mensual,17,128.04,2111.61,Fibra,Sí,Sí,5,2,Tarjeta,3,52.9,71.3,11,CMP-A,1
+NT-000949,Masculino,18.0,Sur,Familia,Mensual,22,112.25,2519.01,Fibra,Sí,No,0,0,Débito automático,0,,61.1,19,CMP-D,0
+NT-000950,Femenino,30.0,Oriente,Familia,Mensual,51,97.03,4430.33,Fibra,Sí,No,1,0,Transferencia,2,87.7,43.6,8,CMP-C,0
+NT-000951,Masculino,51.0,Lima,Masivo,Anual,25,131.99,2909.8,Fibra,Sí,Sí,1,0,Débito automático,2,61.3,52.1,19,CMP-B,0
+NT-000952,Femenino,34.0,Norte,Familia,Mensual,14,104.62,1493.28,Fibra,Sí,No,1,0,Débito automático,2,78.5,71.4,12,CMP-A,0
+NT-000953,Femenino,,Lima,Familia,Mensual,20,45.15,857.03,Sin internet,No,No,1,1,Transferencia,2,52.6,70.6,11,CMP-A,1
+NT-000954,Femenino,24.0,Norte,Familia,Mensual,99,80.28,7358.19,DSL,No,No,2,0,Efectivo,3,46.8,65.7,10,CMP-B,0
+NT-000955,Masculino,51.0,Lima,Premium,Mensual,47,83.02,3858.65,Sin internet,No,No,0,0,Transferencia,6,92.8,83.6,9,CMP-C,0
+NT-000956,Masculino,,Lima,Joven digital,Mensual,53,130.14,6802.94,Fibra,Sí,Sí,0,0,Débito automático,2,65.0,68.8,18,CMP-C,0
+NT-000957,Masculino,53.0,Norte,Joven digital,Mensual,38,132.78,4299.37,Fibra,Sí,Sí,0,1,Débito automático,11,60.8,52.9,8,CMP-B,1
+NT-000958,Masculino,37.0,Lima,Familia,Mensual,43,111.2,4958.16,DSL,Sí,Sí,0,0,Débito automático,1,65.2,71.5,14,CMP-C,0
+NT-000959,Masculino,22.0,Norte,Joven digital,Bianual,24,100.46,2197.11,DSL,Sí,No,0,0,Tarjeta,10,74.0,72.5,20,CMP-C,0
+NT-000960,Masculino,30.0,Centro,Familia,Mensual,35,379.72,4695.77,Fibra,Sí,Sí,24,1,Débito automático,87,82.0,59.3,13,CMP-B,0
+NT-000961,Masculino,25.0,Lima,Masivo,Anual,5,91.48,387.26,,No,Sí,5,3,Transferencia,1,92.0,79.7,18,CMP-B,1
+NT-000962,Femenino,,Oriente,Masivo,Mensual,60,95.39,5507.16,,Sí,No,1,1,Tarjeta,3,50.3,,17,CMP-B,0
+NT-000963,Femenino,48.0,Norte,Joven digital,Mensual,23,100.59,2144.69,DSL,Sí,Sí,1,1,Efectivo,14,61.3,55.2,18,CMP-C,1
+NT-000964,Femenino,18.0,,Masivo,Mensual,12,35.0,336.73,Sin internet,No,No,0,0,Efectivo,14,86.1,65.2,20,CMP-C,0
+NT-000965,Masculino,33.0,Centro,Premium,Mensual,37,126.44,4613.13,DSL,Sí,No,0,1,Tarjeta,6,76.1,84.1,9,CMP-A,0
+NT-000966,Femenino,27.0,Centro,Masivo,Mensual,28,85.15,1920.05,DSL,Sí,No,2,0,Tarjeta,5,74.0,83.3,11,CMP-D,0
+NT-000967,Masculino,55.0,Centro,Familia,Mensual,58,116.13,6193.89,Fibra,Sí,Sí,0,0,Efectivo,6,63.2,65.8,12,CMP-A,0
+NT-000968,Femenino,20.0,Sur,Masivo,Anual,31,98.5,3106.32,Fibra,No,No,1,1,Tarjeta,3,88.9,73.7,8,CMP-C,0
+NT-000969,Masculino,59.0,Norte,Premium,Mensual,20,156.88,2832.93,Fibra,Sí,No,2,3,Transferencia,3,,48.5,9,CMP-A,1
+NT-000970,Femenino,38.0,Lima,Masivo,Mensual,31,57.33,1558.17,DSL,No,No,1,0,Tarjeta,3,64.8,86.0,9,CMP-B,0
+NT-000971,Femenino,23.0,Lima,Masivo,Anual,78,99.2,7706.84,DSL,No,Sí,3,2,Tarjeta,15,53.2,80.0,20,CMP-C,0
+NT-000972,Femenino,29.0,Norte,Masivo,Mensual,60,86.17,4769.68,Fibra,Sí,No,3,0,Tarjeta,5,73.6,75.0,19,CMP-D,0
+NT-000973,Femenino,28.0,Lima,Joven digital,Mensual,47,68.4,2930.76,DSL,No,No,1,0,Tarjeta,8,94.7,39.5,15,CMP-C,0
+NT-000974,Masculino,21.0,Lima,Premium,Mensual,61,178.56,11210.75,Fibra,Sí,Sí,0,0,Efectivo,5,55.6,62.5,18,CMP-A,0
+NT-000975,Femenino,39.0,Lima,Premium,Mensual,49,141.05,5932.03,Fibra,Sí,No,2,2,Tarjeta,14,60.0,61.1,12,CMP-D,0
+NT-000976,Masculino,22.0,Norte,Masivo,Mensual,16,42.81,621.83,Sin internet,No,No,5,2,Tarjeta,2,52.6,70.3,14,CMP-B,0
+NT-000977,Femenino,18.0,,Joven digital,Bianual,54,118.87,6423.16,Fibra,No,Sí,0,0,Transferencia,1,73.8,64.4,19,CMP-B,0
+NT-000978,Femenino,33.0,Norte,Masivo,Bianual,66,93.55,5271.39,Fibra,Sí,No,0,0,Efectivo,0,71.8,66.9,9,CMP-A,0
+NT-000979,Masculino,18.0,Sur,Joven digital,Bianual,69,127.65,9373.97,Fibra,Sí,Sí,1,1,Débito automático,2,94.4,82.0,9,CMP-C,0
+NT-000980,Femenino,28.0,,Joven digital,Mensual,13,94.58,1137.1,Fibra,No,No,1,0,Transferencia,2,86.9,57.6,14,CMP-B,0
+NT-000981,Masculino,,Lima,Masivo,Mensual,22,103.76,2285.5,,Sí,No,1,0,Tarjeta,1,62.9,55.9,11,CMP-A,0
+NT-000982,Masculino,27.0,,Joven digital,Mensual,20,35.0,700.75,Sin internet,No,No,1,1,Transferencia,3,74.2,67.9,16,CMP-C,1
+NT-000983,Masculino,64.0,Norte,Familia,Mensual,26,86.57,2091.78,DSL,No,Sí,1,0,Transferencia,5,71.4,82.3,16,CMP-A,0
+NT-000984,Femenino,39.0,Norte,Masivo,Mensual,44,81.64,3256.18,DSL,No,Sí,1,0,Efectivo,5,36.8,69.1,12,CMP-C,0
+NT-000985,Femenino,41.0,Centro,Masivo,Mensual,36,84.69,2856.74,Fibra,No,No,1,0,Transferencia,1,88.1,81.8,9,CMP-C,0
+NT-000986,Masculino,18.0,Lima,Masivo,Mensual,36,100.15,3568.94,DSL,No,Sí,2,2,Efectivo,6,49.6,61.8,9,CMP-D,1
+NT-000987,Femenino,29.0,Oriente,Masivo,Mensual,10,109.24,951.43,Fibra,Sí,No,1,1,Débito automático,13,65.3,83.2,13,CMP-C,0
+NT-000988,Femenino,41.0,Lima,Masivo,Mensual,21,107.0,1922.92,Fibra,No,Sí,0,1,Transferencia,4,77.1,43.2,12,CMP-C,0
+NT-000989,Femenino,25.0,Sur,Joven digital,Anual,72,85.34,6414.19,DSL,No,Sí,2,0,Transferencia,2,68.9,95.7,8,CMP-A,0
+NT-000990,Masculino,50.0,Norte,Masivo,Mensual,66,88.93,5215.3,Fibra,No,No,0,1,Tarjeta,1,79.3,94.2,16,CMP-A,0
+NT-000991,Masculino,22.0,Lima,Familia,Bianual,31,107.74,3222.33,Fibra,No,Sí,1,1,Efectivo,6,74.1,76.3,20,CMP-C,0
+NT-000992,Masculino,34.0,Centro,Familia,Mensual,54,100.62,5030.56,Fibra,No,Sí,3,2,Transferencia,5,67.7,75.0,20,CMP-C,0
+NT-000993,Masculino,30.0,Lima,Premium,Anual,41,122.67,4672.12,DSL,No,Sí,2,0,Transferencia,9,84.9,71.8,9,CMP-C,0
+NT-000994,Femenino,40.0,Sur,Familia,Mensual,57,123.77,7337.98,Fibra,Sí,Sí,0,0,Débito automático,6,82.6,64.1,10,CMP-C,1
+NT-000995,Masculino,30.0,Norte,Masivo,Mensual,55,120.18,6173.9,Fibra,Sí,Sí,3,2,Transferencia,7,76.5,57.8,13,CMP-D,1
+NT-000996,Femenino,34.0,Lima,Masivo,Mensual,32,91.4,2676.26,DSL,No,Sí,3,0,Débito automático,10,72.4,64.4,19,CMP-C,1
+NT-000997,Masculino,35.0,Lima,Masivo,Mensual,47,96.16,4163.02,Fibra,No,No,1,0,Efectivo,11,61.4,70.3,15,CMP-A,1
+NT-000998,Femenino,28.0,Centro,Premium,Anual,43,71.99,2800.74,Sin internet,No,No,0,1,Tarjeta,12,94.6,79.5,13,CMP-B,0
+NT-000999,Masculino,44.0,Lima,Premium,Mensual,33,160.7,4736.16,Fibra,Sí,Sí,1,1,Débito automático,4,55.7,87.9,20,CMP-B,1
+NT-001000,Femenino,41.0,Sur,Masivo,Mensual,28,109.43,2773.07,DSL,No,Sí,3,0,Tarjeta,23,63.7,64.8,16,CMP-C,1

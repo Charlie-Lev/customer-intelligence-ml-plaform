@@ -1,0 +1,60 @@
+{
+  "deliverable": "D3.14",
+  "repository_version": "1.2.0",
+  "notebooks": {
+    "01_data_understanding.ipynb": {
+      "cells": 31,
+      "code_cells": 19,
+      "markdown_cells": 12
+    },
+    "02_model_development.ipynb": {
+      "cells": 24,
+      "code_cells": 11,
+      "markdown_cells": 13
+    },
+    "03_model_evaluation.ipynb": {
+      "cells": 49,
+      "code_cells": 24,
+      "markdown_cells": 25
+    },
+    "04_pipeline_validation.ipynb": {
+      "cells": 56,
+      "code_cells": 27,
+      "markdown_cells": 29
+    },
+    "05_batch_prediction.ipynb": {
+      "cells": 63,
+      "code_cells": 30,
+      "markdown_cells": 33
+    },
+    "99_end_to_end_demo.ipynb": {
+      "cells": 58,
+      "code_cells": 29,
+      "markdown_cells": 29
+    }
+  },
+  "total_notebook_cells": 281,
+  "compiled_python_files": [
+    "main.py",
+    "tests/conftest.py",
+    "tests/test_data.py",
+    "tests/test_pipeline.py",
+    "src/__init__.py",
+    "data/raw/generate_dataset.py",
+    "src/data/__init__.py",
+    "src/data/data_loader.py",
+    "src/data/validation.py",
+    "src/models/prediction.py",
+    "src/models/__init__.py",
+    "src/models/evaluation.py",
+    "src/models/training.py",
+    "src/features/__init__.py",
+    "src/features/preprocessing.py",
+    "src/utils/logger.py",
+    "src/utils/__init__.py",
+    "src/utils/paths.py"
+  ],
+  "pytest_return_code": 0,
+  "pytest_stdout": "\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m                                                                    [100%]\u001b[0m\n\u001b[32m\u001b[32m\u001b[1m5 passed\u001b[0m\u001b[32m in 1.60s\u001b[0m\u001b[0m",
+  "pytest_stderr": "Spreadsheet runtime warmup failed during python startup\nTraceback (most recent call last):\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py\", line 26, in warm_spreadsheet_runtime_on_startup\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py\", line 785, in warm_spreadsheet_runtime\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py\", line 720, in _warm_feature_flows\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/spreadsheet_warmup.py\", line 704, in _warm_collaboration_flows\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/generated/interface/models.py\", line 30820, in hydrate_crdt_from_proto\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/remote.py\", line 749, in __call__\n  File \"/tmp/tmp.yTcnQsZYiA/artifact_tool_v2-2.8.4/artifact_tool/rpc/client.py\", line 150, in call\nartifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document."
+}

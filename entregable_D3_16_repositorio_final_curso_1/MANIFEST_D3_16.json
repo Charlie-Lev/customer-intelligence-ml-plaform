@@ -1,0 +1,52 @@
+{
+  "deliverable": "D3.16",
+  "course": "Del desarrollo de modelos a MLE",
+  "version": "1.0.0",
+  "notebooks": {
+    "01_data_understanding.ipynb": {
+      "cells": 31,
+      "code_cells": 19,
+      "markdown_cells": 12
+    },
+    "02_model_development.ipynb": {
+      "cells": 24,
+      "code_cells": 11,
+      "markdown_cells": 13
+    },
+    "03_model_evaluation.ipynb": {
+      "cells": 49,
+      "code_cells": 24,
+      "markdown_cells": 25
+    },
+    "04_pipeline_validation.ipynb": {
+      "cells": 56,
+      "code_cells": 27,
+      "markdown_cells": 29
+    },
+    "05_batch_prediction.ipynb": {
+      "cells": 63,
+      "code_cells": 30,
+      "markdown_cells": 33
+    },
+    "99_end_to_end_demo.ipynb": {
+      "cells": 58,
+      "code_cells": 29,
+      "markdown_cells": 29
+    }
+  },
+  "total_notebook_cells": 281,
+  "compiled_python_files": 19,
+  "pytest_return_code": 0,
+  "pytest_stdout": "\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m                                                                [100%]\u001b[0m\n\u001b[32m\u001b[32m\u001b[1m9 passed\u001b[0m\u001b[32m in 0.90s\u001b[0m\u001b[0m",
+  "required_path_checks": {
+    "artifacts/models/.gitkeep": true,
+    "artifacts/figures/.gitkeep": true,
+    "reports/metrics/.gitkeep": true,
+    "reports/predictions/.gitkeep": true,
+    "docs/git_dvc/GUIDE_GIT_DVC.md": true,
+    "dvc.yaml": true,
+    "params.yaml": true,
+    ".devcontainer/devcontainer.json": true,
+    ".github/PULL_REQUEST_TEMPLATE/pull_request_template.md": true
+  }
+}

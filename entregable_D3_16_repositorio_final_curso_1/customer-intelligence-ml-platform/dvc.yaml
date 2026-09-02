@@ -1,0 +1,43 @@
+stages:
+  train:
+    cmd: >-
+      python main.py train
+      --data data/raw/customer_churn.csv
+      --model-output artifacts/models/churn_pipeline.joblib
+      --metrics-output reports/metrics/training_metrics.json
+    deps:
+      - data/raw/customer_churn.csv
+      - main.py
+      - src/data
+      - src/features
+      - src/models
+    params:
+      - training.test_size
+      - training.random_state
+      - model.algorithm
+      - model.max_iter
+      - model.class_weight
+    outs:
+      - artifacts/models/churn_pipeline.joblib
+    metrics:
+      - reports/metrics/training_metrics.json:
+          cache: false
+
+  predict:
+    cmd: >-
+      python main.py predict
+      --data data/raw/customer_churn.csv
+      --model artifacts/models/churn_pipeline.joblib
+      --output reports/predictions/customer_predictions.csv
+      --threshold ${prediction.threshold}
+    deps:
+      - data/raw/customer_churn.csv
+      - artifacts/models/churn_pipeline.joblib
+      - main.py
+      - src/features
+      - src/models
+    params:
+      - prediction.threshold
+    outs:
+      - reports/predictions/customer_predictions.csv:
+          cache: false
