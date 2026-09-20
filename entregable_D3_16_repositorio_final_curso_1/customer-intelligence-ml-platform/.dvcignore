@@ -1,4 +1,0 @@
-# Ignore notebook checkpoints and temporary outputs
-.ipynb_checkpoints/
-__pycache__/
-*.tmp
