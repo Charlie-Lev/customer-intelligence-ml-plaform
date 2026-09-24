@@ -8,7 +8,7 @@ model:
   class_weight: balanced
 
 prediction:
-  threshold: 0.50
+  threshold: 0.45
 
 paths:
   raw_data: data/raw/customer_churn.csv
