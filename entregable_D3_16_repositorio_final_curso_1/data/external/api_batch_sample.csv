@@ -1,0 +1,6 @@
+customer_id,age,tenure_months,monthly_fee,total_spent,support_calls,complaints,last_payment_delay,digital_usage_score,marketing_score,preferred_contact_hour,gender,region,customer_segment,contract_type,internet_service,tv_service,streaming_service,payment_method
+NT-000001,32,27,101.65,2467.19,0,0,3,80.4,91.0,15,Femenino,Sur,Masivo,Bianual,Fibra,No,Sí,Efectivo
+NT-000002,48,17,89.50,1455.20,2,1,8,59.2,62.0,10,Masculino,Lima,Masivo,Mensual,Fibra,Sí,No,Tarjeta
+NT-000003,24,3,128.90,330.10,5,2,18,35.0,30.0,20,Femenino,Norte,Joven,Mensual,Fibra,No,Sí,Efectivo
+NT-000004,55,8,112.30,810.40,4,2,14,42.0,45.0,18,Masculino,Centro,Masivo,Mensual,Cable,Sí,No,Transferencia
+NT-000005,39,12,95.70,1060.80,3,1,11,50.0,55.0,14,Femenino,Lima,Premium,Anual,Fibra,Sí,Sí,Tarjeta
