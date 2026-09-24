@@ -9,7 +9,10 @@ htmlcov/
 .idea/
 .DS_Store
 .env
+.dvc/cache/
+.dvc/tmp/
 artifacts/models/*.joblib
 reports/predictions/*.csv
+data/raw/customer_churn.csv
 data/processed/*
 !data/processed/.gitkeep
