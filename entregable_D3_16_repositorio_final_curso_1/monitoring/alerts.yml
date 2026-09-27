@@ -1,0 +1,35 @@
+
+groups:
+
+  - name: novatel_ml_monitoring
+
+    rules:
+
+      - alert: HighAveragePaymentDelay
+
+        expr: >
+
+          churn_input_payment_delay_days_sum
+
+          /
+
+          churn_input_payment_delay_days_count
+
+          > 15
+
+        for: 15s
+
+        labels:
+
+          severity: warning
+
+        annotations:
+
+          summary: "Possible data drift in payment delay"
+
+          description: >
+
+            Average last_payment_delay is above
+
+            the expected operational range.
+

@@ -7,6 +7,7 @@ from fastapi.responses import Response, StreamingResponse
 from prometheus_client import (
     CONTENT_TYPE_LATEST,
     Counter,
+    Gauge,
     Histogram,
     generate_latest,
 )
@@ -29,9 +30,43 @@ PREDICTIONS_TOTAL = Counter(
 
 PREDICTION_LATENCY = Histogram(
     "churn_prediction_latency_seconds",
-    "Tiempo de respuesta de las predicciones",
+    "Latency of individual churn predictions",
 )
 
+CHURN_PROBABILITY = Histogram(
+    "churn_probability",
+    "Distribution of predicted churn probability",
+    buckets=(0.1, 0.25, 0.5, 0.75, 0.9, 1.0),
+)
+
+INPUT_MONTHLY_FEE = Histogram(
+    "churn_input_monthly_fee",
+    "Distribution of monthly fee received by the model",
+    buckets=(40, 60, 80, 100, 120, 150, 200),
+)
+
+INPUT_SUPPORT_CALLS = Histogram(
+    "churn_input_support_calls",
+    "Distribution of support calls received by the model",
+    buckets=(0, 1, 2, 3, 5, 8, 12),
+)
+
+INPUT_PAYMENT_DELAY = Histogram(
+    "churn_input_payment_delay_days",
+    "Distribution of last payment delay received by the model",
+    buckets=(0, 3, 7, 15, 30, 60, 90),
+)
+
+INPUT_DIGITAL_USAGE = Histogram(
+    "churn_input_digital_usage_score",
+    "Distribution of digital usage score received by the model",
+    buckets=(1, 2, 4, 6, 8, 10),
+)
+
+LAST_CHURN_PROBABILITY = Gauge(
+    "churn_last_probability",
+    "Churn probability from the most recent prediction",
+)
 
 @app.get("/")
 def root():
@@ -64,6 +99,12 @@ def predict(customer: CustomerInput):
 
     try:
         dataframe = pd.DataFrame([customer.model_dump()])
+
+        INPUT_MONTHLY_FEE.observe(float(customer.monthly_fee))
+        INPUT_SUPPORT_CALLS.observe(float(customer.support_calls))
+        INPUT_PAYMENT_DELAY.observe(float(customer.last_payment_delay))
+        INPUT_DIGITAL_USAGE.observe(float(customer.digital_usage_score))
+
         result = predict_customers(
             model=get_model(),
             dataframe=dataframe,
@@ -72,7 +113,16 @@ def predict(customer: CustomerInput):
         row = result.iloc[0]
 
         PREDICTIONS_TOTAL.inc()
-        PREDICTION_LATENCY.observe(perf_counter() - start_time)
+
+        probability = float(
+            row["churn_probability"]
+        )
+        CHURN_PROBABILITY.observe(probability)
+        LAST_CHURN_PROBABILITY.set(probability)
+
+        PREDICTION_LATENCY.observe(
+            perf_counter() - start_time
+        )
 
         return PredictionResponse(
             customer_id=(
@@ -80,7 +130,7 @@ def predict(customer: CustomerInput):
                 if "customer_id" in result.columns
                 else None
             ),
-            churn_probability=float(row["churn_probability"]),
+            churn_probability=probability,
             churn_prediction=int(row["churn_prediction"]),
         )
     except Exception as exc:
@@ -104,6 +154,11 @@ async def predict_batch(file: UploadFile = File(...)):
 
         start_time = perf_counter()
 
+        INPUT_MONTHLY_FEE.observe(float(dataframe["monthly_fee"].mean()))
+        INPUT_SUPPORT_CALLS.observe(float(dataframe["support_calls"].mean()))
+        INPUT_PAYMENT_DELAY.observe(float(dataframe["last_payment_delay"].mean()))
+        INPUT_DIGITAL_USAGE.observe(float(dataframe["digital_usage_score"].mean()))
+
         result = predict_customers(
             model=get_model(),
             dataframe=dataframe,
@@ -112,6 +167,11 @@ async def predict_batch(file: UploadFile = File(...)):
 
         PREDICTIONS_TOTAL.inc(len(result))
         PREDICTION_LATENCY.observe(perf_counter() - start_time)
+
+        for probability in result["churn_probability"]:
+            probability = float(probability)
+            CHURN_PROBABILITY.observe(probability)
+            LAST_CHURN_PROBABILITY.set(probability)
 
         output = StringIO()
         result.to_csv(output, index=False)
